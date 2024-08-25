@@ -1,0 +1,69 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FAEL Taxiways\A:freetext
+Free Text:FAEL Taxiways\A1:freetext
+Free Text:FAEL Taxiways\A2:freetext
+Free Text:FAEL Taxiways\A3:freetext
+Free Text:FAEL Taxiways\A4:freetext
+Free Text:FAEL Taxiways\B:freetext
+Free Text:FAEL Taxiways\B1:freetext
+Free Text:FAEL Taxiways\C3:freetext
+Free Text:FAEL Taxiways\G:freetext
+Free Text:FAEL Terrain\3000:freetext
+Free Text:FAEL Terrain\4500:freetext
+Free Text:FAEL Terrain\4800:freetext
+Free Text:FAEL Terrain\5100:freetext
+Free Text:FAEL Terrain\6300:freetext
+Free Text:FAEL Terrain\7900:freetext
+Geo:FAEL Groundlayout:
+Runways:FAEL 06-24:extended centerline 1
+Runways:FAEL 06-24:extended centerline 1 left base
+Runways:FAEL 06-24:extended centerline 1 left ticks
+Runways:FAEL 06-24:extended centerline 1 left vectoring
+Runways:FAEL 06-24:extended centerline 1 right base
+Runways:FAEL 06-24:extended centerline 1 right ticks
+Runways:FAEL 06-24:extended centerline 1 right vectoring
+Runways:FAEL 06-24:extended centerline 2
+Runways:FAEL 06-24:extended centerline 2 left base
+Runways:FAEL 06-24:extended centerline 2 left ticks
+Runways:FAEL 06-24:extended centerline 2 left vectoring
+Runways:FAEL 06-24:extended centerline 2 right base
+Runways:FAEL 06-24:extended centerline 2 right ticks
+Runways:FAEL 06-24:extended centerline 2 right vectoring
+Runways:FAEL 11-29:extended centerline 1
+Runways:FAEL 11-29:extended centerline 1 left base
+Runways:FAEL 11-29:extended centerline 1 left ticks
+Runways:FAEL 11-29:extended centerline 1 left vectoring
+Runways:FAEL 11-29:extended centerline 1 right base
+Runways:FAEL 11-29:extended centerline 1 right ticks
+Runways:FAEL 11-29:extended centerline 1 right vectoring
+Runways:FAEL 11-29:extended centerline 2
+Runways:FAEL 11-29:extended centerline 2 left base
+Runways:FAEL 11-29:extended centerline 2 left ticks
+Runways:FAEL 11-29:extended centerline 2 left vectoring
+Runways:FAEL 11-29:extended centerline 2 right base
+Runways:FAEL 11-29:extended centerline 2 right ticks
+Runways:FAEL 11-29:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:8.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-33.043256:27.804367:-33.028074:27.836577
+PLUGIN:Ground Radar plugin:AirportElevation:435
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FAEL
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FAEL

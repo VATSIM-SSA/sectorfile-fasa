@@ -1,0 +1,91 @@
+AFRS_FSS:Africa South Control
+FABE_TWR:Bhisho Tower
+FABL_APP:Bloemfontein Approach
+FABL_TWR:Bloemfontein Tower
+FABW_I_TWR:Karoo Radio
+FACA_CTR:Cape Town Area
+FACA_E_CTR:Cape Town Area East
+FACT_APP:Cape Town Approach
+FACT_DEL:Cape Town Delivery
+FACT_F_APP:Cape Town Director
+FACT_GND:Cape Town Ground
+FACT_TWR:Cape Town Tower
+FACT_V_APP:Cape Town Radio
+FAEL_APP:East London Approach
+FAEL_TWR:East London Tower
+FAGC_TWR:Grand Central Tower
+FAGG_APP:George Approach
+FAGG_TWR:George Tower
+FAGM_TWR:Rand Tower
+FAHS_APP:Hoedspruit Approach
+FAHS_GND:Hoedspruit Ground
+FAHS_I_CTR:Lowveld Info
+FAHS_TWR:Hoedspruit Tower
+FAJA_CTR:Johannesburg Area North East
+FAJA_C_CTR:Johannesburg Area Central
+FAJA_E_CTR:Johannesburg Area East
+FAJA_NW_CTR:Johannesburg Area North West
+FAJA_SE_CTR:Johannesburg Area South East
+FAJA_SW_CTR:Johannesburg Area South West
+FAJA_W_CTR:Johannesburg Area West
+FAJO_FSS:Johannesburg Oceanic
+FAKM_APP:Kimberly Approach
+FAKM_A_GND:Kimberly Apron
+FAKM_TWR:Kimberly Tower
+FAKN_APP:Kruger Approach
+FAKN_I_APP:Kruger Radio
+FALA_GND:Lanseria Ground
+FALA_TWR:Lanseria Tower
+FALE_APP:Durban Approach
+FALE_GND:King Shaka Ground
+FALE_I_APP:Durban Radio
+FALE_TWR:King Shaka Tower
+FALM_APP:Makhado Approach
+FALM_GND:Makhado Ground
+FALM_TWR:Makhado Tower
+FALW_APP:Langebaan Approach
+FALW_GND:Langebaan Ground
+FALW_TWR:Langebaan Tower
+FAMM_TWR:Mafikeng Tower
+FAOB_APP:Overberg Approach
+FAOH_I_TWR:Oudshoorn Radio
+FAOR_APP:Johannesburg Radar
+FAOR_DEL:OR Tambo Clearance Delivery
+FAOR_E_TWR:OR Tambo Tower East
+FAOR_F_APP:Johannesburg Director
+FAOR_GND:OR Tambo Ground
+FAOR_TWR:OR Tambo Tower
+FAOR_V_APP:Johannesburg Radio
+FAOR_W_APP:Johannesburg WEST Radar
+FAPA_I_TWR:Port Alfred Radio
+FAPE_APP:Port Elizabeth Approach
+FAPE_DEL:Port Elizabeth Delivery
+FAPE_TWR:Port Elizabeth Tower
+FAPM_TWR:Pietermaritzburg Tower
+FAPN_TWR:Pilanesberg Tower
+FAPP_TWR:Polokwane
+FARB_TWR:Richards Bay Tower
+FASA_CTR:South Africa Control
+FASK_TWR:Swartkop Tower
+FASZ_I_TWR:Skukuza Radio
+FAUP_TWR:Upington Tower
+FAUT_TWR:Mthatha Tower
+FAVG_TWR:Virgina Tower
+FAWB_GND:Wonderboom Ground
+FAWB_TWR:Wonderboom Tower
+FAWK_GND:Waterkloof Ground
+FAWK_TWR:Waterkloof Tower
+FAYP_GND:Ysterplaat Ground
+FAYP_TWR:Ysterplaat Tower
+FBGR_CTR:Gaberone Center
+FBSK_APP:Gaborone Approach
+FDMS_GND:Manzini Ground
+FDMS_TWR:Manzini Tower
+FDSK_APP:Sikhuphe Approach
+FDSK_GND:Sikhuphe Ground
+FQBE_CTR:Beira Control
+FQMA_APP:Maputo Approach
+FVHF_CTR:Harare East Control
+FXMM_APP:Maseru Approach
+FXMM_TWR:Maseru Tower
+FYWH_CTR:Windhoek Radar

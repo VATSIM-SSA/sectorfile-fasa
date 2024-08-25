@@ -1,0 +1,105 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:FAEL:name
+Airports:FAEL:symbol
+Fixes:EGRAL:name
+Fixes:EGRAL:symbol
+Fixes:EL1M1:name
+Fixes:EL1M1:symbol
+Fixes:EL1M2:name
+Fixes:EL1M2:symbol
+Fixes:EL1MP:name
+Fixes:EL1MP:symbol
+Fixes:EL1T1:name
+Fixes:EL1T1:symbol
+Fixes:EL2F1:name
+Fixes:EL2F1:symbol
+Fixes:EL2M1:name
+Fixes:EL2M1:symbol
+Fixes:EL2M2:name
+Fixes:EL2M2:symbol
+Fixes:EL2MP:name
+Fixes:EL2MP:symbol
+Fixes:EL2T1:name
+Fixes:EL2T1:symbol
+Fixes:ETMOT:name
+Fixes:ETMOT:symbol
+Fixes:IBMON:name
+Fixes:IBMON:symbol
+Fixes:IMVAV:name
+Fixes:IMVAV:symbol
+Fixes:OKBUR:name
+Fixes:OKBUR:symbol
+Fixes:UTABU:name
+Fixes:UTABU:symbol
+Geo:FA Landmark Coast S:
+Geo:GEO:
+Runways:FAEL 06-24:centerline
+Runways:FAEL 06-24:extended centerline 1
+Runways:FAEL 06-24:extended centerline 1 left base
+Runways:FAEL 06-24:extended centerline 1 left ticks
+Runways:FAEL 06-24:extended centerline 1 left vectoring
+Runways:FAEL 06-24:extended centerline 1 right base
+Runways:FAEL 06-24:extended centerline 1 right ticks
+Runways:FAEL 06-24:extended centerline 1 right vectoring
+Runways:FAEL 06-24:extended centerline 2
+Runways:FAEL 06-24:extended centerline 2 left base
+Runways:FAEL 06-24:extended centerline 2 left ticks
+Runways:FAEL 06-24:extended centerline 2 left vectoring
+Runways:FAEL 06-24:extended centerline 2 right base
+Runways:FAEL 06-24:extended centerline 2 right ticks
+Runways:FAEL 06-24:extended centerline 2 right vectoring
+Runways:FAEL 06-24:name
+Runways:FAEL 11-29:centerline
+Runways:FAEL 11-29:extended centerline 1
+Runways:FAEL 11-29:extended centerline 1 left base
+Runways:FAEL 11-29:extended centerline 1 left ticks
+Runways:FAEL 11-29:extended centerline 1 left vectoring
+Runways:FAEL 11-29:extended centerline 1 right base
+Runways:FAEL 11-29:extended centerline 1 right ticks
+Runways:FAEL 11-29:extended centerline 1 right vectoring
+Runways:FAEL 11-29:extended centerline 2
+Runways:FAEL 11-29:extended centerline 2 left base
+Runways:FAEL 11-29:extended centerline 2 left ticks
+Runways:FAEL 11-29:extended centerline 2 left vectoring
+Runways:FAEL 11-29:extended centerline 2 right base
+Runways:FAEL 11-29:extended centerline 2 right ticks
+Runways:FAEL 11-29:extended centerline 2 right vectoring
+Runways:FAEL 11-29:name
+Stars:FAEL ILS11-Z:
+Stars:FAEL ILS11-Z ELV:
+Stars:FAEL ILS29:
+Stars:FAEL ILS29 ELV:
+Stars:FAEL RNAV11 ETMOT:
+Stars:FAEL RNAV11 IBMON:
+Stars:FAEL RNAV11 OBKUR:
+Stars:FAEL RNAV29:
+Stars:FAEL RNAV29 EGRAL:
+Stars:FAEL RNAV29 IMVAV:
+Stars:FAEL RNAV29 UTABU:
+Stars:FAEL VORDME11:
+Stars:FAEL VORDME11 ELV:
+Stars:FAEL VORDME29-Y:
+Stars:FAEL VORDME29-Y ELV:
+Stars:FAEL VORDME29-Z:
+Stars:FAEL VORDME29-Z ELV:
+VORs:ELV:frequency
+VORs:ELV:name
+VORs:ELV:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:21.00000
+TAGFAMILY:ATNS - TopSky
+WINDOWAREA:-37.437144:11.909950:-26.933687:34.001105

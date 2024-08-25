@@ -1,0 +1,54 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:FAKN:name
+Airports:FAKN:symbol
+Free Text:FAKN Stands & Taxiways\A:freetext
+Free Text:FAKN Stands & Taxiways\A1:freetext
+Free Text:FAKN Stands & Taxiways\A2:freetext
+Free Text:FAKN Stands & Taxiways\A3:freetext
+Free Text:FAKN Stands & Taxiways\A4:freetext
+Free Text:FAKN Stands & Taxiways\Helistop:freetext
+Geo:FA Landmark National Roads:
+Geo:FAKN Groundlayout (New):
+Geo:FASA FIR border RSA:
+Geo:FASA FIR border Swaziland:
+NDBs:PK:frequency
+NDBs:PK:name
+NDBs:PK:symbol
+Regions:FAKN Ground Layout:polygon
+Runways:FAKN 05-23:centerline
+Runways:FAKN 05-23:extended centerline 1
+Runways:FAKN 05-23:extended centerline 1 left base
+Runways:FAKN 05-23:extended centerline 1 left ticks
+Runways:FAKN 05-23:extended centerline 1 left vectoring
+Runways:FAKN 05-23:extended centerline 1 right base
+Runways:FAKN 05-23:extended centerline 1 right ticks
+Runways:FAKN 05-23:extended centerline 1 right vectoring
+Runways:FAKN 05-23:extended centerline 2
+Runways:FAKN 05-23:extended centerline 2 left base
+Runways:FAKN 05-23:extended centerline 2 left ticks
+Runways:FAKN 05-23:extended centerline 2 left vectoring
+Runways:FAKN 05-23:extended centerline 2 right base
+Runways:FAKN 05-23:extended centerline 2 right ticks
+Runways:FAKN 05-23:extended centerline 2 right vectoring
+Runways:FAKN 05-23:name
+VORs:PKV:frequency
+VORs:PKV:name
+VORs:PKV:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:ATNS - TopSky
+WINDOWAREA:-25.387570:31.096154:-25.382901:31.106123

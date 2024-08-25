@@ -1,0 +1,63 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FAGG Apron\A1:freetext
+Free Text:FAGG Apron\A2:freetext
+Free Text:FAGG Apron\A3:freetext
+Free Text:FAGG Apron\A4:freetext
+Free Text:FAGG Apron\A5:freetext
+Free Text:FAGG Apron\A6:freetext
+Free Text:FAGG Taxiways\A:freetext
+Free Text:FAGG Taxiways\A:freetext
+Free Text:FAGG Taxiways\A1:freetext
+Free Text:FAGG Taxiways\A2:freetext
+Free Text:FAGG Taxiways\A3:freetext
+Free Text:FAGG Taxiways\Apron:freetext
+Free Text:FAGG Taxiways\B:freetext
+Free Text:FAGG Taxiways\C:freetext
+Free Text:FAGG Taxiways\Fire Station:freetext
+Free Text:FAGG Terrain\2000:freetext
+Free Text:FAGG Terrain\3500:freetext
+Free Text:FAGG Terrain\5500:freetext
+Free Text:FAGG Terrain\6500:freetext
+Free Text:FAGG Terrain\7500:freetext
+Free Text:FAGG Terrain\FL85:freetext
+Free Text:FAGG Terrain\FL85:freetext
+Geo:FAGG Groundlayout:
+Regions:FAGG Ground Layout:polygon
+Runways:FAGG 11-29:extended centerline 1
+Runways:FAGG 11-29:extended centerline 1 left base
+Runways:FAGG 11-29:extended centerline 1 left ticks
+Runways:FAGG 11-29:extended centerline 1 left vectoring
+Runways:FAGG 11-29:extended centerline 1 right base
+Runways:FAGG 11-29:extended centerline 1 right ticks
+Runways:FAGG 11-29:extended centerline 1 right vectoring
+Runways:FAGG 11-29:extended centerline 2
+Runways:FAGG 11-29:extended centerline 2 left base
+Runways:FAGG 11-29:extended centerline 2 left ticks
+Runways:FAGG 11-29:extended centerline 2 left vectoring
+Runways:FAGG 11-29:extended centerline 2 right base
+Runways:FAGG 11-29:extended centerline 2 right ticks
+Runways:FAGG 11-29:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:2.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-34.008481:22.365832:-33.996459:22.390527
+PLUGIN:Ground Radar plugin:AirportElevation:648
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FAGG
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FAGG

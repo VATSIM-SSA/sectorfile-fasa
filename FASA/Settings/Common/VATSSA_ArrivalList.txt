@@ -1,0 +1,22 @@
+ARR
+m_Visible:1
+m_X:1
+m_Y:421
+m_LineNumber:10
+m_Resizable:1
+m_OrderingColumn:12
+m_HeaderOnly:0
+m_Column:ASQ:4:1:10026:27:0:1:TopSky plugin:TopSky plugin::0:0.0
+m_Column:RT:2:1:58:32:32:1:TopSky plugin:::4:0.0
+m_Column:C/S:10:1:10021:6:100:1:TopSky plugin:TopSky plugin:TopSky plugin:0:0.0
+m_Column:AC/W:7:1:70:99:4:1:TopSky plugin:TopSky plugin:TopSky plugin:0:0.0
+m_Column:ADES:5:1:10008:0:0:0:TopSky plugin:::0:0.0
+m_Column:RWY:5:1:10010:19:19:1:TopSky plugin:::0:0.0
+m_Column:ETA:6:1:10033:0:0:1:TopSky plugin:::0:0.0
+m_Column:STND:4:1:2:1:1:1:Ground Radar plugin:Ground Radar plugin:Ground Radar plugin:0:0.0
+m_Column:CTL:4:1:640:650:650:1:VCH:VCH:VCH:0:0.0
+m_Column:RMK:12:1:38:2:2:1:TopSky plugin:TopSky plugin:TopSky plugin:0:0.0
+m_Column:AIRLINE:12:1:132:0:0:0:EasyTag:::0:0.0
+m_Column:GS:4:1:152:0:0:0:EasyTag:::0:0.0
+m_Column:TK NM:5:1:170:0:0:1:EasyTag:::0:0.0
+END

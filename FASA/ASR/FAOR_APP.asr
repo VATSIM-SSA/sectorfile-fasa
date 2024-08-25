@@ -1,0 +1,281 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:FABB:name
+Airports:FABB:symbol
+Airports:FAGC:name
+Airports:FAGC:symbol
+Airports:FAGM:name
+Airports:FAGM:symbol
+Airports:FALA:name
+Airports:FALA:symbol
+Airports:FAOR:name
+Airports:FAOR:symbol
+Airports:FARA:name
+Airports:FARA:symbol
+Airports:FAWB:name
+Airports:FAWB:symbol
+Airports:FAWK:name
+Airports:FAWK:symbol
+ARTCC boundary:FAOR-TMA:
+ARTCC low boundary:FALA-CTR:
+ARTCC low boundary:FAOR-CTR:
+ARTCC low boundary:FAWB-CTR:
+ARTCC low boundary:FAWK-CTR:
+Fixes:APDAK:name
+Fixes:APDAK:symbol
+Fixes:AVAGO:name
+Fixes:AVAGO:symbol
+Fixes:AVILO:name
+Fixes:AVILO:symbol
+Fixes:EGMEN:name
+Fixes:EGMEN:symbol
+Fixes:ETGAV:name
+Fixes:ETGAV:symbol
+Fixes:ETLIG:name
+Fixes:ETLIG:symbol
+Fixes:EXOBI:name
+Fixes:EXOBI:symbol
+Fixes:GEROX:name
+Fixes:GEROX:symbol
+Fixes:JS002:name
+Fixes:JS002:symbol
+Fixes:JS004:name
+Fixes:JS004:symbol
+Fixes:JS006:name
+Fixes:JS006:symbol
+Fixes:JS007:name
+Fixes:JS007:symbol
+Fixes:JS008:name
+Fixes:JS008:symbol
+Fixes:JS012:name
+Fixes:JS012:symbol
+Fixes:JS013:name
+Fixes:JS013:symbol
+Fixes:JS014:name
+Fixes:JS014:symbol
+Fixes:JS015:name
+Fixes:JS015:symbol
+Fixes:JS017:name
+Fixes:JS017:symbol
+Fixes:JS018:name
+Fixes:JS018:symbol
+Fixes:JS023:name
+Fixes:JS023:symbol
+Fixes:JS025:name
+Fixes:JS025:symbol
+Fixes:JS028:name
+Fixes:JS028:symbol
+Fixes:JS029:name
+Fixes:JS029:symbol
+Fixes:JS030:name
+Fixes:JS030:symbol
+Fixes:JS031:name
+Fixes:JS031:symbol
+Fixes:JS032:name
+Fixes:JS032:symbol
+Fixes:JS033:name
+Fixes:JS033:symbol
+Fixes:JS034:name
+Fixes:JS034:symbol
+Fixes:JS035:name
+Fixes:JS035:symbol
+Fixes:JS036:name
+Fixes:JS036:symbol
+Fixes:JS037:name
+Fixes:JS037:symbol
+Fixes:JS2T1:name
+Fixes:JS2T1:symbol
+Fixes:NESAN:name
+Fixes:NESAN:symbol
+Fixes:NIBEX:name
+Fixes:NIBEX:symbol
+Fixes:NIGOS:name
+Fixes:NIGOS:symbol
+Fixes:OKPIT:name
+Fixes:OKPIT:symbol
+Fixes:OVALA:name
+Fixes:OVALA:symbol
+Fixes:RAGUL:name
+Fixes:RAGUL:symbol
+Fixes:SUPON:name
+Fixes:SUPON:symbol
+Fixes:UVLOG:name
+Fixes:UVLOG:symbol
+Fixes:VASUR:name
+Fixes:VASUR:symbol
+Fixes:VEKOP:name
+Fixes:VEKOP:symbol
+Free Text:FAOR VRP\CocaCola Dome:freetext
+Free Text:FAOR VRP\Corrobrick:freetext
+Free Text:FAOR VRP\Ellispark:freetext
+Free Text:FAOR VRP\FNB Towers:freetext
+Free Text:FAOR VRP\Kyalami:freetext
+Free Text:FAOR VRP\Monte Casino:freetext
+Free Text:FAOR VRP\Pinedene Railway Station:freetext
+Free Text:FAOR VRP\PPC:freetext
+Free Text:FAOR VRP\Rietvlei dam:freetext
+Free Text:FAOR VRP\Sandton City:freetext
+Free Text:FAOR VRP\Shell Ultracity:freetext
+Free Text:FAOR VRP\Silver Ball:freetext
+Free Text:FAWB VRP\Bon_Accord:freetext
+Free Text:FAWB VRP\Magaliesberg:freetext
+Free Text:FAWB VRP\Petroport:freetext
+Free Text:FAWB VRP\Roodelplaat Dam:freetext
+Free Text:FAWB VRP\Rosslyn:freetext
+Geo:GEO:
+Runways:FAOR 03L-21R:centerline
+Runways:FAOR 03L-21R:extended centerline 1
+Runways:FAOR 03L-21R:extended centerline 1 left base
+Runways:FAOR 03L-21R:extended centerline 1 left ticks
+Runways:FAOR 03L-21R:extended centerline 1 left vectoring
+Runways:FAOR 03L-21R:extended centerline 1 right base
+Runways:FAOR 03L-21R:extended centerline 1 right ticks
+Runways:FAOR 03L-21R:extended centerline 1 right vectoring
+Runways:FAOR 03L-21R:extended centerline 2
+Runways:FAOR 03L-21R:extended centerline 2 left base
+Runways:FAOR 03L-21R:extended centerline 2 left ticks
+Runways:FAOR 03L-21R:extended centerline 2 left vectoring
+Runways:FAOR 03L-21R:extended centerline 2 right base
+Runways:FAOR 03L-21R:extended centerline 2 right ticks
+Runways:FAOR 03L-21R:extended centerline 2 right vectoring
+Runways:FAOR 03R-21L:centerline
+Runways:FAOR 03R-21L:extended centerline 1
+Runways:FAOR 03R-21L:extended centerline 1 left base
+Runways:FAOR 03R-21L:extended centerline 1 left ticks
+Runways:FAOR 03R-21L:extended centerline 1 left vectoring
+Runways:FAOR 03R-21L:extended centerline 1 right base
+Runways:FAOR 03R-21L:extended centerline 1 right ticks
+Runways:FAOR 03R-21L:extended centerline 1 right vectoring
+Runways:FAOR 03R-21L:extended centerline 2
+Runways:FAOR 03R-21L:extended centerline 2 left base
+Runways:FAOR 03R-21L:extended centerline 2 left ticks
+Runways:FAOR 03R-21L:extended centerline 2 left vectoring
+Runways:FAOR 03R-21L:extended centerline 2 right base
+Runways:FAOR 03R-21L:extended centerline 2 right ticks
+Runways:FAOR 03R-21L:extended centerline 2 right vectoring
+Sids:FAOR SID 03L APDAK1B:
+Sids:FAOR SID 03L APDAK3A:
+Sids:FAOR SID 03L EGMEN1C:
+Sids:FAOR SID 03L EGMEN2A:
+Sids:FAOR SID 03L EXOBI1A:
+Sids:FAOR SID 03L GAV5B:
+Sids:FAOR SID 03L NESAN1A:
+Sids:FAOR SID 03L NORV2A:
+Sids:FAOR SID 03L OVALA1A:
+Sids:FAOR SID 03L RAGUL3A:
+Sids:FAOR SID 03L VASUR3A:
+Sids:FAOR SID 03R EXOBI1A:
+Sids:FAOR SID 03R GAV5B:
+Sids:FAOR SID 03R NESAN1A:
+Sids:FAOR SID 03R NORV2A:
+Sids:FAOR SID 03R OVALA1A:
+Sids:FAOR SID 03R RAGUL3A:
+Sids:FAOR SID 03R VASUR3A:
+Sids:FAOR SID 21L EXOBI3B:
+Sids:FAOR SID 21L HGV5D:
+Sids:FAOR SID 21L OVALA1B:
+Sids:FAOR SID 21L RAGUL3B:
+Sids:FAOR SID 21L VASUR3B:
+Sids:FAOR SID 21R APDAK1D:
+Sids:FAOR SID 21R APDAK2B:
+Sids:FAOR SID 21R EGMEN1D:
+Sids:FAOR SID 21R EGMEN2B:
+Sids:FAOR SID 21R EXOBI3B:
+Sids:FAOR SID 21R GAV6C:
+Sids:FAOR SID 21R GEROX1C:
+Sids:FAOR SID 21R HGV5D:
+Sids:FAOR SID 21R LIV1C:
+Sids:FAOR SID 21R OVALA1B:
+Sids:FAOR SID 21R RAGUL3B:
+Sids:FAOR SID 21R VASUR3B:
+Stars:FAOR ILS03LY:
+Stars:FAOR ILS03LZ:
+Stars:FAOR ILS03LZ JSV:
+Stars:FAOR ILS03RW:
+Stars:FAOR ILS03RX:
+Stars:FAOR ILS03RZ:
+Stars:FAOR ILS03RZ JSV:
+Stars:FAOR ILS21LX:
+Stars:FAOR ILS21LZ:
+Stars:FAOR ILS21LZ JSV:
+Stars:FAOR ILS21R:
+Stars:FAOR RNAV03R:
+Stars:FAOR RNAV03R ETLIG:
+Stars:FAOR RNAV03R SUPON:
+Stars:FAOR RNAV03R VEKOP:
+Stars:FAOR RNAV21L:
+Stars:FAOR RNAV21L ETGAV:
+Stars:FAOR RNAV21L NIGOS:
+Stars:FAOR RNAV21L UVLOG:
+Stars:FAOR STAR 03L AVAGO1C:
+Stars:FAOR STAR 03L AVAGO2A:
+Stars:FAOR STAR 03L AVILO1A:
+Stars:FAOR STAR 03L AVILO1B:
+Stars:FAOR STAR 03L NIBE2A:
+Stars:FAOR STAR 03L NIBEX1B:
+Stars:FAOR STAR 03L OKPIT4A:
+Stars:FAOR STAR 03L STV1C:
+Stars:FAOR STAR 03L STV6A:
+Stars:FAOR STAR 03L WIV4A:
+Stars:FAOR STAR 03R AVAGO1C:
+Stars:FAOR STAR 03R AVAGO2A:
+Stars:FAOR STAR 03R AVILO1A:
+Stars:FAOR STAR 03R AVILO1B:
+Stars:FAOR STAR 03R NIBE2A:
+Stars:FAOR STAR 03R NIBEX1B:
+Stars:FAOR STAR 03R OKPIT4A:
+Stars:FAOR STAR 03R STV1C:
+Stars:FAOR STAR 03R STV6A:
+Stars:FAOR STAR 03R WIV4A:
+Stars:FAOR STAR 21L AVAGO1D:
+Stars:FAOR STAR 21L AVAGO2B:
+Stars:FAOR STAR 21L NIBEX1D:
+Stars:FAOR STAR 21L NIBEX2C:
+Stars:FAOR STAR 21L OKPIT4B:
+Stars:FAOR STAR 21L STV1D:
+Stars:FAOR STAR 21L STV5B:
+Stars:FAOR STAR 21L WIV3C:
+Stars:FAOR STAR 21R AVAGO1D:
+Stars:FAOR STAR 21R AVAGO2B:
+Stars:FAOR STAR 21R NIBEX1D:
+Stars:FAOR STAR 21R NIBEX2C:
+Stars:FAOR STAR 21R OKPIT4B:
+Stars:FAOR STAR 21R STV1D:
+Stars:FAOR STAR 21R STV5B:
+Stars:FAOR STAR 21R WIV3C:
+Stars:FAOR STAR ALL NIBEX2A:
+Stars:FAOR VORDME21RY:
+Stars:FAOR VORDME21RZ:
+Stars:FAOR VORDME21RZ JSV:
+VORs:CZV:frequency
+VORs:CZV:name
+VORs:CZV:symbol
+VORs:GAV:frequency
+VORs:GAV:name
+VORs:GAV:symbol
+VORs:JSV:frequency
+VORs:JSV:name
+VORs:JSV:symbol
+VORs:STV:frequency
+VORs:STV:name
+VORs:STV:symbol
+VORs:WIV:frequency
+VORs:WIV:name
+VORs:WIV:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:-8
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:21.00000
+TAGFAMILY:ATNS - TopSky
+WINDOWAREA:-27.423543:26.270684:-25.169743:31.010937

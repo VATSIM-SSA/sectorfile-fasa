@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<initialClimb>
+	<apt icao="FACT">
+		<runway name="01">
+			<sid name="TETAN">
+				<alt>090</alt>
+			</sid>
+			<sid name="KODES">
+				<alt>090</alt>
+			</sid>
+			<sid name="IMSOM">
+				<alt>090</alt>
+			</sid>
+			<sid name="OKTED">
+				<alt>090</alt>
+			</sid>
+			<sid name="CTV">
+				<alt>090</alt>
+			</sid>
+		</runway>
+		<runway name="19">
+			<sid name="TETAN">
+				<alt>090</alt>
+			</sid>
+			<sid name="KODES">
+				<alt>090</alt>
+			</sid>
+			<sid name="IMSOM">
+				<alt>090</alt>
+			</sid>
+			<sid name="OKTED">
+				<alt>090</alt>
+			</sid>
+			<sid name="CTV">
+				<alt>090</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="FAOR">
+		<runway name="03L">
+			<sid name="APDAK">
+				<alt>090</alt>
+			</sid>
+			<sid name="EGMEN">
+				<alt>090</alt>
+			</sid>
+			<sid name="EGMEN1C">
+				<alt>090</alt>
+			</sid>
+			<sid name="EXOBI">
+				<alt>090</alt>
+			</sid>
+			<sid name="GAV">
+				<alt>080</alt>
+			</sid>
+			<sid name="NESAN">
+				<alt>080</alt>
+			</sid>
+			<sid name="RAGUL">
+				<alt>080</alt>
+			</sid>
+			<sid name="VASUR">
+				<alt>080</alt>
+			</sid>
+			<sid name="LIV">
+				<alt>080</alt>
+			</sid>
+		</runway>
+		<runway name="21R">
+			<sid name="APDAK">
+				<alt>080</alt>
+			</sid>
+			<sid name="EGMEN1D">
+				<alt>090</alt>
+			</sid>
+			<sid name="EGMEN2B">
+				<alt>080</alt>
+			</sid>
+			<sid name="GAV">
+				<alt>080</alt>
+			</sid>
+			<sid name="GEROX">
+				<alt>080</alt>
+			</sid>
+			<sid name="HGV">
+				<alt>080</alt>
+			</sid>
+			<sid name="LIV1C">
+				<alt>080</alt>
+			</sid>
+			<sid name="OVALA">
+				<alt>080</alt>
+			</sid>
+			<sid name="RAGUL">
+				<alt>080</alt>
+			</sid>
+			<sid name="VASUR">
+				<alt>080</alt>
+			</sid>
+			<sid name="">
+				<alt>080</alt>
+			</sid>
+			<sid name="NESAN">
+				<alt>080</alt>
+			</sid>
+		</runway>
+	</apt>
+	<apt icao="FALA">
+		<runway name="07">
+			<sid name="JSV">
+				<alt>080</alt>
+			</sid>
+			<sid name="RAGUL">
+				<alt>080</alt>
+			</sid>
+			<sid name="XAGEN">
+				<alt>080</alt>
+			</sid>
+		</runway>
+		<runway name="25">
+			<sid name="JSV">
+				<alt>080</alt>
+			</sid>
+			<sid name="RAGUL">
+				<alt>080</alt>
+			</sid>
+			<sid name="XAGEN">
+				<alt>080</alt>
+			</sid>
+		</runway>
+	</apt>
+	<apt icao="FAKM">
+		<runway name="02">
+			<sid name="OKPAG">
+				<alt>150</alt>
+			</sid>
+			<sid name="UNRAG">
+				<alt>200</alt>
+			</sid>
+		</runway>
+		<runway name="20">
+			<sid name="OKPAG">
+				<alt>150</alt>
+			</sid>
+			<sid name="UNRAG">
+				<alt>200</alt>
+			</sid>
+		</runway>
+	</apt>
+	<apt icao="FABL">
+		<runway name="02">
+			<sid name="OKTIG">
+				<alt>140</alt>
+			</sid>
+			<sid name="BLV">
+				<alt>140</alt>
+			</sid>
+		</runway>
+		<runway name="20">
+			<sid name="OKTIG">
+				<alt>140</alt>
+			</sid>
+			<sid name="BLV">
+				<alt>140</alt>
+			</sid>
+		</runway>
+	</apt>
+	<apt icao="FAGG">
+		<runway name="11">
+			<sid name="KATOR">
+				<alt>090</alt>
+			</sid>
+			<sid name="GABGO">
+				<alt>090</alt>
+			</sid>
+			<sid name="ETBUL">
+				<alt>090</alt>
+			</sid>
+			<sid name="GRV">
+				<alt>090</alt>
+			</sid>
+		</runway>
+		<runway name="29">
+			<sid name="KATOR">
+				<alt>090</alt>
+			</sid>
+			<sid name="GABGO">
+				<alt>090</alt>
+			</sid>
+			<sid name="ETBUL">
+				<alt>090</alt>
+			</sid>
+			<sid name="GRV">
+				<alt>090</alt>
+			</sid>
+		</runway>
+	</apt>
+	<apt icao="FAPE">
+		<runway name="08">
+			<sid name="OKRAV">
+				<alt>090</alt>
+			</sid>
+			<sid name="ITKIT">
+				<alt>090</alt>
+			</sid>
+			<sid name="PEV">
+				<alt>090</alt>
+			</sid>
+		</runway>
+		<runway name="26">
+			<sid name="OKRAV">
+				<alt>090</alt>
+			</sid>
+			<sid name="ITKIT">
+				<alt>090</alt>
+			</sid>
+			<sid name="PEV">
+				<alt>090</alt>
+			</sid>
+		</runway>
+	</apt>
+	<apt icao="FALE">
+		<runway name="06">
+			<sid name="GYV">
+				<alt>070</alt>
+			</sid>
+			<sid name="ITMIL">
+				<alt>070</alt>
+			</sid>
+			<sid name="OKTAN">
+				<alt>070</alt>
+			</sid>
+			<sid name="TUBIN">
+				<alt>070</alt>
+			</sid>
+		</runway>
+		<runway name="24">
+			<sid name="GYV">
+				<alt>070</alt>
+			</sid>
+			<sid name="ITMIL">
+				<alt>070</alt>
+			</sid>
+			<sid name="OKTAN">
+				<alt>070</alt>
+			</sid>
+			<sid name="TUBIN">
+				<alt>070</alt>
+			</sid>
+		</runway>
+	</apt>
+</initialClimb>

@@ -1,0 +1,15 @@
+# File Type Exclusions
+*.prf
+*.ese
+*.sct
+*.rwy
+*.pdf
+
+# Folder Exclusions
+FASA/Alias/*
+FASA/NavData/*
+FASA/ICAO/*
+FASA/Sounds/*
+
+# File Exclusions
+*aeronav_copyright.txt

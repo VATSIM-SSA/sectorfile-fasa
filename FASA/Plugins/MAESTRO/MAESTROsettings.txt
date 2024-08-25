@@ -1,0 +1,8 @@
+System_Version=1
+System_AutoHideCOTSwindow=1
+System_RateDisplayType=1
+Label_Highlight_Type=1
+
+[FAOR]
+AIRPORT:FAOR
+FEEDER:STV:STV:FAOR:JS017,ETLIG,JS025,ETGAV

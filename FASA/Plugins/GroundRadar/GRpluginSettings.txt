@@ -1,0 +1,364 @@
+// ##################################################################
+//                 VATSSA | FIR FASA | GroundRadar | Settings
+// ##################################################################
+
+// GroundRadar Version 1.5 Stable
+
+// Version v0.5
+// Update Date 30/06/2022
+
+
+// ##################################################################
+//                 #1 SYSTEM SETTINGS v0.3
+// ##################################################################
+
+Equip_ModeS=WZLCISG
+Equip_ProMode=
+RawVideo=1
+RawVideo_MaxHistory=5
+
+System_GroundMode_AltFilter_AAL=10000
+System_UseReportedGS=1
+System_RwyArea=45.0 
+System_RwyBufferArea=90.0 
+System_RwyArea_LVP=90.0
+System_RwyBufferArea_LVP=140.0
+
+System_State_OnFreq=ON FREQ
+System_State_DeIce=STBY
+System_State_StartUp=START UP
+System_State_Push=PUSH
+System_State_Taxi=TAXI
+System_State_Taxi_In=TAXI
+System_State_Taxi_Out=TAXI
+System_State_LineUp=LINE UP
+System_State_Depa=TAKE OFF
+System_State_Parked=PARKED
+
+System_TagColor=2
+
+
+// ##################################################################
+//                 #2 COLORS v0.3
+// ##################################################################
+
+Color_Arrival=253,189,166
+Color_Background=160,160,160
+Color_Departure=210,236,166
+Color_RawVideo=175,190,200
+Color_RawVideoHistory=175,190,200
+Color_SelectedLabelFill_App=200,200,200
+Color_SelectedLabelFill_Gnd=200,200,200
+Color_Unknown=0,0,0
+Color_WBackground=170,170,170
+Color_WBorder=250,250,250
+Color_WForeground2=170,170,170
+Color_WForeground=65,65,65
+Color_WTitleBar=250,250,250
+
+AppLabel_Font=EuroScope
+AppLabel_Transparency_Bg=255
+
+
+// ##################################################################
+//                 #3 LABELS v0.4
+// ##################################################################
+
+GroundLabel=1
+GroundLabel_Font=EuroScope
+GroundLabel_FontStyle=1000,0,0,0
+GroundLabel_FontSize=11
+GroundLabel_Transparency_Bg=100
+GroundLabel_Filter_NoState=1
+TowerLabel_FontSize=11
+AppLabel_FontSize=11
+
+Label=GND:ARR:0:ALRT,0,0:COMM,0,1 
+Label=GND:ARR:1:CALLSIGN,0,0:STAND,0,1 
+Label=GND:ARR:2:ATYP,0,0:WTC,0,1,0
+Label=GND:ARR:3:RMK,0,1 
+
+Label=GND:DEP:0:ALRT,0,0:ASSR_E,0,1:COMM,0,1 
+Label=GND:DEP:1:CALLSIGN,0,0:DRWY,0,1,1 
+Label=GND:DEP:2:ATYP,0,0:WTC,0,1,0
+Label=GND:DEP:3:DEP,0,0:GS,2,1,0:RMK,0,1 
+
+Label=TWR:ARR:0:ALRT,0,0:COMM,0,1 
+Label=TWR:ARR:1:CALLSIGN,0,0:ARWY,0,1 
+Label=TWR:ARR:2:AFL+VS,0,1,20:GS,0,1
+Label=TWR:ARR:3:ATYP,0,0:RMK,0,1 
+
+Label=TWR:DEP:0:ALRT,0,0:COMM,0,1 
+Label=TWR:DEP:1:CALLSIGN,0,0:ATYP,0,1
+Label=TWR:DEP:2:AFL+VS,0,1,20:GS,0,1
+Label=TWR:DEP:3:DEP,0,0:RMK,0,1
+
+Label=APP:ARR:0:ALRT,0,0:COMM,0,1
+Label=APP:ARR:1:CALLSIGN,0,0
+Label=APP:ARR:2:AFL+VS,0,1,20
+
+Label=APP:DEP:0:ALRT,0,0:COMM,0,1
+Label=APP:DEP:1:CALLSIGN,0,0
+Label=APP:DEP:2:AFL+VS,0,1,20
+
+Label_AFL+VS=1,1,1,1
+Label_ARWY=0,0,0
+Label_ATYP=0,0,0
+Label_DEP=0,1,0
+Label_DRWY=0,1,0
+Label_RMK=0,1,1
+Label_STAND=0,1,0
+Label_GS=0,1,1,0
+
+
+// ##################################################################
+//                 #6A LISTS | DEPARTURE v0.1
+// ##################################################################
+
+List_Departure=0,1100,45
+List_Departure_RWY=1
+List_Departure_TYPE=1
+List_Departure_WTC=1
+List_Departure_EOBT=1
+List_Departure_STAND=1
+List_Departure_Items=10
+
+
+
+// ##################################################################
+//                 #6B LISTS | ARRIVALS v0.1
+// ##################################################################
+
+List_Arrival=0,1390,45
+List_Arrival_RWY=1
+List_Arrival_TYPE=1
+List_Arrival_WTC=1
+List_Arrival_ETA=1
+List_Arrival_STAND=1
+List_Arrival_Items=10
+List_Arrival_MaxTime=60
+
+List_Inbound_TYPE=0
+List_Inbound_WTC=0
+List_Inbound_ETA=1
+List_Inbound_STAND=0
+
+
+// ##################################################################
+//                 #6C LISTS | STANDS v0.1
+// ##################################################################
+
+List_Stand=0,1680,45
+List_Stand_Items=20
+
+
+// ##################################################################
+//                 #7A TIMERS | DEPARTURE v0.1
+// ##################################################################
+
+List_Outbound_DefPos=1100,150
+List_Outbound_TYPE=1
+List_Outbound_WTC=1
+List_Outbound_WTC_Type=2
+List_Outbound_SID=1
+List_Outbound_ExpiryTime=600
+
+
+// ##################################################################
+//                 #7B TIMERS | TTT v0.1
+// ##################################################################
+
+List_Inbound_DefPos=1100,150
+List_Inbound_DTT=0
+List_Inbound_TYPE=1
+List_Inbound_WTC=1
+List_Inbound_WTC_Type=2
+List_Inbound_ETA=1
+List_Inbound_STAND=1
+
+
+// ##################################################################
+//                 #8 OTHERS v0.1
+// ##################################################################
+
+Track_PredictionLine_TWR=1
+Window_APP_Extensions=1
+
+System_GroundMode_AltFilter_AAL=24000
+System_UseReportedGS=0
+System_RwyArea=45.0 
+System_RwyBufferArea=90.0 
+System_RwyArea_LVP=90.0
+System_RwyBufferArea_LVP=140.0
+
+Track_PredictionLine_APP=2
+Track_HistoryDots_APP=5
+Track_HistoryDots_GND=0
+Track_HistoryDots_TWR_Type=1
+Track_Heading_Line=0
+
+
+// ##################################################################
+//                 #9 AIRPORT SETTINGS v0.1
+// ##################################################################
+
+// ##################################################################
+//                 FA SOUTH AFRICA
+// ##################################################################
+
+[FABL]
+Airport_Elevation=4457
+Airport_Radius=3
+
+Window_APP=1,1250,150,500,250
+Window_APP_Rotation=90
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=9457
+
+[FACT]
+Airport_Elevation=160
+Airport_Radius=3
+
+Window_APP=1,1250,150,500,250
+Window_APP_Rotation=285
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=5160
+
+AppPath=FACT:FACT 01:S033.59.15.860:E018.36.32.011:009:L:144:3.0
+AppPath=FACT:FACT 19:S033.57.35.431:E018.36.00.179:189:R:143:3.0
+
+[FAEL]
+Airport_Elevation=435
+Airport_Radius=3
+
+Window_APP=1,1250,150,500,250
+Window_APP_Rotation=8
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=5435
+
+[FAGG]
+Airport_Elevation=648
+Airport_Radius=3
+
+Window_APP=1,1250,150,500,250
+Window_APP_Rotation=2
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=5648
+
+[FALA]
+Airport_Elevation=4521
+Airport_Radius=3
+
+Window_APP=1,1250,150,500,250
+Window_APP_Rotation=43
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=9521
+
+[FALE]
+Airport_Elevation=310
+Airport_Radius=3
+
+Window_APP=1,1250,300,600,300
+Window_APP_Rotation=52.5
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=5310
+
+AppPath=FALE:FALE 06:S029.37.30.190:E031.06.27.889:062:R:287:3.0
+AppPath=FALE:FALE 24:S029.35.54.560:E031.07.51.160:242:L:301:3.0
+
+[FAKM]
+Airport_Elevation=3950
+Airport_Radius=3
+
+Window_APP=1,1250,150,500,250
+Window_APP_Rotation=60
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=8950
+
+[FAKN]
+Airport_Elevation=2829
+Airport_Radius=3
+
+Window_APP=1,1250,150,500,250
+Window_APP_Rotation=54
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=7829
+
+[FAOR]
+Airport_Elevation=5580
+Airport_Radius=3
+
+Window_APP=1,1700,900,750,500
+Window_APP_Rotation=75
+Window_APP_Scale=17
+Window_APP_Extensions=20
+Window_APP_AltFilter=10580
+
+Window_APW_MaxDist=10
+
+AppPath=FAOR:FAOR 03L:S026.08.47.108:E028.14.03.631:034:R:5558:3.0
+AppPath=FAOR:FAOR 03R:S026.09.53.168:E028.14.53.221:034:R:5510:3.0
+AppPath=FAOR:FAOR 21L:S026.08.06.640:E028.15.26.200:214:L:5494:3.0
+AppPath=FAOR:FAOR 21R:S026.06.42.861:E028.14.42.089:214:L:5505:3.0
+
+List_Inbound=*,2
+Airport_SMR_Raw=1
+Airport_SMR_Track=1
+Airport_ModeA=2
+Airport_ModeS=1
+
+[FAPE]
+Airport_Elevation=229
+Airport_Radius=3
+
+Window_APP=1,1250,150,500,250
+Window_APP_Rotation=30.5
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=5229
+
+AppPath=FAPE:FAPE 08:S033.59.37.888:E025.36.00.000:086:L:229:3.0
+AppPath=FAPE:FAPE 26:S033.59.03.930:E025.37.05.570:266:L:184:3.0
+
+[FAUP]
+Airport_Elevation=2791
+Airport_Radius=3
+
+Window_APP=1,1250,150,500,250
+Window_APP_Rotation=116.3
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=7791
+
+[FAWK]
+Airport_Elevation=4940
+Airport_Radius=3
+
+Window_APP=1,1250,150,500,250
+Window_APP_Rotation=98
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=9940
+
+[FDSK]
+Airport_Elevation=1092
+Airport_Radius=3
+
+Window_APP=1,1250,150,500,250
+Window_APP_Rotation=90
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=5092
+
+
+// ##################################################################
+//                 END
+// ##################################################################

@@ -1,0 +1,17 @@
+ARR
+m_Visible:0
+m_X:1545
+m_Y:44
+m_LineNumber:0
+m_Resizable:1
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:C/S:7:0:9:0:0:1::::1:0.0
+m_Column:AC:7:0:78:8:0:1::::1:0.0
+m_Column:R:7:0:63:0:0:1::::1:0.0
+m_Column:S/Pad:6:1:19:29:0:1::::1:0.0
+m_Column:STAR:7:0:55:0:0:1::::1:0.0
+m_Column:RWY:7:0:47:0:0:1::::1:0.0
+m_Column:STND:4:1:2:1:1:1:Ground Radar plugin:Ground Radar plugin:Ground Radar plugin:0:0.0
+m_Column:ETA:6:1:10033:0:0:1:TopSky plugin:::0:0.0
+END

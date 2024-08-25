@@ -1,0 +1,56 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Free Text:FAKM Taxiways\A:freetext
+Free Text:FAKM Taxiways\A1:freetext
+Free Text:FAKM Taxiways\C:freetext
+Free Text:FAKM Taxiways\C1:freetext
+Geo:FAKM Groundlayout:
+Runways:FAKM 02-20:extended centerline 1
+Runways:FAKM 02-20:extended centerline 1 left base
+Runways:FAKM 02-20:extended centerline 1 left ticks
+Runways:FAKM 02-20:extended centerline 1 left vectoring
+Runways:FAKM 02-20:extended centerline 1 right base
+Runways:FAKM 02-20:extended centerline 1 right ticks
+Runways:FAKM 02-20:extended centerline 1 right vectoring
+Runways:FAKM 02-20:extended centerline 2
+Runways:FAKM 02-20:extended centerline 2 left base
+Runways:FAKM 02-20:extended centerline 2 left ticks
+Runways:FAKM 02-20:extended centerline 2 left vectoring
+Runways:FAKM 02-20:extended centerline 2 right base
+Runways:FAKM 02-20:extended centerline 2 right ticks
+Runways:FAKM 02-20:extended centerline 2 right vectoring
+Runways:FAKM 10-28:extended centerline 1
+Runways:FAKM 10-28:extended centerline 1 left base
+Runways:FAKM 10-28:extended centerline 1 left ticks
+Runways:FAKM 10-28:extended centerline 1 left vectoring
+Runways:FAKM 10-28:extended centerline 1 right base
+Runways:FAKM 10-28:extended centerline 1 right ticks
+Runways:FAKM 10-28:extended centerline 1 right vectoring
+Runways:FAKM 10-28:extended centerline 2
+Runways:FAKM 10-28:extended centerline 2 left base
+Runways:FAKM 10-28:extended centerline 2 left ticks
+Runways:FAKM 10-28:extended centerline 2 left vectoring
+Runways:FAKM 10-28:extended centerline 2 right base
+Runways:FAKM 10-28:extended centerline 2 right ticks
+Runways:FAKM 10-28:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:60.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-28.816089:24.738196:-28.792610:24.786428
+PLUGIN:Ground Radar plugin:AirportElevation:3950
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FAKM
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FAKM

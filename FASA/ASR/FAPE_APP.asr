@@ -1,0 +1,98 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:FAPE:name
+Airports:FAPE:symbol
+Fixes:PE1F1:name
+Fixes:PE1F1:symbol
+Fixes:PE1M1:name
+Fixes:PE1M1:symbol
+Fixes:PE1M2:name
+Fixes:PE1M2:symbol
+Fixes:PE1MT:name
+Fixes:PE1MT:symbol
+Fixes:PE2F1:name
+Fixes:PE2F1:symbol
+Fixes:PE2M1:name
+Fixes:PE2M1:symbol
+Fixes:PE2M2:name
+Fixes:PE2M2:symbol
+Fixes:PE2MP:name
+Fixes:PE2MP:symbol
+Fixes:PE2MT:name
+Fixes:PE2MT:symbol
+Fixes:PE361:name
+Fixes:PE361:symbol
+Free Text:FAPE Apron\A1:freetext
+Free Text:FAPE Apron\A10:freetext
+Free Text:FAPE Apron\A10A:freetext
+Free Text:FAPE Apron\A11:freetext
+Free Text:FAPE Apron\A12:freetext
+Free Text:FAPE Apron\A2:freetext
+Free Text:FAPE Apron\A3:freetext
+Free Text:FAPE Apron\A4:freetext
+Free Text:FAPE Apron\A5:freetext
+Free Text:FAPE Apron\A6:freetext
+Free Text:FAPE Apron\A7:freetext
+Free Text:FAPE Apron\A8:freetext
+Free Text:FAPE Apron\A9:freetext
+Free Text:FAPE Apron\SAAF:freetext
+Free Text:FAPE Taxiways\A:freetext
+Free Text:FAPE Taxiways\A:freetext
+Free Text:FAPE Taxiways\A:freetext
+Free Text:FAPE Taxiways\A:freetext
+Free Text:FAPE Taxiways\A:freetext
+Free Text:FAPE Taxiways\A1:freetext
+Free Text:FAPE Taxiways\A2:freetext
+Free Text:FAPE Taxiways\A3:freetext
+Free Text:FAPE Taxiways\A4:freetext
+Free Text:FAPE Taxiways\B:freetext
+Free Text:FAPE Taxiways\C:freetext
+Free Text:FAPE Taxiways\E:freetext
+Free Text:FAPE Terrain\2000:freetext
+Free Text:FAPE Terrain\3000:freetext
+Free Text:FAPE Terrain\3500:freetext
+Free Text:FAPE Terrain\3800:freetext
+Free Text:FAPE Terrain\4500:freetext
+Free Text:FAPE Terrain\5400:freetext
+Free Text:FAPE Terrain\5400:freetext
+Free Text:FAPE Terrain\7300:freetext
+Geo:FA Landmark Coast NE:
+Geo:FA Landmark Coast NW:
+Geo:FA Landmark Coast S:
+Geo:FA Landmark Lakes:
+Geo:FA Landmark National Roads:
+Geo:FAJA Landmark Dams:
+Geo:FAJA Landmark Lakes (AP):
+Geo:FAPE Groundlayout:
+Geo:GEO:
+NDBs:WC:frequency
+NDBs:WC:name
+NDBs:WC:symbol
+Regions:FACA Terrain 0500ft:polygon
+Regions:FACA Terrain 1000ft:polygon
+Regions:FACA Terrain 1500ft:polygon
+Regions:FACA Terrain 2000ft:polygon
+Regions:FACA Terrain 3000ft:polygon
+Regions:FACA Terrain 3500ft:polygon
+Regions:FACA Terrain 4000ft:polygon
+Regions:FACA Terrain 5000ft:polygon
+Regions:FACA Terrain 6000ft:polygon
+Runways:FAPE 08-26:name
+Runways:FAPE 17-35:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:ATNS - TopSky
+WINDOWAREA:-34.001542:25.585141:-33.972712:25.645283

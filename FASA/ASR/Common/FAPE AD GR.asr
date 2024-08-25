@@ -1,0 +1,98 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:FAPE:name
+Airports:FAPE:symbol
+Free Text:FAPE Apron\A1:freetext
+Free Text:FAPE Apron\A10:freetext
+Free Text:FAPE Apron\A10A:freetext
+Free Text:FAPE Apron\A11:freetext
+Free Text:FAPE Apron\A12:freetext
+Free Text:FAPE Apron\A2:freetext
+Free Text:FAPE Apron\A3:freetext
+Free Text:FAPE Apron\A4:freetext
+Free Text:FAPE Apron\A5:freetext
+Free Text:FAPE Apron\A6:freetext
+Free Text:FAPE Apron\A7:freetext
+Free Text:FAPE Apron\A8:freetext
+Free Text:FAPE Apron\A9:freetext
+Free Text:FAPE Taxiways\A:freetext
+Free Text:FAPE Taxiways\A:freetext
+Free Text:FAPE Taxiways\A:freetext
+Free Text:FAPE Taxiways\A:freetext
+Free Text:FAPE Taxiways\A:freetext
+Free Text:FAPE Taxiways\A1:freetext
+Free Text:FAPE Taxiways\A2:freetext
+Free Text:FAPE Taxiways\A3:freetext
+Free Text:FAPE Taxiways\A4:freetext
+Free Text:FAPE Taxiways\B:freetext
+Free Text:FAPE Taxiways\C:freetext
+Free Text:FAPE Taxiways\E:freetext
+Free Text:FAPE Terrain\2000:freetext
+Free Text:FAPE Terrain\3000:freetext
+Free Text:FAPE Terrain\3500:freetext
+Free Text:FAPE Terrain\3800:freetext
+Free Text:FAPE Terrain\4500:freetext
+Free Text:FAPE Terrain\5400:freetext
+Free Text:FAPE Terrain\5400:freetext
+Free Text:FAPE Terrain\7300:freetext
+Geo:FA Landmark Coast NE:
+Geo:FA Landmark Coast NW:
+Geo:FA Landmark Coast S:
+Geo:FA Landmark Lakes:
+Geo:FA Landmark National Roads:
+Geo:FAJA Landmark Dams:
+Geo:FAJA Landmark Lakes (AP):
+Geo:FAPE Groundlayout (New):
+Geo:GEO:
+Regions:FAPE Ground Layout:polygon
+Runways:FAPE 08-26:extended centerline 1
+Runways:FAPE 08-26:extended centerline 1 left base
+Runways:FAPE 08-26:extended centerline 1 left ticks
+Runways:FAPE 08-26:extended centerline 1 left vectoring
+Runways:FAPE 08-26:extended centerline 1 right base
+Runways:FAPE 08-26:extended centerline 1 right ticks
+Runways:FAPE 08-26:extended centerline 1 right vectoring
+Runways:FAPE 08-26:extended centerline 2
+Runways:FAPE 08-26:extended centerline 2 left base
+Runways:FAPE 08-26:extended centerline 2 left ticks
+Runways:FAPE 08-26:extended centerline 2 left vectoring
+Runways:FAPE 08-26:extended centerline 2 right base
+Runways:FAPE 08-26:extended centerline 2 right ticks
+Runways:FAPE 08-26:extended centerline 2 right vectoring
+Runways:FAPE 17-35:extended centerline 1
+Runways:FAPE 17-35:extended centerline 1 left base
+Runways:FAPE 17-35:extended centerline 1 left ticks
+Runways:FAPE 17-35:extended centerline 1 left vectoring
+Runways:FAPE 17-35:extended centerline 1 right base
+Runways:FAPE 17-35:extended centerline 1 right ticks
+Runways:FAPE 17-35:extended centerline 1 right vectoring
+Runways:FAPE 17-35:extended centerline 2
+Runways:FAPE 17-35:extended centerline 2 left base
+Runways:FAPE 17-35:extended centerline 2 left ticks
+Runways:FAPE 17-35:extended centerline 2 left vectoring
+Runways:FAPE 17-35:extended centerline 2 right base
+Runways:FAPE 17-35:extended centerline 2 right ticks
+Runways:FAPE 17-35:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:30.50000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-33.992225:25.595906:-33.979952:25.621118
+PLUGIN:Ground Radar plugin:AirportElevation:229
+PLUGIN:Ground Radar plugin:AirportRadius:5
+PLUGIN:Ground Radar plugin:GroundMode:FAPE
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FAPE

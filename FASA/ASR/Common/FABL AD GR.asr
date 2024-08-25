@@ -1,0 +1,74 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FABL Info\Tower 120.80, Approach 124.30, Atis 126.45, Elevation 4457':freetext
+Free Text:FABL Taxiways\A1:freetext
+Free Text:FABL Taxiways\A2:freetext
+Free Text:FABL Taxiways\A3:freetext
+Free Text:FABL Taxiways\A4:freetext
+Free Text:FABL Taxiways\A5:freetext
+Free Text:FABL Taxiways\B1:freetext
+Free Text:FABL Taxiways\B2:freetext
+Free Text:FABL Taxiways\B3:freetext
+Free Text:FABL Taxiways\B4:freetext
+Free Text:FABL Taxiways\B5:freetext
+Free Text:FABL Taxiways\C1:freetext
+Free Text:FABL Taxiways\C2:freetext
+Free Text:FABL Taxiways\C3:freetext
+Free Text:FABL Taxiways\C4:freetext
+Free Text:FABL Taxiways\C5:freetext
+Free Text:FABL Taxiways\D:freetext
+Free Text:FABL Taxiways\E:freetext
+Free Text:FABL Taxiways\F:freetext
+Free Text:FABL Taxiways\G:freetext
+Geo:FABL Groundlayout (New):
+Runways:FABL 02-20:extended centerline 1
+Runways:FABL 02-20:extended centerline 1 left base
+Runways:FABL 02-20:extended centerline 1 left ticks
+Runways:FABL 02-20:extended centerline 1 left vectoring
+Runways:FABL 02-20:extended centerline 1 right base
+Runways:FABL 02-20:extended centerline 1 right ticks
+Runways:FABL 02-20:extended centerline 1 right vectoring
+Runways:FABL 02-20:extended centerline 2
+Runways:FABL 02-20:extended centerline 2 left base
+Runways:FABL 02-20:extended centerline 2 left ticks
+Runways:FABL 02-20:extended centerline 2 left vectoring
+Runways:FABL 02-20:extended centerline 2 right base
+Runways:FABL 02-20:extended centerline 2 right ticks
+Runways:FABL 02-20:extended centerline 2 right vectoring
+Runways:FABL 12-30:extended centerline 1
+Runways:FABL 12-30:extended centerline 1 left base
+Runways:FABL 12-30:extended centerline 1 left ticks
+Runways:FABL 12-30:extended centerline 1 left vectoring
+Runways:FABL 12-30:extended centerline 1 right base
+Runways:FABL 12-30:extended centerline 1 right ticks
+Runways:FABL 12-30:extended centerline 1 right vectoring
+Runways:FABL 12-30:extended centerline 2
+Runways:FABL 12-30:extended centerline 2 left base
+Runways:FABL 12-30:extended centerline 2 left ticks
+Runways:FABL 12-30:extended centerline 2 left vectoring
+Runways:FABL 12-30:extended centerline 2 right base
+Runways:FABL 12-30:extended centerline 2 right ticks
+Runways:FABL 12-30:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:90.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-29.107512:26.265740:-29.078163:26.326030
+PLUGIN:Ground Radar plugin:AirportElevation:4457
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FABL
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FABL

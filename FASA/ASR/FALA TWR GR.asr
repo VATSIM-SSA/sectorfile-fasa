@@ -1,0 +1,92 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FALA Info\Tower 124.00, Ground 121.65, Elevation 4517':freetext
+Free Text:FALA Stands\A1:freetext
+Free Text:FALA Stands\A10:freetext
+Free Text:FALA Stands\A11:freetext
+Free Text:FALA Stands\A12:freetext
+Free Text:FALA Stands\A13:freetext
+Free Text:FALA Stands\A14:freetext
+Free Text:FALA Stands\A15:freetext
+Free Text:FALA Stands\A2:freetext
+Free Text:FALA Stands\A4:freetext
+Free Text:FALA Stands\A5:freetext
+Free Text:FALA Stands\A6:freetext
+Free Text:FALA Stands\A7:freetext
+Free Text:FALA Stands\A8:freetext
+Free Text:FALA Stands\A9:freetext
+Free Text:FALA Stands\B1:freetext
+Free Text:FALA Stands\B10:freetext
+Free Text:FALA Stands\B2:freetext
+Free Text:FALA Stands\B3:freetext
+Free Text:FALA Stands\B4:freetext
+Free Text:FALA Stands\B5:freetext
+Free Text:FALA Stands\B6:freetext
+Free Text:FALA Stands\B7:freetext
+Free Text:FALA Stands\B8:freetext
+Free Text:FALA Stands\B9:freetext
+Free Text:FALA Stands\C1:freetext
+Free Text:FALA Stands\C2:freetext
+Free Text:FALA Stands\C3:freetext
+Free Text:FALA Stands\C4:freetext
+Free Text:FALA Stands\C5:freetext
+Free Text:FALA Stands\C6:freetext
+Free Text:FALA Stands\C7:freetext
+Free Text:FALA Stands\C8:freetext
+Free Text:FALA Stands\H1:freetext
+Free Text:FALA Stands\M1:freetext
+Free Text:FALA Taxiways\A:freetext
+Free Text:FALA Taxiways\A:freetext
+Free Text:FALA Taxiways\A:freetext
+Free Text:FALA Taxiways\A1:freetext
+Free Text:FALA Taxiways\A2:freetext
+Free Text:FALA Taxiways\A3:freetext
+Free Text:FALA Taxiways\A4:freetext
+Free Text:FALA Taxiways\B:freetext
+Free Text:FALA Taxiways\B:freetext
+Free Text:FALA Taxiways\B2:freetext
+Free Text:FALA Taxiways\B3:freetext
+Free Text:FALA Taxiways\C:freetext
+Free Text:FALA Taxiways\N:freetext
+Free Text:FALA Taxiways\P:freetext
+Free Text:FALA Taxiways\R:freetext
+Free Text:FALA Taxiways\S:freetext
+Free Text:FALA Taxiways\T:freetext
+Geo:FALA Groundlayout:
+Runways:FALA 07-25:extended centerline 1
+Runways:FALA 07-25:extended centerline 1 left base
+Runways:FALA 07-25:extended centerline 1 left ticks
+Runways:FALA 07-25:extended centerline 1 left vectoring
+Runways:FALA 07-25:extended centerline 1 right base
+Runways:FALA 07-25:extended centerline 1 right ticks
+Runways:FALA 07-25:extended centerline 1 right vectoring
+Runways:FALA 07-25:extended centerline 2
+Runways:FALA 07-25:extended centerline 2 left base
+Runways:FALA 07-25:extended centerline 2 left ticks
+Runways:FALA 07-25:extended centerline 2 left vectoring
+Runways:FALA 07-25:extended centerline 2 right base
+Runways:FALA 07-25:extended centerline 2 right ticks
+Runways:FALA 07-25:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:43.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-25.946203:27.904808:-25.927420:27.943394
+PLUGIN:Ground Radar plugin:AirportElevation:4521
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FALA
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FALA

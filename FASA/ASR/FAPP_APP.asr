@@ -1,0 +1,130 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:FALM:name
+Airports:FALM:symbol
+Airports:FAPI:name
+Airports:FAPI:symbol
+Airports:FAPP:name
+Airports:FAPP:symbol
+ARTCC boundary:FALM-TMA:
+ARTCC boundary:FAPP-TMA:
+ARTCC low boundary:FALM-CTR:
+ARTCC low boundary:FAPP-CTR:
+Fixes:APMUX:name
+Fixes:APMUX:symbol
+Fixes:DUMGO:name
+Fixes:DUMGO:symbol
+Fixes:TIDUP:name
+Fixes:TIDUP:symbol
+Fixes:UTIGU:name
+Fixes:UTIGU:symbol
+Fixes:UTUPU:name
+Fixes:UTUPU:symbol
+Free Text:FAPP Taxiways\A:freetext
+Free Text:FAPP Taxiways\B:freetext
+Free Text:FAPP Taxiways\C:freetext
+Free Text:FAPP Taxiways\C:freetext
+Free Text:FAPP Taxiways\D1:freetext
+Free Text:FAPP Taxiways\D2:freetext
+Free Text:FAPP Taxiways\D3:freetext
+Free Text:FAPP Taxiways\D4:freetext
+Free Text:FAPP Taxiways\E:freetext
+Geo:FAPP Groundlayout:
+Geo:GEO:
+NDBs:TZ:frequency
+NDBs:TZ:name
+NDBs:TZ:symbol
+Runways:FALM 10-28:centerline
+Runways:FALM 10-28:extended centerline 1
+Runways:FALM 10-28:extended centerline 1 left base
+Runways:FALM 10-28:extended centerline 1 left ticks
+Runways:FALM 10-28:extended centerline 1 left vectoring
+Runways:FALM 10-28:extended centerline 1 right base
+Runways:FALM 10-28:extended centerline 1 right ticks
+Runways:FALM 10-28:extended centerline 1 right vectoring
+Runways:FALM 10-28:extended centerline 2
+Runways:FALM 10-28:extended centerline 2 left base
+Runways:FALM 10-28:extended centerline 2 left ticks
+Runways:FALM 10-28:extended centerline 2 left vectoring
+Runways:FALM 10-28:extended centerline 2 right base
+Runways:FALM 10-28:extended centerline 2 right ticks
+Runways:FALM 10-28:extended centerline 2 right vectoring
+Runways:FALM 10-28:name
+Runways:FAPI 08-26:centerline
+Runways:FAPI 08-26:extended centerline 1
+Runways:FAPI 08-26:extended centerline 1 left base
+Runways:FAPI 08-26:extended centerline 1 left ticks
+Runways:FAPI 08-26:extended centerline 1 left vectoring
+Runways:FAPI 08-26:extended centerline 1 right base
+Runways:FAPI 08-26:extended centerline 1 right ticks
+Runways:FAPI 08-26:extended centerline 1 right vectoring
+Runways:FAPI 08-26:extended centerline 2
+Runways:FAPI 08-26:extended centerline 2 left base
+Runways:FAPI 08-26:extended centerline 2 left ticks
+Runways:FAPI 08-26:extended centerline 2 left vectoring
+Runways:FAPI 08-26:extended centerline 2 right base
+Runways:FAPI 08-26:extended centerline 2 right ticks
+Runways:FAPI 08-26:extended centerline 2 right vectoring
+Runways:FAPI 08-26:name
+Runways:FAPP 01-19:centerline
+Runways:FAPP 01-19:extended centerline 1
+Runways:FAPP 01-19:extended centerline 1 left base
+Runways:FAPP 01-19:extended centerline 1 left ticks
+Runways:FAPP 01-19:extended centerline 1 left vectoring
+Runways:FAPP 01-19:extended centerline 1 right base
+Runways:FAPP 01-19:extended centerline 1 right ticks
+Runways:FAPP 01-19:extended centerline 1 right vectoring
+Runways:FAPP 01-19:extended centerline 2
+Runways:FAPP 01-19:extended centerline 2 left base
+Runways:FAPP 01-19:extended centerline 2 left ticks
+Runways:FAPP 01-19:extended centerline 2 left vectoring
+Runways:FAPP 01-19:extended centerline 2 right base
+Runways:FAPP 01-19:extended centerline 2 right ticks
+Runways:FAPP 01-19:extended centerline 2 right vectoring
+Runways:FAPP 01-19:name
+Runways:FAPP 05-23:centerline
+Runways:FAPP 05-23:extended centerline 1
+Runways:FAPP 05-23:extended centerline 1 left base
+Runways:FAPP 05-23:extended centerline 1 left ticks
+Runways:FAPP 05-23:extended centerline 1 left vectoring
+Runways:FAPP 05-23:extended centerline 1 right base
+Runways:FAPP 05-23:extended centerline 1 right ticks
+Runways:FAPP 05-23:extended centerline 1 right vectoring
+Runways:FAPP 05-23:extended centerline 2
+Runways:FAPP 05-23:extended centerline 2 left base
+Runways:FAPP 05-23:extended centerline 2 left ticks
+Runways:FAPP 05-23:extended centerline 2 left vectoring
+Runways:FAPP 05-23:extended centerline 2 right base
+Runways:FAPP 05-23:extended centerline 2 right ticks
+Runways:FAPP 05-23:extended centerline 2 right vectoring
+Runways:FAPP 05-23:name
+Stars:FALM ILS10:
+Stars:FALM ILS10 LTV:
+Stars:FALM VORDME10:
+Stars:FALM VORDME10 LTV:
+Stars:FAPP ILS05:
+Stars:FAPP ILS05 PPV:
+Stars:FAPP VORDME05:
+VORs:LTV:frequency
+VORs:LTV:name
+VORs:LTV:symbol
+VORs:PPV:frequency
+VORs:PPV:name
+VORs:PPV:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:21.00000
+TAGFAMILY:ATNS - TopSky
+WINDOWAREA:-39.102390:5.370143:-5.897375:75.207825

@@ -1,0 +1,63 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FAWK Taxiways\A:freetext
+Free Text:FAWK Taxiways\A:freetext
+Free Text:FAWK Taxiways\A:freetext
+Free Text:FAWK Taxiways\B:freetext
+Free Text:FAWK Taxiways\C:freetext
+Free Text:FAWK Taxiways\C:freetext
+Free Text:FAWK Taxiways\D:freetext
+Free Text:FAWK Taxiways\D:freetext
+Free Text:FAWK Taxiways\F:freetext
+Geo:FAWK Groundlayout:
+Runways:FAWK 01-19:extended centerline 1
+Runways:FAWK 01-19:extended centerline 1 left base
+Runways:FAWK 01-19:extended centerline 1 left ticks
+Runways:FAWK 01-19:extended centerline 1 left vectoring
+Runways:FAWK 01-19:extended centerline 1 right base
+Runways:FAWK 01-19:extended centerline 1 right ticks
+Runways:FAWK 01-19:extended centerline 1 right vectoring
+Runways:FAWK 01-19:extended centerline 2
+Runways:FAWK 01-19:extended centerline 2 left base
+Runways:FAWK 01-19:extended centerline 2 left ticks
+Runways:FAWK 01-19:extended centerline 2 left vectoring
+Runways:FAWK 01-19:extended centerline 2 right base
+Runways:FAWK 01-19:extended centerline 2 right ticks
+Runways:FAWK 01-19:extended centerline 2 right vectoring
+Runways:FAWK 06-24:extended centerline 1
+Runways:FAWK 06-24:extended centerline 1 left base
+Runways:FAWK 06-24:extended centerline 1 left ticks
+Runways:FAWK 06-24:extended centerline 1 left vectoring
+Runways:FAWK 06-24:extended centerline 1 right base
+Runways:FAWK 06-24:extended centerline 1 right ticks
+Runways:FAWK 06-24:extended centerline 1 right vectoring
+Runways:FAWK 06-24:extended centerline 2
+Runways:FAWK 06-24:extended centerline 2 left base
+Runways:FAWK 06-24:extended centerline 2 left ticks
+Runways:FAWK 06-24:extended centerline 2 left vectoring
+Runways:FAWK 06-24:extended centerline 2 right base
+Runways:FAWK 06-24:extended centerline 2 right ticks
+Runways:FAWK 06-24:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:98.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-25.837649:28.204565:-25.818866:28.243150
+PLUGIN:Ground Radar plugin:AirportElevation:4940
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FAWK
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FAWK

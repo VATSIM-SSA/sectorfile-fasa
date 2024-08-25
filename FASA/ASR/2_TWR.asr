@@ -1,0 +1,201 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:FAOR:name
+Airports:FAOR:symbol
+ARTCC boundary:FAOR-TMA:
+ARTCC low boundary:FAOR-CTR:
+Free Text:FAOR Stands\A1:freetext
+Free Text:FAOR Stands\A10:freetext
+Free Text:FAOR Stands\A11:freetext
+Free Text:FAOR Stands\A12:freetext
+Free Text:FAOR Stands\A13:freetext
+Free Text:FAOR Stands\A1R:freetext
+Free Text:FAOR Stands\A2:freetext
+Free Text:FAOR Stands\A3:freetext
+Free Text:FAOR Stands\A4:freetext
+Free Text:FAOR Stands\A5:freetext
+Free Text:FAOR Stands\A6:freetext
+Free Text:FAOR Stands\A7:freetext
+Free Text:FAOR Stands\A8:freetext
+Free Text:FAOR Stands\A9:freetext
+Free Text:FAOR Stands\B1:freetext
+Free Text:FAOR Stands\B10:freetext
+Free Text:FAOR Stands\B11:freetext
+Free Text:FAOR Stands\B12:freetext
+Free Text:FAOR Stands\B13:freetext
+Free Text:FAOR Stands\B2:freetext
+Free Text:FAOR Stands\B3:freetext
+Free Text:FAOR Stands\B4:freetext
+Free Text:FAOR Stands\B5:freetext
+Free Text:FAOR Stands\B6:freetext
+Free Text:FAOR Stands\B7:freetext
+Free Text:FAOR Stands\B8:freetext
+Free Text:FAOR Stands\B9:freetext
+Free Text:FAOR Stands\C1:freetext
+Free Text:FAOR Stands\C10:freetext
+Free Text:FAOR Stands\C11:freetext
+Free Text:FAOR Stands\C12:freetext
+Free Text:FAOR Stands\C13:freetext
+Free Text:FAOR Stands\C14:freetext
+Free Text:FAOR Stands\C15:freetext
+Free Text:FAOR Stands\C16:freetext
+Free Text:FAOR Stands\C17:freetext
+Free Text:FAOR Stands\C18:freetext
+Free Text:FAOR Stands\C19:freetext
+Free Text:FAOR Stands\C2:freetext
+Free Text:FAOR Stands\C20:freetext
+Free Text:FAOR Stands\C21:freetext
+Free Text:FAOR Stands\C22:freetext
+Free Text:FAOR Stands\C23:freetext
+Free Text:FAOR Stands\C24:freetext
+Free Text:FAOR Stands\C3:freetext
+Free Text:FAOR Stands\C4:freetext
+Free Text:FAOR Stands\C5:freetext
+Free Text:FAOR Stands\C6:freetext
+Free Text:FAOR Stands\C7:freetext
+Free Text:FAOR Stands\C8:freetext
+Free Text:FAOR Stands\C9:freetext
+Free Text:FAOR Stands\D1:freetext
+Free Text:FAOR Stands\D10:freetext
+Free Text:FAOR Stands\D11:freetext
+Free Text:FAOR Stands\D12:freetext
+Free Text:FAOR Stands\D13:freetext
+Free Text:FAOR Stands\D14:freetext
+Free Text:FAOR Stands\D15:freetext
+Free Text:FAOR Stands\D16:freetext
+Free Text:FAOR Stands\D17:freetext
+Free Text:FAOR Stands\D18:freetext
+Free Text:FAOR Stands\D19:freetext
+Free Text:FAOR Stands\D2:freetext
+Free Text:FAOR Stands\D20:freetext
+Free Text:FAOR Stands\D21:freetext
+Free Text:FAOR Stands\D22:freetext
+Free Text:FAOR Stands\D23:freetext
+Free Text:FAOR Stands\D24:freetext
+Free Text:FAOR Stands\D25:freetext
+Free Text:FAOR Stands\D3:freetext
+Free Text:FAOR Stands\D4:freetext
+Free Text:FAOR Stands\D5:freetext
+Free Text:FAOR Stands\D6:freetext
+Free Text:FAOR Stands\D7:freetext
+Free Text:FAOR Stands\D8:freetext
+Free Text:FAOR Stands\D9:freetext
+Free Text:FAOR Stands\E1:freetext
+Free Text:FAOR Stands\E10:freetext
+Free Text:FAOR Stands\E11:freetext
+Free Text:FAOR Stands\E12:freetext
+Free Text:FAOR Stands\E13:freetext
+Free Text:FAOR Stands\E2:freetext
+Free Text:FAOR Stands\E3:freetext
+Free Text:FAOR Stands\E4:freetext
+Free Text:FAOR Stands\E5:freetext
+Free Text:FAOR Stands\E6:freetext
+Free Text:FAOR Stands\E7:freetext
+Free Text:FAOR Stands\E8:freetext
+Free Text:FAOR Stands\E9:freetext
+Free Text:FAOR Stands\F1:freetext
+Free Text:FAOR Stands\F2:freetext
+Free Text:FAOR Stands\F3:freetext
+Free Text:FAOR Stands\F4:freetext
+Free Text:FAOR Stands\F5:freetext
+Free Text:FAOR Stands\F6:freetext
+Free Text:FAOR Stands\F7:freetext
+Free Text:FAOR Stands\Heli1:freetext
+Free Text:FAOR Stands\Heli2:freetext
+Free Text:FAOR Taxiways\A1:freetext
+Free Text:FAOR Taxiways\A2:freetext
+Free Text:FAOR Taxiways\A3:freetext
+Free Text:FAOR Taxiways\A4:freetext
+Free Text:FAOR Taxiways\A5:freetext
+Free Text:FAOR Taxiways\A6:freetext
+Free Text:FAOR Taxiways\B1:freetext
+Free Text:FAOR Taxiways\B2:freetext
+Free Text:FAOR Taxiways\B2:freetext
+Free Text:FAOR Taxiways\C1:freetext
+Free Text:FAOR Taxiways\C2:freetext
+Free Text:FAOR Taxiways\C3:freetext
+Free Text:FAOR Taxiways\C4:freetext
+Free Text:FAOR Taxiways\D:freetext
+Free Text:FAOR Taxiways\E:freetext
+Free Text:FAOR Taxiways\E:freetext
+Free Text:FAOR Taxiways\E:freetext
+Free Text:FAOR Taxiways\F:freetext
+Free Text:FAOR Taxiways\G1:freetext
+Free Text:FAOR Taxiways\G2:freetext
+Free Text:FAOR Taxiways\G3:freetext
+Free Text:FAOR Taxiways\G4:freetext
+Free Text:FAOR Taxiways\H2:freetext
+Free Text:FAOR Taxiways\H3:freetext
+Free Text:FAOR Taxiways\H4:freetext
+Free Text:FAOR Taxiways\H5:freetext
+Free Text:FAOR Taxiways\H6:freetext
+Free Text:FAOR Taxiways\I1:freetext
+Free Text:FAOR Taxiways\I2:freetext
+Free Text:FAOR Taxiways\I3:freetext
+Free Text:FAOR Taxiways\J1:freetext
+Free Text:FAOR Taxiways\J2:freetext
+Free Text:FAOR Taxiways\K:freetext
+Free Text:FAOR Taxiways\L1:freetext
+Free Text:FAOR Taxiways\L2:freetext
+Free Text:FAOR Taxiways\L3:freetext
+Free Text:FAOR Taxiways\L4:freetext
+Free Text:FAOR Taxiways\M:freetext
+Free Text:FAOR Taxiways\N:freetext
+Free Text:FAOR Taxiways\N:freetext
+Free Text:FAOR Taxiways\S:freetext
+Free Text:FAOR Taxiways\T:freetext
+Free Text:FAOR Taxiways\Y1:freetext
+Free Text:FAOR Taxiways\Y2:freetext
+Free Text:FAOR Taxiways\Y3:freetext
+Free Text:FAOR Taxiways\Y4:freetext
+Free Text:FAOR Taxiways\Y5:freetext
+Geo:FAOR Groundlayout:
+Runways:FAOR 03L-21R:centerline
+Runways:FAOR 03L-21R:extended centerline 1
+Runways:FAOR 03L-21R:extended centerline 1 left base
+Runways:FAOR 03L-21R:extended centerline 1 left ticks
+Runways:FAOR 03L-21R:extended centerline 1 left vectoring
+Runways:FAOR 03L-21R:extended centerline 1 right base
+Runways:FAOR 03L-21R:extended centerline 1 right ticks
+Runways:FAOR 03L-21R:extended centerline 1 right vectoring
+Runways:FAOR 03L-21R:extended centerline 2
+Runways:FAOR 03L-21R:extended centerline 2 left base
+Runways:FAOR 03L-21R:extended centerline 2 left ticks
+Runways:FAOR 03L-21R:extended centerline 2 left vectoring
+Runways:FAOR 03L-21R:extended centerline 2 right base
+Runways:FAOR 03L-21R:extended centerline 2 right ticks
+Runways:FAOR 03L-21R:extended centerline 2 right vectoring
+Runways:FAOR 03L-21R:name
+Runways:FAOR 03R-21L:centerline
+Runways:FAOR 03R-21L:extended centerline 1
+Runways:FAOR 03R-21L:extended centerline 1 left base
+Runways:FAOR 03R-21L:extended centerline 1 left ticks
+Runways:FAOR 03R-21L:extended centerline 1 left vectoring
+Runways:FAOR 03R-21L:extended centerline 1 right base
+Runways:FAOR 03R-21L:extended centerline 1 right ticks
+Runways:FAOR 03R-21L:extended centerline 1 right vectoring
+Runways:FAOR 03R-21L:extended centerline 2
+Runways:FAOR 03R-21L:extended centerline 2 left base
+Runways:FAOR 03R-21L:extended centerline 2 left ticks
+Runways:FAOR 03R-21L:extended centerline 2 left vectoring
+Runways:FAOR 03R-21L:extended centerline 2 right base
+Runways:FAOR 03R-21L:extended centerline 2 right ticks
+Runways:FAOR 03R-21L:extended centerline 2 right vectoring
+Runways:FAOR 03R-21L:name
+VORs:JSV:frequency
+VORs:JSV:name
+VORs:JSV:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:ATNS - TopSky
+WINDOWAREA:-26.176123:28.174352:-26.101290:28.334117

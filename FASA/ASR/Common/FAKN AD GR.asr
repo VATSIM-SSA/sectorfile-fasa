@@ -1,0 +1,42 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FAKN Stands & Taxiways\A:freetext
+Free Text:FAKN Stands & Taxiways\A1:freetext
+Free Text:FAKN Stands & Taxiways\A2:freetext
+Free Text:FAKN Stands & Taxiways\A3:freetext
+Free Text:FAKN Stands & Taxiways\A4:freetext
+Free Text:FAKN Stands & Taxiways\Helistop:freetext
+Free Text:FAKN Terrain\4500ft:freetext
+Free Text:FAKN Terrain\5000ft:freetext
+Free Text:FAKN Terrain\6000ft:freetext
+Free Text:FAKN Terrain\6000ft:freetext
+Free Text:FAKN Terrain\6000ft:freetext
+Free Text:FAKN Terrain\6000ft:freetext
+Free Text:FAKN Terrain\6000ft:freetext
+Free Text:FAKN Terrain\6000ft:freetext
+Regions:FAKN Ground Layout:polygon
+Runways:FAKN 05-23:centerline
+Runways:FAKN 05-23:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:54.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-25.390124:31.081866:-25.371145:31.122133
+PLUGIN:Ground Radar plugin:AirportElevation:2829
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FAKN
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FAKN

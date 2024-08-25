@@ -1,0 +1,162 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:FALE:name
+Airports:FALE:symbol
+Airports:FANC:name
+Airports:FANC:symbol
+Airports:FAPM:name
+Airports:FAPM:symbol
+Airports:FAVG:name
+Airports:FAVG:symbol
+ARTCC boundary:FALE-TMA:
+Fixes:APMAT:name
+Fixes:APMAT:symbol
+Fixes:EXATA:name
+Fixes:EXATA:symbol
+Fixes:OKTAN:name
+Fixes:OKTAN:symbol
+Fixes:TUBIN:name
+Fixes:TUBIN:symbol
+Free Text:FALE Stands\A1:freetext
+Free Text:FALE Stands\A10:freetext
+Free Text:FALE Stands\A11:freetext
+Free Text:FALE Stands\A12:freetext
+Free Text:FALE Stands\A13:freetext
+Free Text:FALE Stands\A14:freetext
+Free Text:FALE Stands\A15:freetext
+Free Text:FALE Stands\A16:freetext
+Free Text:FALE Stands\A2:freetext
+Free Text:FALE Stands\A3:freetext
+Free Text:FALE Stands\A4:freetext
+Free Text:FALE Stands\A5:freetext
+Free Text:FALE Stands\A6:freetext
+Free Text:FALE Stands\A7:freetext
+Free Text:FALE Stands\A8:freetext
+Free Text:FALE Stands\A9:freetext
+Free Text:FALE Stands\B1:freetext
+Free Text:FALE Stands\B2:freetext
+Free Text:FALE Stands\B3:freetext
+Free Text:FALE Stands\B4:freetext
+Free Text:FALE Stands\B5:freetext
+Free Text:FALE Stands\B6:freetext
+Free Text:FALE Stands\B7:freetext
+Free Text:FALE Stands\B8:freetext
+Free Text:FALE Stands\B9:freetext
+Free Text:FALE Stands\C1:freetext
+Free Text:FALE Stands\C3:freetext
+Free Text:FALE Stands\C4:freetext
+Free Text:FALE Stands\C6:freetext
+Free Text:FALE Stands\D1:freetext
+Free Text:FALE Stands\D2:freetext
+Free Text:FALE Stands\D3:freetext
+Free Text:FALE Stands\D4:freetext
+Free Text:FALE Stands\D5:freetext
+Free Text:FALE Stands\D6:freetext
+Free Text:FALE Taxiways\A:freetext
+Free Text:FALE Taxiways\A:freetext
+Free Text:FALE Taxiways\A:freetext
+Free Text:FALE Taxiways\A:freetext
+Free Text:FALE Taxiways\B:freetext
+Free Text:FALE Taxiways\C:freetext
+Free Text:FALE Taxiways\C:freetext
+Free Text:FALE Taxiways\E:freetext
+Free Text:FALE Taxiways\F:freetext
+Free Text:FALE Taxiways\F:freetext
+Free Text:FALE Taxiways\G:freetext
+Free Text:FALE Taxiways\H:freetext
+Free Text:FALE Taxiways\M:freetext
+Free Text:FALE Taxiways\N:freetext
+Free Text:FALE Taxiways\P:freetext
+Free Text:FALE Terrain\2000ft:freetext
+Free Text:FALE Terrain\2000ft:freetext
+Free Text:FALE Terrain\2500ft:freetext
+Free Text:FALE Terrain\3000ft:freetext
+Free Text:FALE Terrain\3000ft:freetext
+Free Text:FALE Terrain\3000ft:freetext
+Free Text:FALE Terrain\3500ft:freetext
+Free Text:FALE Terrain\3500ft:freetext
+Free Text:FALE Terrain\5500ft:freetext
+Free Text:FALE Terrain\5500ft:freetext
+Free Text:FALE Terrain\5500ft:freetext
+Free Text:FALE Terrain\6500ft:freetext
+Free Text:FALE Terrain\6500ft:freetext
+Free Text:FALE Terrain\7500ft:freetext
+Free Text:FALE Terrain\7500ft:freetext
+Geo:FA Landmark Coast NE:
+Geo:FA Landmark Coast S:
+Geo:FALE Groundlayout:
+Geo:FAVG Groundlayout:
+Geo:GEO:
+Runways:FALE 06-24:centerline
+Runways:FALE 06-24:extended centerline 1
+Runways:FALE 06-24:extended centerline 1 left base
+Runways:FALE 06-24:extended centerline 1 left ticks
+Runways:FALE 06-24:extended centerline 1 left vectoring
+Runways:FALE 06-24:extended centerline 1 right base
+Runways:FALE 06-24:extended centerline 1 right ticks
+Runways:FALE 06-24:extended centerline 1 right vectoring
+Runways:FALE 06-24:extended centerline 2
+Runways:FALE 06-24:extended centerline 2 left base
+Runways:FALE 06-24:extended centerline 2 left ticks
+Runways:FALE 06-24:extended centerline 2 left vectoring
+Runways:FALE 06-24:extended centerline 2 right base
+Runways:FALE 06-24:extended centerline 2 right ticks
+Runways:FALE 06-24:extended centerline 2 right vectoring
+Runways:FALE 06-24:name
+Sids:FALE SID 06 GYV1A:
+Sids:FALE SID 06 ITMIL1C:
+Sids:FALE SID 06 TUBIN1A:
+Sids:FALE SID 24 GYV2B:
+Sids:FALE SID 24 OKTAN1A:
+Sids:FALE SID 24 TUBIN1B:
+Stars:FALE ILS06-Y:
+Stars:FALE ILS06-Y TGV:
+Stars:FALE ILS06-Z:
+Stars:FALE ILS24-Y:
+Stars:FALE ILS24-Y TGV:
+Stars:FALE ILS24-Z:
+Stars:FALE LOC06-Y:
+Stars:FALE LOC06-Y TGV:
+Stars:FALE LOC06-Z:
+Stars:FALE LOC24-Y:
+Stars:FALE LOC24-Y TGV:
+Stars:FALE LOC24-Z:
+Stars:FALE RNAV06:
+Stars:FALE RNAV06 LE1N1:
+Stars:FALE RNAV06 LE1N2:
+Stars:FALE RNAV06 LE1N3:
+Stars:FALE RNAV24:
+Stars:FALE RNAV24 LE2N1:
+Stars:FALE RNAV24 LE2N2:
+Stars:FALE RNAV24 LE2N3:
+Stars:FALE STAR 06 APMAT1A:
+Stars:FALE STAR 06 DUNSA1A:
+Stars:FALE STAR 06 GETOK1C:
+Stars:FALE STAR 06 ITMIL1A:
+Stars:FALE STAR 24 APMAT1B:
+Stars:FALE STAR 24 DUNSA1B:
+Stars:FALE STAR 24 GETOK1D:
+Stars:FALE STAR 24 ITMIL1B:
+Stars:FALE VORDME06-Z:
+Stars:FALE VORDME24-Z:
+VORs:GYV:frequency
+VORs:GYV:name
+VORs:GYV:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:-10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:ATNS - TopSky
+WINDOWAREA:-30.767024:27.144311:-25.048505:39.171655
+PLUGIN:TopSky plugin:ShowMapData:FALE_APP

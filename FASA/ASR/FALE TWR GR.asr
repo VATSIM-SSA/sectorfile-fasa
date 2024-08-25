@@ -1,0 +1,45 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FALE Terrain\2000ft:freetext
+Free Text:FALE Terrain\2000ft:freetext
+Free Text:FALE Terrain\2500ft:freetext
+Free Text:FALE Terrain\3000ft:freetext
+Free Text:FALE Terrain\3000ft:freetext
+Free Text:FALE Terrain\3000ft:freetext
+Free Text:FALE Terrain\3500ft:freetext
+Free Text:FALE Terrain\3500ft:freetext
+Free Text:FALE Terrain\5500ft:freetext
+Free Text:FALE Terrain\5500ft:freetext
+Free Text:FALE Terrain\5500ft:freetext
+Free Text:FALE Terrain\6500ft:freetext
+Free Text:FALE Terrain\6500ft:freetext
+Free Text:FALE Terrain\7500ft:freetext
+Free Text:FALE Terrain\7500ft:freetext
+Geo:FA Landmark Coast NE:
+Geo:GEO:
+Regions:FALE Ground Layout:polygon
+Runways:FALE 06-24:centerline
+Runways:FALE 06-24:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:232.50000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-29.622694:31.100192:-29.603379:31.140191
+PLUGIN:Ground Radar plugin:AirportElevation:310
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FALE
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FALE

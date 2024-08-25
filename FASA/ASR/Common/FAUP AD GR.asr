@@ -1,0 +1,59 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FAUP Taxiways\A1:freetext
+Free Text:FAUP Taxiways\B1:freetext
+Free Text:FAUP Taxiways\E:freetext
+Free Text:FAUP Taxiways\F1:freetext
+Free Text:FAUP Taxiways\G1:freetext
+Geo:FAUP Groundlayout:
+Runways:FAUP 01-19:extended centerline 1
+Runways:FAUP 01-19:extended centerline 1 left base
+Runways:FAUP 01-19:extended centerline 1 left ticks
+Runways:FAUP 01-19:extended centerline 1 left vectoring
+Runways:FAUP 01-19:extended centerline 1 right base
+Runways:FAUP 01-19:extended centerline 1 right ticks
+Runways:FAUP 01-19:extended centerline 1 right vectoring
+Runways:FAUP 01-19:extended centerline 2
+Runways:FAUP 01-19:extended centerline 2 left base
+Runways:FAUP 01-19:extended centerline 2 left ticks
+Runways:FAUP 01-19:extended centerline 2 left vectoring
+Runways:FAUP 01-19:extended centerline 2 right base
+Runways:FAUP 01-19:extended centerline 2 right ticks
+Runways:FAUP 01-19:extended centerline 2 right vectoring
+Runways:FAUP 08-26:extended centerline 1
+Runways:FAUP 08-26:extended centerline 1 left base
+Runways:FAUP 08-26:extended centerline 1 left ticks
+Runways:FAUP 08-26:extended centerline 1 left vectoring
+Runways:FAUP 08-26:extended centerline 1 right base
+Runways:FAUP 08-26:extended centerline 1 right ticks
+Runways:FAUP 08-26:extended centerline 1 right vectoring
+Runways:FAUP 08-26:extended centerline 2
+Runways:FAUP 08-26:extended centerline 2 left base
+Runways:FAUP 08-26:extended centerline 2 left ticks
+Runways:FAUP 08-26:extended centerline 2 left vectoring
+Runways:FAUP 08-26:extended centerline 2 right base
+Runways:FAUP 08-26:extended centerline 2 right ticks
+Runways:FAUP 08-26:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:116.30000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-28.423456:21.216552:-28.386771:21.291913
+PLUGIN:Ground Radar plugin:AirportElevation:2791
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FAUP
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FAUP

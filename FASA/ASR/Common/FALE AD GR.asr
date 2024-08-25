@@ -1,0 +1,118 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:FALE:name
+Airports:FALE:symbol
+Airports:FAVG:name
+Airports:FAVG:symbol
+Free Text:FALE Stands\A1:freetext
+Free Text:FALE Stands\A10:freetext
+Free Text:FALE Stands\A11:freetext
+Free Text:FALE Stands\A12:freetext
+Free Text:FALE Stands\A13:freetext
+Free Text:FALE Stands\A14:freetext
+Free Text:FALE Stands\A15:freetext
+Free Text:FALE Stands\A16:freetext
+Free Text:FALE Stands\A2:freetext
+Free Text:FALE Stands\A3:freetext
+Free Text:FALE Stands\A4:freetext
+Free Text:FALE Stands\A5:freetext
+Free Text:FALE Stands\A6:freetext
+Free Text:FALE Stands\A7:freetext
+Free Text:FALE Stands\A8:freetext
+Free Text:FALE Stands\A9:freetext
+Free Text:FALE Stands\B1:freetext
+Free Text:FALE Stands\B2:freetext
+Free Text:FALE Stands\B3:freetext
+Free Text:FALE Stands\B4:freetext
+Free Text:FALE Stands\B5:freetext
+Free Text:FALE Stands\B6:freetext
+Free Text:FALE Stands\B7:freetext
+Free Text:FALE Stands\B8:freetext
+Free Text:FALE Stands\B9:freetext
+Free Text:FALE Stands\C1:freetext
+Free Text:FALE Stands\C2:freetext
+Free Text:FALE Stands\C3:freetext
+Free Text:FALE Stands\C4:freetext
+Free Text:FALE Stands\C5:freetext
+Free Text:FALE Stands\C6:freetext
+Free Text:FALE Stands\D1:freetext
+Free Text:FALE Stands\D2:freetext
+Free Text:FALE Stands\D3:freetext
+Free Text:FALE Stands\D4:freetext
+Free Text:FALE Stands\D5:freetext
+Free Text:FALE Stands\D6:freetext
+Free Text:FALE Taxiways\A:freetext
+Free Text:FALE Taxiways\A:freetext
+Free Text:FALE Taxiways\A:freetext
+Free Text:FALE Taxiways\A:freetext
+Free Text:FALE Taxiways\B:freetext
+Free Text:FALE Taxiways\C:freetext
+Free Text:FALE Taxiways\C:freetext
+Free Text:FALE Taxiways\E:freetext
+Free Text:FALE Taxiways\F:freetext
+Free Text:FALE Taxiways\F:freetext
+Free Text:FALE Taxiways\G:freetext
+Free Text:FALE Taxiways\H:freetext
+Free Text:FALE Taxiways\M:freetext
+Free Text:FALE Taxiways\N:freetext
+Free Text:FALE Taxiways\P:freetext
+Free Text:FALE Terrain\2000ft:freetext
+Free Text:FALE Terrain\2000ft:freetext
+Free Text:FALE Terrain\2500ft:freetext
+Free Text:FALE Terrain\3000ft:freetext
+Free Text:FALE Terrain\3000ft:freetext
+Free Text:FALE Terrain\3000ft:freetext
+Free Text:FALE Terrain\3500ft:freetext
+Free Text:FALE Terrain\3500ft:freetext
+Free Text:FALE Terrain\5500ft:freetext
+Free Text:FALE Terrain\5500ft:freetext
+Free Text:FALE Terrain\5500ft:freetext
+Free Text:FALE Terrain\6500ft:freetext
+Free Text:FALE Terrain\6500ft:freetext
+Free Text:FALE Terrain\7500ft:freetext
+Free Text:FALE Terrain\7500ft:freetext
+Geo:FA Landmark Coast NE:
+Geo:FA Landmark Lakes:
+Geo:FAJA Landmark Dams:
+Geo:FAJA Landmark Lakes (AP):
+Geo:FALE Groundlayout (New):
+Geo:FAVG Groundlayout:
+Geo:GEO:
+Regions:FALE Ground Layout:polygon
+Runways:FALE 06-24:extended centerline 1
+Runways:FALE 06-24:extended centerline 1 left base
+Runways:FALE 06-24:extended centerline 1 left ticks
+Runways:FALE 06-24:extended centerline 1 left vectoring
+Runways:FALE 06-24:extended centerline 1 right base
+Runways:FALE 06-24:extended centerline 1 right ticks
+Runways:FALE 06-24:extended centerline 1 right vectoring
+Runways:FALE 06-24:extended centerline 2
+Runways:FALE 06-24:extended centerline 2 left base
+Runways:FALE 06-24:extended centerline 2 left ticks
+Runways:FALE 06-24:extended centerline 2 left vectoring
+Runways:FALE 06-24:extended centerline 2 right base
+Runways:FALE 06-24:extended centerline 2 right ticks
+Runways:FALE 06-24:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:52.50000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-29.618332:31.090049:-29.595008:31.137962
+PLUGIN:Ground Radar plugin:AirportElevation:310
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FALE
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FALE

@@ -1,0 +1,124 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC high boundary:FAJO:
+ARTCC high boundary:FBGR:
+ARTCC high boundary:FQBE:
+ARTCC high boundary:FYWH:
+Runways:FAAB 01-19:centerline
+Runways:FAAB 07-25:centerline
+Runways:FAAB 11-29:centerline
+Runways:FABE 08-26:centerline
+Runways:FABL 02-20:centerline
+Runways:FABL 12-30:centerline
+Runways:FABM 11-29:centerline
+Runways:FABM 13-31:centerline
+Runways:FABW 08-26:centerline
+Runways:FABW 17-35:centerline
+Runways:FACD 16-34:centerline
+Runways:FACF 10-28:centerline
+Runways:FACO 14-32:centerline
+Runways:FACT 01-19:centerline
+Runways:FACT 16-34:centerline
+Runways:FACV 09-27:centerline
+Runways:FAEL 06-24:centerline
+Runways:FAEL 11-29:centerline
+Runways:FAFO 11-29:centerline
+Runways:FAFO 16-34:centerline
+Runways:FAGC 17-35:centerline
+Runways:FAGG 11-29:centerline
+Runways:FAGM 11-29:centerline
+Runways:FAGM 17-35:centerline
+Runways:FAGR 04-22:centerline
+Runways:FAGR 15-33:centerline
+Runways:FAGY 06-24:centerline
+Runways:FAHG 06-24:centerline
+Runways:FAHS 09-27:centerline
+Runways:FAHS 18-36:centerline
+Runways:FAKM 02-20:centerline
+Runways:FAKM 10-28:centerline
+Runways:FAKN 05-23:centerline
+Runways:FAKR 08-26:centerline
+Runways:FAKU 02-20:centerline
+Runways:FAKZ 02-20:centerline
+Runways:FALA 07-25:centerline
+Runways:FALE 06-24:centerline
+Runways:FALM 10-28:centerline
+Runways:FALW 02L-20R:centerline
+Runways:FALW 02R-20L:centerline
+Runways:FALW 07-25:centerline
+Runways:FALW 16-34:centerline
+Runways:FALY 11-29:centerline
+Runways:FAMB 02-20:centerline
+Runways:FAMB 14-32:centerline
+Runways:FAMD 16-34:centerline
+Runways:FAMG 05-23:centerline
+Runways:FAMM 04-22:centerline
+Runways:FAMN 09-27:centerline
+Runways:FANC 11-29:centerline
+Runways:FANS 04-22:centerline
+Runways:FAOB 10-28:centerline
+Runways:FAOB 17-35:centerline
+Runways:FAOH 04-22:centerline
+Runways:FAOR 03L-21R:centerline
+Runways:FAOR 03R-21L:centerline
+Runways:FAPE 08-26:centerline
+Runways:FAPE 17-35:centerline
+Runways:FAPG 12-30:centerline
+Runways:FAPH 01-19:centerline
+Runways:FAPI 08-26:centerline
+Runways:FAPL 16-34:centerline
+Runways:FAPM 16-34:centerline
+Runways:FAPN 05-23:centerline
+Runways:FAPP 01-19:centerline
+Runways:FAPP 05-23:centerline
+Runways:FAPS 03-21:centerline
+Runways:FAPS 15-33:centerline
+Runways:FARB 05-23:centerline
+Runways:FASC 11-29:centerline
+Runways:FASD 02-20:centerline
+Runways:FASK 02-20:centerline
+Runways:FASS 17-35:centerline
+Runways:FASX 06-24:centerline
+Runways:FASX 15-33:centerline
+Runways:FASY 13-31:centerline
+Runways:FASZ 17-35:centerline
+Runways:FATF 03-21:centerline
+Runways:FATP 01-19:centerline
+Runways:FATP 10-28:centerline
+Runways:FATW 18-36:centerline
+Runways:FATZ 06-24:centerline
+Runways:FAUL 02-20:centerline
+Runways:FAUL 05-23:centerline
+Runways:FAUP 01-19:centerline
+Runways:FAUP 08-26:centerline
+Runways:FAUP 17-35:centerline
+Runways:FAUT 14-32:centerline
+Runways:FAVG 05-23:centerline
+Runways:FAVM 08-26:centerline
+Runways:FAWB 06-24:centerline
+Runways:FAWB 11-29:centerline
+Runways:FAWK 01-19:centerline
+Runways:FAWK 06-24:centerline
+Runways:FAYP 02-20:centerline
+Runways:FAZR 04-22:centerline
+Runways:FDMS 07-25:centerline
+Runways:FDSK 02-20:centerline
+Runways:FXMM 04-22:centerline
+Runways:FXMM 11-29:centerline
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:21.00000
+TAGFAMILY:ATNS - TopSky
+WINDOWAREA:-27.914156:24.789410:-24.818108:31.200916
