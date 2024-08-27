@@ -7,8 +7,9 @@ assignees: ""
 ---
 
 **Are you suggesting a mere update or a new Ground Layout?**
-[ ] New Ground Layout
-[ ] Update to an existing Ground Layout
+
+- [ ] New Ground Layout
+- [ ] Update to an existing Ground Layout
 
 **Description**
 Please provide a clear and concise description of the updates required.
