@@ -6,10 +6,11 @@
 *.pdf
 
 # Folder Exclusions
-FASA/Alias/*
-FASA/NavData/*
-FASA/ICAO/*
-FASA/Sounds/*
+FASA/*
+Alias/*
+NavData/*
+ICAO/*
+Sounds/*
 
 # File Exclusions
 *aeronav_copyright.txt
