@@ -15,9 +15,17 @@ Please provide the NOTAM description.
 **What features does this NOTAM impact?**
 
 - [ ] Ground Layout
-- [ ] Ground Radar
+- [ ] GroundRadar
 - [ ] TopSky
 - [ ] vATIS
+
+**What eAIP pages require updating?**
+
+- [ ] Airspace
+- [ ] AD Delivery
+- [ ] AD Ground
+- [ ] AD Tower
+- [ ] AD Approach
 
 **Screenshots**
 If possible, attach screenshots that demonstrate the need.
