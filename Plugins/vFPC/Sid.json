@@ -19,9 +19,42 @@
                     "airways": [ "UN186" ]
                 }
             ],
-            "OMNI": [
+            "VCT": [
                 {
-                    "direction": "ANY"
+                    "direction": "ODD",
+                    "min_fl": 200,
+                    "airways": [ "UQ42", "Q42", "Z30", "UZ30" ]
+                },
+                {
+                    "direction": "EVEN",
+                    "min_fl": 200,
+                    "airways": [ "UQ43", "Q43" ]
+                },
+                {
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": [ "UN186" ]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 200,
+                    "airways": [ "UZ2", "UZ39", "Z2", "Z39" ]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 200,
+                    "airways": [ "UQ12", "Q12" ]
+                },
+                {
+                    "direction": "EVEN",
+                    "min_fl": 200,
+                    "airways": [ "UQ36", "Q36", "Q34", "UQ34" ]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 145,
+                    "max_fl": 245,
+                    "airways": [ "A402", "A405" ]
                 }
             ],
             "TETAN": [
@@ -64,6 +97,93 @@
                     "min_fl": 145,
                     "engine": "T",
                     "airways": [ "W95", "UW95", "A405", "UA405" ]
+                }
+            ],
+            "VCT":[
+                {
+                    "direction": "EVEN",
+                    "min_fl": 145,
+                    "airways": [ "W95", "UW95", "A405", "UA405" ]
+                },
+                {
+                    "direction": "EVEN",
+                    "min_fl": 200,
+                    "airways": [ "Q10", "UQ10", "UZ6", "Z6" ]
+                },
+                {
+                    "direction": "EVEN",
+                    "min_fl": 200,
+                    "airways": [ "Q24", "UQ24", "Q41", "UQ41", "UZ21", "Z21" ]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 200,
+                    "airways": [ "Q1", "UQ1" ]
+                },
+                {
+                    "direction": "ODD",
+                    "airways": [ "Q40", "UQ40" ],
+                    "min_fl": 200
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 200,
+                    "airways": [ "Q2", "UQ2" ]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 200,
+                    "airways": [ "T122", "UT122", "Q4", "UQ4" ]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 200,
+                    "airways": [ "Q48", "UQ48" ]
+                },
+                {
+                    "direction": "EVEN",
+                    "min_fl": 200,
+                    "airways": [ "Q7", "UQ7" ]
+                },
+                {
+                    "direction": "EVEN",
+                    "min_fl": 200,
+                    "airways": [ "Q24", "UQ24", "Q41", "UQ41", "UZ21", "Z21" ]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 200,
+                    "airways": [ "UZ17", "Z17" ]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 145,
+                    "airways": [ "G853", "UG853" ]
+                },
+                {
+                    "direction": "EVEN",
+                    "min_fl": 145,
+                    "airways": [ "G655", "UG655" ]
+                },
+                {
+                    "direction": "EVEN",
+                    "min_fl": 200,
+                    "airways": [ "UZ16", "Z16" ]
+                },
+                {
+                    "direction": "EVEN",
+                    "min_fl": 200,
+                    "airways": [ "UQ7", "Q7" ]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 200,
+                    "airways": [ "Q28", "UQ28" ]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 200,
+                    "airways": [ "Z18", "UZ18" ]
                 }
             ],
             "RAGUL": [
@@ -172,29 +292,20 @@
     {
         "icao": "FALA",
         "sids": {
-            "JSV": [
+            "VCT": [
                 {
                     "direction": "ODD",
                     "destinations": [ "FALE" ]
                 },
                 {
-                    "direction": "ANY"
-                }
-            ],
-            "RAGUL": [
-                {
                     "direction": "EVEN",
                     "airways": [ "Q10", "UQ10", "UZ6", "Z6" ]
-                }
-            ],
-            "VASUR": [
+                },
                 {
                     "direction": "EVEN",
                     "min_fl": 200,
                     "airways": [ "Q24", "UQ24", "Q41", "UQ41", "UZ21", "Z21" ]
-                }
-            ],
-            "NESAN": [
+                },
                 {
                     "direction": "ANY",
                     "min_fl": 200,
@@ -275,11 +386,21 @@
                     "airways": [ "Q10", "UQ10" ]
                 }
             ],
-            "KYV": [
+            "VCT": [
                 {
                     "direction": "ANY",
                     "min_fl": 200,
                     "airways": [ "A405", "UA405" ]
+                },
+                {
+                    "direction": "EVEN",
+                    "min_fl": 200,
+                    "airways": [ "Q10", "UQ10" ]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 200,
+                    "airways": [ "Z2", "UZ2" ]
                 }
             ]
         }
@@ -294,7 +415,7 @@
                     "airways": [ "UZ4", "Z4" ]
                 }
             ],
-            "BLV": [
+            "VCT": [
                 {
                     "direction": "ODD",
                     "min_fl": 200,
@@ -309,6 +430,11 @@
                     "direction": "EVEN",
                     "min_fl": 145,
                     "airways": [ "W81", "UW81", "W95", "UW95" ]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 200,
+                    "airways": [ "UZ4", "Z4" ]
                 }
             ]
         }
@@ -316,28 +442,22 @@
     {
         "icao": "FAGG",
         "sids": {
-            "KATOR": [
+            "VCT": [
                 {
                     "direction": "ODD",
                     "min_fl": 200,
                     "airways": [ "UZ4", "Z4" ]
-                }
-            ],
-            "GABGO": [
+                },
                 {
                     "direction": "ODD",
                     "min_fl": 200,
                     "airways": [ "Q58", "UQ58" ]
-                }
-            ],
-            "ETBUL": [
+                },
                 {
                     "direction": "EVEN",
                     "min_fl": 200,
                     "airways": [ "Q49", "UQ49" ]
-                }
-            ],
-            "GRV": [
+                },
                 {
                     "direction": "ODD",
                     "min_fl": 200,
@@ -365,21 +485,17 @@
     {
         "icao": "FAPE",
         "sids": {
-            "OKRAV": [
+            "VCT": [
                 {
                     "direction": "EVEN",
                     "min_fl": 200,
                     "airways": [ "Q49", "UQ49" ]
-                }
-            ],
-            "ITKIT": [
+                },
                 {
                     "direction": "ODD",
                     "min_fl": 200,
                     "airways": [ "UZ5", "Z5", "Q30", "UQ30" ]
-                }
-            ],
-            "PEV": [
+                },
                 {
                     "direction": "EVEN",
                     "min_fl": 145,
@@ -400,6 +516,125 @@
                     "direction": "EVEN",
                     "min_fl": 200,
                     "airways": [ "Q33", "UQ33" ]
+                }
+            ]
+        }
+    },
+    {
+        "icao": "FAEL",
+        "sids": {
+            "VCT": [
+                {
+                    "direction": "EVEN",
+                    "min_fl": 145,
+                    "airways": [ "A402", "UA402" ],
+                    "destinations": ["FACT","FAPE","FAGG"]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 145,
+                    "airways": [ "A402", "UA402" ],
+                    "destinations": ["FALE"]
+                },
+                {
+                    "direction": "EVEN",
+                    "min_fl": 200,
+                    "airways": [ "Q29", "UQ29" ]
+                },
+                {
+                    "direction": "EVEN",
+                    "min_fl": 200,
+                    "airways": [ "Q31", "UQ31" ]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 200,
+                    "airways": [ "Z20", "UZ20" ]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 200,
+                    "airways": [ "Z34", "UZ34" ]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 200,
+                    "airways": [ "Q30", "UQ30" ]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 200,
+                    "airways": [ "Z37", "UZ37" ]
+                }
+            ]
+        }
+    },
+    {
+        "icao": "FDSK",
+        "sids": {
+            "VCT": [
+                {
+                    "direction": "EVEN",
+                    "min_fl": 290,
+                    "airways": [ "UT195"]
+                },
+                {
+                    "direction": "EVEN",
+                    "min_fl": 200,
+                    "airways": [ "Q21","UQ21"]
+                },
+                {
+                    "direction": "EVEN",
+                    "min_fl": 200,
+                    "airways": [ "T949","UT949"],
+                    "destinations": ["FACT","FABL","FAPE","FAEL","FAGG","FAKM"]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 200,
+                    "airways": [ "T949","UT949"]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 200,
+                    "airways": [ "T122","UT122"]
+                }
+            ]
+        }
+    },
+    {
+        "icao": "FAKN",
+        "sids": {
+            "VCT": [
+                {
+                    "direction": "EVEN",
+                    "min_fl": 200,
+                    "airways": [ "T433","UT433"]
+                },
+                {
+                    "direction": "EVEN",
+                    "min_fl": 145,
+                    "airways": [ "G745","UT466"]
+                },
+                {
+                    "direction": "EVEN",
+                    "min_fl": 200,
+                    "airways": [ "Z36","UZ36"]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 290,
+                    "airways": [ "UT915"]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": [ "UQ13"]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 200,
+                    "airways": [ "Z36","UZ36"]
                 }
             ]
         }
