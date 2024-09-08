@@ -9,7 +9,7 @@ This is the Sector File Development Repository for the FACA Cape Town FIR and FA
 
 ## Overview
 
-The Accra FIR covers the entirety of Ghana's borders as well as Benin's and Togo's. It is neighbored by Dakar FIR in the West (as well as Dakar Oceanic), the Niamey FIR in the North, the Kano and Brazzaville in the East and Luanda in the South.
+The Cape Town and Johannesburg FIRs cover the entire territory of South Africa as well as the airspace above the countries of Lesotho and Eswatini.
 
 ## Countries & Territories
 
@@ -19,8 +19,8 @@ The Accra FIR covers the entirety of Ghana's borders as well as Benin's and Togo
 
 ## Key Airports
 
-- FACT |
-- FAOR |
+- FACT
+- FAOR
 
 ## How to Contribute
 
