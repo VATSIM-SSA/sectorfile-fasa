@@ -3,14 +3,14 @@
 === Airspace ===
 
 ^ ICAO  ^ Name              ^ SSA Code  ^ Type    ^ Remarks ^
-| FACA  | Cape Town | [[FACA]] | -       | - |
-| FAJA  | Johannesburg | [[FAJA]] | -       | - |
+| FACA  | Cape Town | [[airspace:faca:home|FACA]] | -       | - |
+| FAJA  | Johannesburg | [[airspace:faja:home|FAJA]] | -       | - |
 
 
 
 === Oceanic ===
 ^ ICAO  ^ Name              ^ SSA Code  ^ Type    ^ Remarks ^
-| FAJO  | Johannesburg Oceanic | [[FAJO]] | -       | - |
+| FAJO  | Johannesburg Oceanic | [[airspace:fajo:home|FAJO]] | -       | - |
 
 
 

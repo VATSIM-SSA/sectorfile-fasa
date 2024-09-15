@@ -8,7 +8,7 @@ Cape Town FIR covers the following airports:
 
 === South Africa (FACA) ===
 
-{{page>south_africa-airports#South Africa Airports (FACA)}}
+{{page>country:south-africa:airports#South Africa Airports (FACA)}}
 
 
 {{page>fa-footer#FACA}}

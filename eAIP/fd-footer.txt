@@ -1,11 +1,11 @@
 ===== Eswatini =====
 ----
 
-//This page is a subsection of the [[Eswatini]] country page.//
+//This page is a subsection of the [[country:eswatini:home|Eswatini]] country page.//
 
 
 ==== FDSK ====
 
 ----
 
-[[FDSK]] -  Sikhuphe Intl | v0.1
+[[airport:fdsk:home|FDSK]] -  Sikhuphe Intl | v0.1

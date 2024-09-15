@@ -8,7 +8,7 @@ Johannesburg FIR covers the following airports:
 
 === South Africa (FAJA) ===
 
-{{page>south_africa-airports#South Africa Airports (FAJA)}}
+{{page>country:south-africa:airports#South Africa Airports (FAJA)}}
 
 
 {{page>fa-footer#FAJA}}

@@ -1,6 +1,6 @@
 ===== FAJA | Johannesburg | FASA =====
 
-{{tabembed>about|About,classification|Classification,sectors|Sectors,rules|Rules,initialclimb|Initial Climb,transitions|TA/TL,loa|Agreements,sectorfile|Sector File,alias-std|Alias}}
+{{tabembed>about|About,classification|Classification,sectors|Sectors,rules|Rules,initialclimb|Initial Climb,transitions|TA/TL,loa|Agreements,alias-std|Alias}}
 
 
 {{page>fa-footer#FAJA}}

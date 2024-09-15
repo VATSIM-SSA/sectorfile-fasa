@@ -1,7 +1,7 @@
 ==== Lesotho Airspace ====
 
 ^ ICAO  ^ Name         ^ SSA Code  ^ Type    ^ Remarks ^
-| FAJA  | Johannesburg | [[FAJA]]  | -       | - |
+| FAJA  | Johannesburg | [[airspace:faja:home|FAJA]]  | -       | - |
 
 
 {{page>fx-footer#Lesotho}}
