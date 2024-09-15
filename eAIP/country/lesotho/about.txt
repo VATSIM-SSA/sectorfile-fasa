@@ -1,0 +1,8 @@
+===== Lesotho Information =====
+
+Lesotho, officially the Kingdom of Lesotho, is a country landlocked as an enclave in [[south_africa|South Africa]]. It is situated in the Maloti Mountains and contains the highest mountains in Southern Africa. It has an area of over 30,000 km2 (11,600 sq mi) and has a population of about 2 million. 
+
+For more information, please visit [[https://en.wikipedia.org/wiki/Lesotho|Wikipedia]].
+
+
+{{page>fx-footer#Lesotho}}

@@ -1,0 +1,73 @@
+===== FAOR Approach =====
+
+  
+ 
+
+==== Arrivals Procedures ====
+
+^ Rwy ^ Fix ^ Arrival ^ Type ^ Track Miles ^ Approach ^ Remarks ^
+| 21  | AVAGO | AVAGO2B | ::: |  |          | - |
+| 21L  | NIBEX | NIBEX2C| ::: |  |          | - 
+| ::: | OKPIT | OKPIT4B | ::: | |          | - 
+| ::: | STANDERTON | STANDERTON5b  | ::: |  |          
+| ::: | WITBANK| WITBANK3c | ::: | |          | - |
+| 03  | AVAGO| AVAGO2B | ::: |  |          |
+| 03R  | AVILO | AVILO1A | ::: |  |           
+| ::: | NIBEX | NIBEX2A | ::: |          
+| ::: | OKPIT | OKPIT4A | ::: | |         
+| ::: | STANDERTON | STANDERTON6A | ::: | |  
+| ::: | WITBANK | WITBANK4A | ::: | |
+   
+
+
+^ Rwy ^ Approach ^ Frequency ^ Course ^ GP Angle ^ IAF/TANS ^ Platform ^|
+| 03L  | VOR DME ILS  | 110.3 JSI | 034º | 3.00º | JSI                 | 3000 ft |    
+| 03R  | VOR DME ILS | 109.1 JNI | 034º | 3.00º |   | 9000 ft | 
+| ::: | RNAV (GNSS) | N/A       | 034º | 3.00º | AVAGO,AVILO, NIBEX or STANDERTON | 8000 ft |
+| ::: | VOR DME | 115.2 JSV     | 034º | 3.00º | JAI                  | 8000 ft | 
+| 21L  | VOR DME ILS | 109.9 JAI | 214º | 3.00º |   | 8000 ft | 
+| ::: | RNAV (GNSS) | N/A       | 214º | 3.00º | NIGOS,UVLOG or ETGAV | 8000 ft |
+| ::: | VOR DME | 115.2 JSV     | 214º | 3.00º | JSV                  | 8000 ft |
+| 21R  | VOR DME ILS | 110.9 JAI | 214º | 3.00º |   | 8000 ft | 
+| ::: | RNAV (GNSS) | N/A       | 214º | 3.00º | APDAK,EGMEN or GEROX | 8000 ft |
+| ::: | VOR DME | 115.2 JSV     | 214º | 3.00º | JSV                  | 8000 ft |
+
+==== Holds ====
+
+^ Name ^ STAR ^ Altitude ^ Speed (IAS) ^ Inbound CRS ^ Turn ^ Leg Time ^ Remarks ^
+| CTV   | - | 3000 ft + | 230 KT | 009º | Left | 1 min | Runway 19|
+| CB    | - | 4000 ft + | 230 KT | 189º | Left | 1 min | Runway 19 |
+| EKBEV | - | 6100 ft + | 230 KT | 100º | Right | 1 min | RNAV, Runway 01|
+| UTREV | - | 6100 ft + | 230 KT | 100º | Right | 1 min | RNAV, Runway 19 |
+
+
+==== Missed Approach Procedures ====
+
+^ Rwy ^ Approach ^ Missed Approach Procedure ^ Remarks ^
+| 03L  | VOR DME ILS | Climb to 8000 ALT. Maintain RWY track to 3.5 DME JSI. At 3.5 DME JSI turn left (MAX 220KT IAS) onto HDG 300°. Crossing R210 WKV turn left onto HDG 250° to intercept R220 WKV (OUBD) for radar vectoring onto the ILS RWY 03L |
+|::: | VOR DME  | Climb to 8300 ALT. Maintain RWY track. Passing 7000 ALT, turn left HDG 214°. Passing 11 DME JSV turn left direct to JSV. |
+
+
+
+
+| 03R  | VOR DME ILS | Climb to 8000 ALT. Maintain RWY track to 7.3 DME JNI/7.3 DME JSV. At 7.3 DME JNI/7.3 DME JSV turn right (MAX 240KT IAS) onto track 130°. Crossing R027 HGV turn right onto track 180° and intercept R030 HGV (INBD) for radar vectoring onto the ILS RWY 03R.  | - |
+| ::: | RNAV (GNSS) | Climb to FL130. From JS2MP route to JS2M1 and JS2M2 turning right to JS017 and return to ETLIG or as directed by ATC. | 
+| ::: | VOR DME | Climb to 8000 ALT. Maintain RWY track. Passing 7000 ALT, turn right onto HDG 206°. Passing 11 DME JSV turn right direct to JSV. |
+
+
+| 21L  | VOR DME ILS |Climb to 8000 ALT. Maintain RWY track. Passing 7000 ALT, turn left onto HDG 038°. Passing 11 DME JSV, turn left direct to JSV.  | - |
+| ::: | RNAV (GNSS) | Climb to 8000 ALT to JS3M1. From JS3MP route JS3M1, JS3M2 to ETGAV (MAX240KT IAS) or as directed by ATC.| 
+
+| 21R  | VOR DME ILS |Climb to 8000FT ALT. Maintain RWY track to 6.8 DME JBI then turn right onto HDG 350° (MAX 250KT IAS). Cross 6.8 DME JBI at 7000FT ALT or above. Crossing R225 WKV turn right to intercept R230 WKV (INBD) for radar vectoring onto the ILS RWY 21R. | - |
+| ::: | VOR DME |Climb to 8000 ALT and maintain RWY track to JSV. Overhead JSV turn right (MAX 240KTS IAS) onto HDG 320°. Crossing R214 WKV turn right onto HDG 040° for radar vectoring onto RWY 21R. |
+
+
+
+==== MSA and MRVA ====
+
+^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA ^ Remarks ^
+
+| CPT | 0 nm | 25 nm | 0º | 0º | 2500 ft | - |
+
+
+{{page>fa-footer#FAOR}}

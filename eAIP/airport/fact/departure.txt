@@ -1,0 +1,7 @@
+===== FACT Departure =====
+
+  * FACT doesn't have a dedicated Departure Position, with Cape Town Approach (FACT_APP) assuming the role of Departure.
+
+
+
+{{page>fa-footer#FACT}}

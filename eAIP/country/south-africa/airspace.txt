@@ -1,0 +1,18 @@
+==== South Africa Airspace ====
+
+=== Airspace ===
+
+^ ICAO  ^ Name              ^ SSA Code  ^ Type    ^ Remarks ^
+| FACA  | Cape Town | [[FACA]] | -       | - |
+| FAJA  | Johannesburg | [[FAJA]] | -       | - |
+
+
+
+=== Oceanic ===
+^ ICAO  ^ Name              ^ SSA Code  ^ Type    ^ Remarks ^
+| FAJO  | Johannesburg Oceanic | [[FAJO]] | -       | - |
+
+
+
+
+{{page>fa-footer#South Africa}}

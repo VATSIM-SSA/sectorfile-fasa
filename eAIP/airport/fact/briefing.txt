@@ -1,0 +1,64 @@
+===== FACT Pilot Briefing =====
+
+//Pilots taking part in events that depart from or arrive to FACT should make themselves familiar with this briefing page as well as with all existing charts.//
+
+==== Overview ====
+
+  * FACT Cape Town Intl is South African's second most buy airport, capable of supporting a high volume of international traffic. Although it has two runways, expect a single runway operation with runways 01/19. Be aware of the mountainous terrain east of the airport and the high speed exits available.
+
+==== Departure Briefing ====
+
+=== Clearance Delivery ===
+
+  * FACT_DEL will be the Position responsible for providing you with a Departure Clearance.
+  * For flights taking part in Events, pilots will be given a Cruise Flight Level that allows for en-route separation. It might not match your Requested Flight Level.
+  * You may be given a Runway Heading as a Departure Procedure, particularly if departing runway 19.
+  * Be aware that there is high terrain East of the aerodrome. Certain departure procedures have specific climb performance requirements. As the pilot, you are responsible to ensure your aircraft is able to meet those requirements (beware of heavy payloads). If unable to meet them, notify the controller.
+
+
+=== Ground Procedures ===
+
+  * FACT_GND will be the Position responsible for providing push-back and taxiing instructions.
+  * FACT_E_GND may be opened to facilitate Ground Operations east of the runway.
+  * Be aware that at Cape Town, when pushing back, you will be occupying the main taxiway. So be prepared to taxi out in the most efficient possible way.
+  * Remember to squawk Mode C before taxiing.
+  * Runway 16/34 is not active. If taxiing to runway 19, you'll be given an instruction to cross the runway without need to contact Tower.
+  * If told to monitor a frequency, you're expected to tune in the frequency but not to contact the controller. He will contact you when able.
+  * When approaching the runway, you'll be asked to report fully ready for departure. That means that when given line-up or take-off clearance, you're expected to be ready to do so without delay. If you need more time, please advise the tower.
+
+=== Departure Procedures ===
+
+  * Comply with your assigned departure procedure and do not climb above your initial Climb Altitude unless instructed so.
+  * You may be given intermediate climb instructions due to traffic. Do not climb above any assigned flight level.
+  * Comply with any speed restrictions if provided. They are important to maintain adequate separation between traffic.
+  * You may be transferred from Tower directly to Johannesburg Oceanic. That's ok.
+
+==== Arrival Briefing ====
+
+=== Arrivals and Approaches ===
+
+  * As your flight is approaching FACT, you should make yourself familiar with the existing Arrivals (STARs), Holding Points and Approaches.
+
+  * Be aware that FACT has distinct sets of Approaches (ILS, RNAV and VOR) and that they have distinct approach procedures. Controllers will inform you what Approach to expect based on an assigned Arrival. Most likely, during busy events, expect the ILS approach.
+
+  * FACT is a dual runway airport, but regular operations are single runway, so during Arrival Events, you should expect to Hold.
+
+  * In case of Missed Approach, climb 6500 ft and maintain runway heading. You'll receive further instructions by the Controllers.
+
+  * During busy events, expect to vacate left on E if landing 01 or vacate right on C if landing 19. You might be requested by Tower to continue taxi after vacating the runway. Follow the instructions.
+
+
+==== Oceanic Operations ====
+
+  * For Johannesburg Oceanic flights, you will not be required to request an Oceanic Clearance.
+  * You will be requested however to maintain your Flight Level and an assigned Mach Number.
+  * During Oceanic En-route, you'll be able to request higher flight levels, depending on availability.
+  * Position Reports will not be required. You may be requested from Oceanic Controllers to provide your ETO (Expected Time Overhead) for a specific waypoint. What the Controller is expecting is your time (as in, 1615z) at the specific waypoint.
+  * Remain on your last ATC assigned squawk code until instructed otherwise.
+  * Johannesburg Oceanic operates in an HF simulated frequency. As a pilot, you just need to tune your assigned VHF frequency, but beware that there might be some bad audio coverage spots (we hope not).
+  * CPDLC is available at Johannesburg Oceanic, but it might not be available at either the Ezeiza FIR (flights to Buenos Aires) or the Atlantico FIR (flights to São Paulo).
+  * SELCAL is also available at Johannesburg Oceanic.
+  * SLOP (Strategic Lateral Offset Procedure) is also available at Johannesburg Oceanic.
+
+
+{{page>fa-footer#FACT}}

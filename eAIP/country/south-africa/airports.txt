@@ -1,0 +1,25 @@
+==== South Africa Airports (FACA) ====
+
+^ ICAO      ^ Name           ^ City          ^ Status             ^ Remarks ^
+| [[FACT]]  | Cape Town Intl            | Cape Town      | //In Development// | - |
+| [[FAGG]]  | George                    | George         | //In Development// | - |
+| [[FAPE]]  | Chief Dawid Stuurman Intl | Port Elizabeth | //In Development// | - |
+| [[FAEL]]  | King Phalo                | East London    | //In Development// | - |
+| [[FAUT]]  | Mthatha                   | Mthatha        | //In Development// | - |
+| [[FALW]]  | Langebaanweg              | Langebaanweg   | //In Development// | - |
+| [[FAOB]]  | Overberg AFB              | Overberg       | //In Development// | - |
+
+==== South Africa Airports (FAJA) ====
+
+^ ICAO      ^ Name            ^ City          ^ Status             ^ Remarks ^
+| [[FAOR]]  | O.R. Tambo Intl        | Johannesburg      | //In Development// | - |
+| [[FALA]]  | Lanseria Intl          | Lanseria          | //In Development// | - |
+| [[FABL]]  | Bram Fischer Intl      | Bloemfontein      | //In Development// | - |
+| [[FAKM]]  | Kimberley              | Kimberley         | //In Development// | - |
+| [[FALE]]  | King Shaka Intl        | Durban            | //In Development// | - |
+| [[FAWB]]  | Wonderboom             | Pretoria          | //In Development// | - |
+| [[FAKN]]  | Kruger Mpumalanga Intl | Kruger Mpumalanga | //In Development// | - |
+| [[FAUP]]  | Upington Intl          | Upington          | //In Development// | - |
+| [[FAWK]]  | Waterkloof AFB         | Waterkloof        | //In Development// | - |
+
+{{page>fa-footer#South Africa}}

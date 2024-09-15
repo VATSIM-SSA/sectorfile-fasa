@@ -1,0 +1,21 @@
+===== FAWB Briefing =====
+
+==== VFR Traffic ====
+
+=== General Procedures ===
+On first contact with Wonderboom, VFR traffic is expected to report the following information:
+  * Aircraft Type
+  * Registration (if ATC callsign is not the aircraft registration)
+  * Persons on Board
+  * Fuel Endurance
+  * In addition, **outbound traffic** should report:
+    * Position on the aerodrome
+    * Estimated elapsed time (referred to as "Elapsed Time")
+    * Departure request (including flight plan information, training request, etc.)
+  * In addition, **inbound traffic** should report:
+    * Position and altitude
+    * Inbound request (approach type, intentions to join the circuit, etc.)
+
+
+
+{{page>fa-footer#FAWB}}

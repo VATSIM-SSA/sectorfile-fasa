@@ -1,0 +1,46 @@
+===== FAOR Ground =====
+
+==== Push-back Procedures ====
+
+=== Phraseology ===
+
+<code>Springbok 78, push and start is approved, face [direction], QNH xxxx</code>
+
+=== Directions ===
+
+^ Apron ^ Type ^ Facing ^ Remarks ^
+| Apron A | All | North/South | Except stands A1 - A2 |
+| Apron B | All | North/South | - |
+| Apron C | All | East |
+| Apron D | All | North/South | - |
+| Apron E | All | East | - |
+| Apron F | All | East | - |
+| Apron G | All | North/South | - |
+
+==== Taxi Out Procedures ====
+
+  * The ground controller will only be allowed to take aircraft as far as the CAT2 holding point.
+ 
+  * Pilots can expect the ground controller to transfer them to tower upon reaching RWY03L/21R.
+  * If runway crossing is needed in order to continue taxiing, pilots are expected to hold short the runway and ONLY cross when explicitly instructed by tower.
+
+
+=== Phraseology ===
+
+<code>Springbok 332 taxi to the CAT 2 holding point RWY03L via I and B</code>
+
+
+==== Taxi In Procedures ====
+
+  * In order to maintain the high speed exits clear of traffic, Tower Controllers will issue an initial taxi instruction to arrival traffic before handover to Ground Controllers.
+   
+  * Pilots can expect to be transferred from tower controller to ground controller after crossing 03L/21R, if arrival runway is 03R/21L.
+  * If arrival runway is 03L/21R, controller hand-off can be expected after vacating the runway. Pilots are not to taxi further without ground instruction. 
+
+
+
+ 
+=== Phraseology ===
+
+
+{{page>fa-footer#FAOR}}
