@@ -1,0 +1,10 @@
+===== FACT Scenery =====
+
+^ Platform ^ Type       ^ Developer     ^ Link ^ Remarks ^
+| P3D       | Payware   | FSDG          | [[https://fsdg-online.com/Sceneries/FSX-P3D/Full-Sceneries/Cape-Town::27.html|Scenery]] | - |
+| FSX       | Payware   | FSDG          | [[https://fsdg-online.com/Sceneries/FSX-P3D/Full-Sceneries/Cape-Town::27.html|Scenery]] | - |
+| XP11      | Payware   | FSDG          | [[https://fsdg-online.com/Sceneries/X-Plane/Cape-Town-XP::36.html|Scenery]] | - |
+| MSFS      | Payware   | FSDG          | [[https://fsdg-online.com/Sceneries/FS2020/FS2020-Full/Cape-Town-FS2020::65.html|Scenery]] | - |
+| MSFS      | Freeware  | -             | [[https://flightsim.to/discover/cape%20town|Scenery]] | Additional Cape Town Scenery Mods |
+
+{{page>fa-footer#FACT}}

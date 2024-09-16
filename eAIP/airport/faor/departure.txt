@@ -1,0 +1,11 @@
+===== FAOR Departure =====
+
+  * FAOR doesn't have a dedicated Departure Position, with Johannesburg Approach (FAOR_APP) assuming the role of Departure.
+
+
+==== Departure Procedures ====
+
+  * 
+
+
+{{page>fa-footer#FAOR}}

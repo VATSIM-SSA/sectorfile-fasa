@@ -5,7 +5,7 @@ m_ShowRouteFixName:1
 m_ShowRouteETA:1
 m_ShowCalculatedHeading:1
 m_ShowSimulatedData:0
-m_TransitionAltitude:9000
+m_TransitionAltitude:8500
 m_AllowConcernedACTagDown:0
 m_CenterlineDme:0.0
 m_CenterlineLength:10.0
@@ -62,11 +62,11 @@ SET_WTC_A380:S
 m_RotateRouteTexts:0
 m_NeverCloseFreqChat:1
 m_KeepScratchPadAfterDirect:1
-m_HiliteASELAircraft:1
+m_HiliteASELAircraft:0
 m_EnableVoiceRecognition:0
 m_VoiceRecognitionStyle:2
 m_SModeTransponders:IEFGRWQ
-m_CorrelationMode:1
+m_CorrelationMode:2
 m_CorrelationDistance:30
 m_SimulateRadars:1
 m_AllowCorrelatedTAGDown:1

@@ -1,0 +1,156 @@
+===== FAWB Ground =====
+
+----
+
+==== Overview ====
+^ Position ^ Frequency ^ Services Available ^ Top-Down ^ Responsibilities ^
+| FAWB_GND | 120.600 | Aerodrome Control Service | //None// | Ground movements on the maneuvering area and issuing clearances as required |
+
+----
+
+==== The Aerodrome ====
+[[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FAWB_AERODROME%20CHART_AD-01.pdf]]
+
+=== Aprons and Parking ===
+Wonderboom has three aprons: Apron A, Apron B, Apron C.
+\\ 
+\\ **Apron A** is primarily used to store aircraft which have been abandoned or are in maintenance at one of the AMOs located adjacent the apron. Recently, FlyFofa began training operations from the east side of Apron A.
+\\ 
+\\ **Apron B** is the visitor's apron, used primarily charter companies without a hanger and private operators flying into Wonderboom for the day. It is separated from Apron A by a fence.
+\\ 
+\\ **Apron C** used to be the primary apron for flight school operators. Sadly due to past airline operations, the apron is now often empty and is only used as overflow parking for Apron B.
+\\ 
+\\ Most flight schools and charter companies operating at Wonderboom have moved to hangarage for their fleets. Some of the notable operators include:
+  * Blue Chip, Hanger adjacent NAC
+  * Eagle Air, Hanger 58A
+  * FlyFofa, Hanger 3
+  * Loutzavia, Hanger 70
+  * Professional Flight Centre, Hangar S1
+  * Thompson Aviation, Hangar S1
+
+=== Run-Up Bays ===
+A run-up bay is the part of the maneuvering area where aircraft can safely perform engine run-ups without the risk of damage to property and other aircraft.
+\\ 
+\\ The following aircraft are assumed to require a run-up:
+  * Single and Twin Piston Engine
+  * Training Aircraft
+  * Any aircraft requesting a run-up
+
+Aircraft which do not require a run-up may be taxied directly to the appropriate holding point.
+\\ 
+\\ Wonderboom has two defined run-up bays: \\
+== Runway 06 ==
+//Note: Aircraft on the east side of runway 06 perform their run-up checks on taxiway F.//
+{{:media:ru06.png?200 |}}\\
+
+== Runway 29 ==
+{{:media:ru29.png?200 |}}
+
+== Runway 11 and 24 ==
+For runway 11 and 24, there are no bays for run-ups. Aircraft instead position to the left of the taxiway, angled to the right to allow for other aircraft to overtake on the right side of the taxiway in the following areas:
+\\ **Runway 11:** Taxiway D between the threshold and taxiway C (segment D1).
+\\ **Runway 24:** Taxiway B between the threshold and taxiway C (segment B3).
+
+----
+
+==== General Procedures ====
+=== Squawk Code Allocation ===
+
+Due to the real-world system for generating squawk codes for flightplans, Ground issues the squawk for an outbound aircraft after the aircraft has completed its run-up. If a run-up is not required, the squawk must be provided before handing the aircraft off to Tower.
+\\ 
+\\ Aircraft not operating on a flightplan are expected to set a squawk of 2000. This is **not** instructed by Ground.
+\\ 
+\\ Aircraft with a filed flightplan are to be given a TopSky allocated squawk for the Johannesburg FIR. 
+
+=== Use of Runway 06/24 ===
+When runway 11/29 is the active runway, Tower delegates runway 06/24 to Ground to allow for its use as a taxiway parallel to taxiway G, dramatically shortening outbound taxi times. This must be done via coordination. Ground may not assume that 06/24 is available for use as a taxiway without coordination.
+\\ 
+\\ When wind conditions permit, aircraft looking to depart the CTR may request runway 06 for departure due to the shorter taxi time. This may be granted at the discretion of the Tower controller.
+
+=== Taxi Procedures ===
+== Departures ==
+Unless specifically requested, aircraft are assumed to require full runway length for departure.
+\\ 
+\\ If a departing aircraft requires a run-up, the aircraft should first be taxied to the run-up bay or the defined area for the run-up.
+\\ An example of an aircraft taxiing to run-up bay runway 29 from the east side of runway 06:
+<code>KWR taxi F, enter runway 06 for the run-up bay, report ready.</code>
+Thereafter, the aircraft can be taxied to the holding point:
+<code>KWR taxi B to holding point runway 29</code>
+Generally, departing traffic from the hanger areas are taxied to the runway or run-up bay via runway 06 and arriving traffic are taxied to the hanger areas via taxiways C, D, and G.
+\\ //Note: Using runway 06 as a taxiway is indicated by the prefix **enter**//.\\ //Taxiing northbound is indicated by **enter runway 06**//.\\ //Taxiing southbound is indicated by **enter runway 24**//.
+
+== Crossing 06/24 ==
+Aircraft are cleared to cross runway 06/24 with a specified direction.
+\\ An example of an aircraft taxiing from the eastern side hangers to runway 11:
+<code>KWR cleared to cross runway 06 east to west, then taxi G, D to holding point runway 11, report ready.</code>
+The direction may be omitted if the crossing direction is redundant.
+\\ An example of an aircraft taxiing back to the eastern side hangers:
+<code>KWR taxi C, D, G, F, cleared to cross runway 06.</code>
+
+----
+
+==== VFR Procedures ====
+
+=== General ===
+On first contact with Ground, aircraft are expected to report the following information:
+  * Aircraft Registration, if the callsign used it not the aircraft registration 
+  * Aircraft Type
+  * Persons on Board
+  * Fuel Endurance
+  * Estimated Elapsed Time (referred to as "Elasped Time")
+
+The latter three are used for Search and Rescue. On VATSIM, we maintain this standard to create a familiar environment for local pilots.
+
+=== CTR Exit Procedures ===
+Wonderboom uses standard exit procedures to aid in traffic management.
+\\ 
+\\ Ground is responsible for issuing after departure instructions to outbound aircraft. Ground does not provide an altitude with the clearance as this is given by Tower at the holding point.
+
+== North ==
+^ Runway ^ Instruction ^
+| 06 | Report outbound 2nm East of the Rooiwal Power Station |
+| 11 | ::: |
+| 24 | Report outbound 2nm West of the Rooiwal Power Station |
+| 29 | ::: |
+
+== North-East ==
+^ Runway ^ Instruction ^
+| 06 | Report outbound 5nm North-East of the Roodeplaat Dam |
+| 11 | ::: |
+| 24 | Non-standard left turn out, report outbound 5nm North-East of the Roodeplaat Dam |
+| 29 | Report outbound 5nm North-East of the Roodeplaat Dam |
+
+== East ==
+^ Runway ^ Instruction ^
+| 06 | Report outbound 5nm East of the Roodeplaat Dam |
+| 11 | ::: |
+| 24 | Non-standard left turn along the Magaliesburg Ridge, report outbound 5nm East of the Roodeplaat Dam |
+| 29 | Report outbound 5nm East of the Roodeplaat Dam |
+//Note: 5nm East of the Roodeplaat Dam implies Cullinan Dam.// 
+
+== South-East ==
+^ Runway ^ Instruction ^
+| 06 | Non-standard right turn out, report outbound South-East of Mamelodi |
+| 11 | Report outbound South-East of Mamelodi |
+| 24 | Non-standard left turn along the Magaliesburg Ridge, report outbound South-East of Mamelodi |
+| 29 | ::: |
+
+== South-West ==
+^ Runway ^ Instruction ^
+| 06 | Report outbound via Die Poort |
+| 11 | Non-standard right turn along the Magaliesburg Ridge, report outbound via Die Poort |
+| 24 | Route along the Magaliesburg Ridge, report outbound via Die Poort |
+| 29 | Non-standard left turn out, report outbound via Die Poort |
+
+== West ==
+^ Runway ^ Instruction ^
+| 06 | Report outbound overhead Rosslyn |
+| 11 | Non-standard right turn along the Magaliesburg Ridge, report outbound south abeam Rosslyn |
+| 24 | Route along the Magaliesburg Ridge, report outbound south abeam Rosslyn |
+| 29 | Report outbound south abeam Rosslyn |
+//Note: All standard exits which have initial turns opposite to the defined circuit direction are to be prefixed with **non-standard**.// 
+\\ 
+\\ An example of an aircraft flying to Kitty Hawk with runway 29 in use:
+<code>KWR QNH 1031, after departure runway 29 non-standard left turn along the Magaliesberg Ridge, report outbound South-East of Mamelodi.</code>
+
+{{page>fa-footer#FAWB}}

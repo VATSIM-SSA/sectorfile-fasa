@@ -1,0 +1,36 @@
+===== FACT Delivery =====
+
+==== IFR Clearance Rules ====
+
+  * We have not implemented any specific IFR Clearance or Flight Plan Validation rules at this point.
+
+  * VFR flights are not allowed in Class A airspace which covers FL200 and above or as designated.
+
+{{page>icao-cruiselevels#RVSM Feet}}
+
+==== Departure Procedures & Initial Climbs ====
+
+  * There are currently no Standard Instrument Departures available for Runways 01/19 FACT.
+  * Please refer to the FACT [[https://caasanwebsitestorage.blob.core.windows.net/notam-summaries-and-pib/SUMMARY.pdf|NOTAMs]] for updates on active departure procedures.
+
+^ RWY ^ Fix   ^ Departure   ^ Type            ^ Initial Climb     ^ Remarks^
+| 19  | IMSOM | <del>IMSOM1B     </del> | RNAV Departure  | FL90              | //Currently Suspended// |
+| ::: | OKTED | <del>OKTED1B     </del> | RNAV Departure  | FL90              | //Currently Suspended// |
+| ::: | TETAN | <del>TETAN1A     </del> | RNAV Departure  | FL90              | //Currently Suspended// |
+
+  * If necessary, the following Omnidirectional Departures can be provided:
+
+^ Rwy   ^ Heading   ^ Initial Climb ^ Remarks ^
+| 01    | 011º      | FL90          | - |
+| 19    | 191º      | FL90          | - |
+
+=== Phraseology ===
+
+  * Standard IFR Departure Clearance
+
+<code>CALLSIGN, cleared Cape Town to Perth, FL330 ON REQUEST, after departure, comply OKTED 1B departure, initially climb FL90,
+contact STATION on frequency FREQUENCY passing 2500 feet, squawk 3314</code>
+
+
+
+{{page>fa-footer#FACT}}

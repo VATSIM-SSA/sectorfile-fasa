@@ -4,7 +4,7 @@
         "thresholdFL":245
     },
     "prefix":{
-        "ias":"@",
-        "mach":"@"
+        "ias":"@N",
+        "mach":"@M"
     }
 }

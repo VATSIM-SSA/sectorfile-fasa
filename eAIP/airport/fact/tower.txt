@@ -1,0 +1,125 @@
+===== FACT Tower =====
+
+  * Tower is responsible for landing and departing aircraft, as well as the airspace surrounding the aerodrome. As well as controlling the CTR. The CTR at Cape Town extends from SFC to 2500FT AMSL.
+
+  * When an aircraft is received from the ground controller, the tower controller can taxi them to the CAT 1 holding point. 
+ 
+  * Tower controllers should not wait to issue frequency changes, instead instruct the pilot to switch frequency once they are airborne.
+
+==== Runway Change Operations ====
+
+  * Runway changes must be coordinate with existing DEL, GND, TWR, DEP and APP controllers.
+  * If possible, hold aircraft on stand before a runway change operation.
+  * If an aircraft is already taxying on Twys A or B, offer the pilot the option to use the existing active Rwy or to enter the runway for taxiway direction change.
+  * If an aicraft as already passed an approach IAF fix, an APP or TWR controller should advise the pilot of the possibility of a runway change prior to the aircraft being on the final approach segment.
+
+==== Wake Separation ====
+
+=== Arrivals (nm) ===
+
+^ Lead  ^ J ^ H ^ M ^ L ^
+| J     | ||||
+| H     | 6 | 4 | ||
+| M     | 7 | 5 | 5 | |
+| L     | 8 | 6 | 5 | 5 |
+
+
+=== Departures (min) ===
+
+^ Lead  ^ J ^ H ^ M ^ L ^
+| J     | ||||
+| H     | 2 | |||
+| M     | 3 | 2 | ||
+| L     | 3 | 2 | 2 | |
+
+=== Phraseology ===
+
+<code>Springbok 332 surface winds xxx/xx RW19 cleared for take off safe flight.</code>
+
+or 
+
+<code>Springbok 332 surface winds xxx/xx RW19 cleared for take off, contact approach once airborne.</code>
+
+  * This is done to speed up aircraft transfers and reduce the tower controller’s workload.
+
+
+==== Missed Approach Procedures ====
+
+==== HIRO ====
+
+  * When HIRO Ops are in effect, Tower Controllers will only handover traffic to Ground Controllers after issuing initial taxi instructions to pilots to avoid runway exit congestion.
+  * If possible, Tower Controllers should advise pilots on which exit they should expect to vacate.
+
+^ Rwy ^ Exit ^ Taxi Instructions ^ Remarks ^
+| 01  | E (High Speed) | <code>Contact Ground</code> | - |
+| ::: | Rwy 34 | <code>Taxi LEFT on ALPHA</code> | - |
+| 19  | C (Low Speed) | <code>Taxi RIGHT on BRAVO</code> | - |
+| ::: | B (Rwy End) | <code>Taxi RIGHT on BRAVO</code> | - |
+
+=== VFR Circuits ===
+
+  * Circuits are available to the West or East of FACT.
+  * Caution when circuit traffic is to the East, advise Approach of the circuit traffic as any inbound aircraft doing a visual approach will require a clearance limit to remain clear of your circuit traffic.
+
+Recommended altitude limits for aircraft in the circuit:
+
+^ Aircraft Type  ^ Altitude   ^
+| Jet            | 2000 feet  |
+| Turbine/Piston | 1500 feet  |
+| Helicopter     | 1000 feet  |
+
+=== VFR Departures & Arrivals ===
+[[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-information-publication/Enroute%20(15_Apr_2024).pdf|Enroute AIP]] page 274 for full details.
+
+Cape Town has published standard VFR departure, arrival and transit routes via:
+
+  * Kenilworth to the West
+  * Bottleray Hills to the East
+  * Coastwise transit to the South
+
+For all VFR departures and arrivals aircraft are to climb to and maintain **1500FT ALT**.
+
+== VFR Departures ==
+
+^  Runway  ^  Direction  ^ Departure                ^ CTR Exit Point                 ^ Report   ^
+|  01      |  East       | Bottleray 01 Departure   | North of Bottleray Road (M23)  | Exiting CTR  |
+|  :::     |  West       | Kenilworth 01 Departure  | North of Guguletu Vlei         | Exiting CTR  |
+|  19      |  East       | Bottleray 19 Departure   | South of Bottleray Road (M23)  | Exiting CTR  |
+|  :::     |  West       | Kenilworth 19 Departure  | South of Guguletu Vlei         | Exiting CTR  |
+
+== VFR Arrivals ==
+
+^  Runway  ^  Direction  ^ Arrival                ^ CTR Entry Point                ^ Report          ^
+|  01      |  East       | Bottleray 01 Arrival   | South of Bottleray Road (M23)  | Right Downwind  |
+|  :::     |  West       | Kenilworth 01 Arrival  | South of Guguletu Vlei         | Left Downwind   |
+|  19      |  East       | Bottleray 19 Arrival   | North of Bottleray Road (M23)  | Left Downwind   |
+|  :::     |  West       | Kenilworth 19 Arrival  | North of Guguletu Vlei         | Right Downwind  |
+
+//Image to follow//
+
+==Transit Flights through the CTR==
+
+Aircraft wishing to transit the CTR from East to West and vice versa may be routed via the **COASTWISE** route and to be below **1000FT ALT** or as directed by ATC between Muizenberg and Macassar beach.
+
+//Image to follow//
+
+=== VFR Phraseology ===
+
+__Departure Clearance__
+<code>
+<CALLSIGN> cleared FACT to <DESTINATION>, comply with the standard <Bottleray/Kenilworth XX departure>, squawk XXXX.
+</code>
+  * If it is a local flight meaning returning to FACT, the phraseology will be "Cleared FACT to FACT".
+
+__Arrival Clearance__
+<code>
+<CALLSIGN> information <ATIS CODE>, cleared inbound on the standard <Bottleray/Kenilworth XX arrival>, squawk XXXX.
+</code>
+  * The aircraft will report on downwind as it is a mandatory reporting point as part of the arrival.
+
+__Transit Clearance__
+<code>
+<CALLSIGN> enter the CTR routing coastwise, 1000 feet or below. Report exiting the CTR.
+</code>
+
+{{page>fa-footer#FACT}}

@@ -1,0 +1,1 @@
+{{url>https://embed.windy.com/embed2.html?lat=-33.965&lon=18.602&detailLat=-33.965&detailLon=18.602&width=780&height=780&zoom=8&level=surface&overlay=wind&product=ecmwf&menu=&message=&marker=true&calendar=now&pressure=true&type=map&location=coordinates&detail=&metricWind=kt&metricTemp=%C2%B0C&radarRange=-1}}

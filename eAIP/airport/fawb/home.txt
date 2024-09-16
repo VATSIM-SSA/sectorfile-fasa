@@ -1,0 +1,6 @@
+===== FAWB | Wonderboom | Pretoria, South Africa =====
+
+{{tabembed>about|About,ground|Ground,tower|Tower,departure|Departure,approach|Approach,coordination|Coordination,charts|Charts,scenery|Scenery,briefing|Pilot Briefing}}
+
+
+{{page>fa-footer#South Africa}}

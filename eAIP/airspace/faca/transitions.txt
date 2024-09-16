@@ -1,0 +1,9 @@
+===== FACA Cape Town Transition Table =====
+
+{{page>ssa-transition-table#Dynamic Transition}}
+
+
+{{page>ssa-transition-table#FACA}}
+
+
+{{page>fa-footer#FACA}}

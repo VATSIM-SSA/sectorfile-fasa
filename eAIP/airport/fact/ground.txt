@@ -1,0 +1,84 @@
+===== FACT Ground =====
+===== General =====
+  * FACT is equipped with ground surveillance using MLAT and ASMGCS. To prevent MLAT false targets pilots should not operate Mode C/3 and Mode S transponders on the ground. Transponders should be set to inhibit altitude reporting until entering the active runway.
+  * Pilots shall set the required Mode A (squawk) code and activate their transponder when requesting pushback or taxi, whichever is first. 
+  * Arriving aircraft shall switch off the transponder immediately after parking.
+  * Controllers should note that the holding points E1, E2, C1 and C2 are only represented on Navigraph charts as E and C respectively. 
+
+
+===== Push-back Procedures =====
+  * Because of the lack of space at the holding points for aircraft vacating Runway 19/01, all arriving traffic will be given priority over those requesting pushback on the A, B and C aprons.
+  * Before pushback or engine start, whichever is first, the GND controller shall attain the following information from the aircraft:
+<code>
+ - Callsign
+ - Aircraft registration
+ - Flight Level requested
+ - Parking bay
+</code>
+  * This information is usually obtained before the aircraft requests clearance in the case of IFR departures but it must be obtained at the latest before pushback/ startup.
+
+
+
+=== Phraseology ===
+
+<code>
+CALLSIGN, push and start approved, face (N/E/S/W), (QNHxxxx).
+</code>
+
+<code>
+CALLSIGN, behind the taxing (aircraft type) passing from (right to left/ left to right) push and start behind.
+</code>
+
+=== Directions ===
+
+^ Apron ^ Type ^ Facing ^ Remarks ^
+| Apron A | All | North or South | - |
+| Apron B | All | North or South | - |
+| ACSA Freight Apron | All | North or South | Pushback to A1 |
+| SAA Freight Apron | All | Own Discretion | - |
+
+==== Taxi Procedures ====
+  * As Tower only has the A2 holding point and E intersection to depart traffic from, the departure sequence is built by Ground. 
+  * As most IFR departures out of FACT are east and northbound, aim to build the departure sequence for Tower by alternating between aircraft routing via KODES, TETAN and OKTED. Keep in mind wake turbulence separation minima to achieve an efficient initial departure sequence.
+  * Taxiway H and the GA Apron are non-movement areas and are not managed by GND. Aircraft should monitor the Ground frequency or that of the active controlling authority and hold short of taxiway B. 
+==== Taxi Out Procedures - Runway 19 ====
+
+  * GND will clear aircraft to A2 with instructions to cross Runway 16. Aircraft will be handed over to tower as soon as practical with the latest being at the threshold of Runway 16.
+   * Intersection departures are available from holding point E1 (TORA 1875m). If intersection departures are in use arriving aircraft should be instructed to vacate via C. 
+
+=== Phraseology ===
+
+<code>
+Springbok 332 taxi to holding point A2, Runway 19 via A. Cross Runway 16. 
+</code>
+
+==== Taxi Out Procedures - Runway 01 ====
+
+  * GND will clear aircraft to B3. Aircraft will be handed over to Tower as soon as practical with the latest being abeam taxiway Z.
+  * Intersection departures are available from holding point C1 (TORA 2080m). If intersection departures are in use arriving aircraft should be instructed to vacate via E. 
+
+=== Phraseology ===
+
+<code>
+Springbok 332 taxi to holding point B3, Runway 01 via B. 
+</code>
+
+
+==== Taxi In Procedures ====
+
+  * In order to maintain the high speed exits clear of traffic, Tower Controllers will issue an initial taxi instruction to arrival traffic before handover to Ground Controllers.
+   
+  * If runway 19 is active and traffic is vacating C, the following instruction may be issued by the Tower Controller. 
+<code>
+taxi right C right B, hold short C Apron
+</code>
+ 
+=== Phraseology ===
+
+<code>
+CALLSIGN, taxi to STAND A2 via ROUTE.
+</code>
+
+
+
+{{page>fa-footer#FACT}}

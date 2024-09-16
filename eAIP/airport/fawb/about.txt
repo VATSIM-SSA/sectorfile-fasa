@@ -1,0 +1,14 @@
+===== FAWB About =====
+
+----
+
+==== Wonderboom and Surroundings ====
+Wonderboom National Airport is a regional airport situated on the northern boundary of the Johannesburg TMA. It remains the primary light aircraft airport in Pretoria with over 90 hourly movements on good days, serving numerous flight schools and offering a base for charter flying.
+
+The airport has two asphalt runways, 11/29 and 06/24, and is surrounded by a Control Zone (CTR). Air traffic control facilities consist of a Ground position, responsible ground movement during busier periods, and a Tower position handling all aircraft on runways and in the CTR.
+
+To the north of Wonderboom is the two Pretoria General Flying Areas (FAD127 and FAD128) along with a weapons range (FAR171) along the N1 highway. The flying areas are used daily by flight schools to conduct upper airwork and general handling. The Pretoria General Flying Area 2 (FAD128) is more often used for instrument training, thanks to the Zonderwater VOR (CZV) and its larger size. To the south, the Waterkloof CTR borders the Wonderboom CTR along the prominent Magliesberg ridge.
+
+Above the Wonderboom CTR lies the Waterkloof TMA, extending from 7600ft to FL195.
+
+{{page>fa-footer#FAWB}}

@@ -1,0 +1,26 @@
+==== FAOR Tower ====
+
+  * Tower is responsible for landing and departing aircraft, as well as the airspace surrounding the aerodrome, as well as controller the CTR. The CTR at OR Tambo extends from SFC to 7500FT AGL.
+
+  * When an aircraft is received from the ground controller, the tower controller can taxi them to the CAT 1 holding point. 
+ 
+  * Tower controllers should not wait to issue frequency changes, instead instruct the pilot to switch frequency once they are airborne.
+
+=== Runway selection ===
+
+  * Runway 03L/21R is the preferred runway for departures, and runway 03R/21L for arrivals.
+
+  * If traffic density allows, single runway operations are applicable for shorter taxi routes.
+
+=== Phraseology ===
+
+<code>Springbok 332 surface winds xxx/xx RWY03L cleared for take off safe flight.</code>
+
+or 
+
+<code>Springbok 332 surface winds xxx/xx RW03L cleared for take off, contact approach once airborne.</code>
+
+  * This is done to speed up aircraft transfers and reduce the tower controller’s workload.
+
+
+{{page>fa-footer#FAOR}}

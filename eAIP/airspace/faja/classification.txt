@@ -1,0 +1,24 @@
+===== FAJA Johannesburg Airspace Classification =====
+
+//This information has not yet been reviewed//
+
+^ Class ^ Type of flights   ^ Separation provided   ^ Service provided  ^ Speed limitation      ^ Radio communication requirement       ^ Subject to an ATC clearance ^ Remarks ^
+| A     | IFR only          | All aircraft          | ATC service       | Not applicable        | Continuous two-way                    | Yes | - |
+| B     | IFR               | All aircraft          | ATC service       | Not applicable        | Continuous two-way                    | Yes | - |
+| :::   | VFR               | All aircraft          | ATC service       | Not applicable        | Continuous two-way                    | Yes | - |
+| C     | IFR               | IFR from IFR          | ATC service       | Not applicable        | Continuous two-way                    | Yes | - |
+| :::   | :::               | IFR from VFR          | :::               | :::                   | :::                                   | ::: | - |
+| :::   | VFR               | VFR from IFR          | 1) ATC service for separation from IFR    | 250 kt IAS below 3050m (10000ft) AMSL | Continuous two-way    | Yes | - |
+| :::   | :::               | :::                   | 2) VFR/VFR traffic information (and traffic avoidance advice on request) | :::    | :::                   | ::: | - |
+| D     | IFR               | IFR from IFR          | ATC service, traffic information about VFR flights (and traffic avoidance advice on request) | 250 kt IAS below 3050m (10000 ft) AMSL | Continuous two-way | Yes | - |
+| :::   | VFR               | NIL                   | IFR/VFR and VFR/VFR traffic information (and traffic avoidance advice on request) | 250 kt IAS below 3050m (10000 ft) AMSL | Continuous two-way | Yes | - |
+| E     | IFR               | IFR from IFR          | ATC service and, as far as practical, traffic information about VFR flights | 250 kt IAS below 3050m (10000 ft) AMSL | Continuous two-way | Yes | - |
+| :::   | VFR               | NIL                   | Traffic information as far as practical | 250 kt IAS below 3050m (10000 ft) AMSL | Continuous two-way | No | - |
+| F     | IFR               | IFR from IFR (as far as practical) | Air traffic advisory service; flight information service | 250 kt IAS below 3050m (10000 ft) AMSL | Continuous two-way | No | - |
+| :::   | VFR               | NIL                   | Flight information service | 250 kt IAS below 3050m (10000 ft) AMSL | Continuous two-way | No | - |
+| G     | IFR               | NIL                   | Flight information service | 250 kt IAS below 3050m (10 000 ft) AMSL | Continuous two-way | No | - | 
+| :::   | VFR               | NIL                   | Flight information service | 250 kt IAS below 3050m (10 000 ft) AMSL | Continuous two-way | No | - | 
+| |||||||
+
+
+{{page>fa-footer#FAJA}}

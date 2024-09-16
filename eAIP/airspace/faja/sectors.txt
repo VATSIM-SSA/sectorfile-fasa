@@ -1,0 +1,25 @@
+===== FAJA Johannesburg FIR =====
+
+//Coming soon//
+
+
+==== Harare Sector East ====
+
+^ Position  ^ Callsign          ^ Frequency ^ CPDLC ^ Remarks ^
+| FVHF_CTR  | Harare East   | 131.500   | FVHF | - |
+
+^ Airspace      ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Kano Sector East   | D     | DNKK_CTR  | A035 - FL145   | - |
+| Kano Sector East   | A     | DNKK_CTR  | FL145 - UNLTD | - |
+
+==== Harare Sector West ====
+
+^ Position  ^ Callsign          ^ Frequency ^ CPDLC ^ Remarks ^
+| FVHF_W_CTR  | Harare West   | 129.500   | FVHW | - |
+
+^ Airspace      ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Kano Sector West   | D     | DNKK_W_CTR  | A035 - FL145   | - |
+| Kano Sector West   | A     | DNKK_W_CTR  | FL145 - UNLTD | - |
+
+
+{{page>fa-footer#FAJA}}

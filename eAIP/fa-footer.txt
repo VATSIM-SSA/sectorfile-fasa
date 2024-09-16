@@ -1,0 +1,40 @@
+==== South Africa ====
+----
+
+//This page is a subsection of the [[country:south-africa:home|South Africa]] country page.//
+
+==== FACA ====
+
+----
+
+[[airspace:faca:home|FACA]] Cape Town FIR | v0.1
+
+==== FAJA ====
+
+----
+
+[[airspace:faja:home|FAJA]] Johannesburg FIR | v0.1
+
+==== FAJO ====
+
+----
+
+[[airspace:fajo:home|FAJO]] Johannesburg Oceanic FIR | v0.1
+
+==== FACT ====
+
+----
+
+[[airport:fact:home|FACT]] Cape Town Intl | v0.1
+
+==== FAWB ====
+
+----
+
+[[airport:fawb:home|FAWB]] Wonderboom | v0.1
+
+==== FAOR ====
+
+----
+
+[[airport:faor:home|FAOR]] O.R. Tambo Intl | v0.1

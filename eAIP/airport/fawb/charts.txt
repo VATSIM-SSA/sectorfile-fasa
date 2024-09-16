@@ -1,0 +1,22 @@
+===== FAWB Charts =====
+The following charts are sourced from ASECNA's public AIP.
+
+^ Code ^ Description ^ URL ^ Remarks ^
+| ADC   | Aerodrome Chart | [[https://aim.asecna.aero/html/eAIP/cartes/ad-2/ad2-24/13/13AD2-GOBD-ADC.pdf|Chart]] | - |
+| APDC  | Parking Chart | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/senegal/Dakar%20Diass/13AD2-GOBD-APDC.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - ILS X 01 | [[https://aim.asecna.aero/html/eAIP/13AD2-GOBD-IAC-ILSX01.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - ILS Y 01 | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/senegal/Dakar%20Diass/13AD2-GOBD-IAC-ILSY01.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - ILS Z 01 | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/senegal/Dakar%20Diass/13AD2-GOBD-IAC-ILSZ01.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - VOR Y 01 | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/senegal/Dakar%20Diass/13AD2-GOBD-IAC-VORY01.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - VOR Z 01 | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/senegal/Dakar%20Diass/13AD2-GOBD-IAC-VORZ01.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - RNAV 01 | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/senegal/Dakar%20Diass/13AD2-GOBD-IAC-RNAV01.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - RNAV 19 | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/senegal/Dakar%20Diass/13AD2-GOBD-IAC-RNAV19.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - VOR Y 19 | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/senegal/Dakar%20Diass/13AD2-GOBD-IAC-VORY19.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - VOR Z 19 | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/senegal/Dakar%20Diass/13AD2-GOBD-IAC-VORZ19.pdf|Chart]] | - |
+| STAR  | Arrival Chart - VOR DME 01 | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/senegal/Dakar%20Diass/13AD2-GOBD-STAR-VORDME01.pdf|Chart]] | - |
+| STAR  | Arrival Chart - VOR DME 19 | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/senegal/Dakar%20Diass/13AD2-GOBD-STAR-VORDME19.pdf|Chart]] | - |
+| VAC   | Visual Approach Chart | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/senegal/Dakar%20Diass/13AD2-GOBD-VAC.pdf|Chart]] | - |
+| VLC   | Visual Landing Chart | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/senegal/Dakar%20Diass/13AD2-GOBD-VLC.pdf|Chart]] | - |
+| ILC   | Instrument Landing Chart | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/senegal/Dakar%20Diass/13AD2-GOBD-ILC.pdf|Chart]] | - |
+
+{{page>fa-footer#FAWB}}

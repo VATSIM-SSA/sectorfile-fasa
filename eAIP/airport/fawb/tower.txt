@@ -1,0 +1,257 @@
+===== FAWB Tower =====
+
+----
+
+==== Overview ====
+^ Position ^ Frequency ^ Services Available ^ Top-Down ^ Responsibilities ^
+| FAWB_TWR | 118.350 | Aerodrome Control Service,\\ Approach Control Service ((Within the Wonderboom CTR only, subject to inbound releases from Johannesburg Radar)) | FAWB_GND | Movements on the active runway and all traffic within the Wonderboom CTR |
+When FAWB_GND is offline, FAWB_TWR assumes the responsibilities of FAWB_GND.
+
+----
+
+==== Airspace ====
+{{:media:wonderboom_ctr.svg?750 |}}
+=== Wonderboom CTR ===
+^ Airspace ^ Class ^ Vertical Boundaries ^
+| Wonderboom CTR | C | SFC — 7600ft |
+All aircraft operating within the CTR are required to be in two-way radio communication with **Wonderboom Tower**.
+
+=== Waterkloof TMA ===
+^ Airspace ^ Class ^ Vertical Boundaries ^
+| Waterkloof TMA | C | 7600ft — FL195 |
+The Waterkloof TMA sits directly above the Wonderboom CTR and is controlled by **Johannesburg Radar**.
+
+=== FAD127 and FAD128 ===
+^ Area  ^ Name ^ Class ^ Vertical Boundaries ^ Frequency ^
+| **FAD127** | Pretoria General Flying Area 1 | C | SFC — FL100 | 124.40 |
+| **FAD128** | Pretoria General Flying Area 2 | ::: | ::: | ::: |
+Aircraft operating within the flying areas use the Wonderboom QNH.
+\\ //Note: For VATSIM purposes, all aircraft must be instructed to broadcast on 122.800 MHz.//
+
+=== Johannesburg Special Rules ===
+The Johannesburg Special Rules areas are regulated pieces of airspace which lie below the Johannesburg and Waterkloof TMAs. Aircraft operating within the Joburg SRAs are required to abide by the following rules when above altitude 6500ft:
+\\ 
+\\ **Altitudes to fly**
+\\ Northbound (270° to 089°) — **7500ft**
+\\ Southbound (090° to 269°) — **7000ft**
+\\ 
+\\ **General Operating Rules**
+  * Less than 180kt  
+  * Landing Lights on
+The Wonderboom CTR borders two Special Rules Areas: **West** and **East**.
+^ Special Rules Area^ Frequency       ^
+| West | 125.8 MHz     |
+| East | 125.4 MHz     |
+//Note: For VATSIM purposes, all aircraft must be instructed to broadcast on 122.800 MHz.//
+ 
+
+----
+
+==== General Procedures ====
+=== Altimetry ===
+The **Transition Altitude** is defined as **8000ft** on the Wonderboom QNH.
+
+=== Squawk Code Allocation ===
+Aircraft not operating on a flightplan are expected to set a squawk of 2000.
+\\ 
+\\ Aircraft with a filed flightplan are to be given a TopSky allocated squawk for the Johannesburg FIR.
+\\ 
+\\ //Note:  No mode C is required within the Wonderboom CTR, as Wonderboom is procedural.//
+
+----
+
+==== VFR Procedures ====
+=== Responsibilities ===
+Wonderboom Tower is responsible for VFR-VFR integration as well as VFR-IFR separation. While not required by law, Wonderboom **level separates all VFR traffic within the CTR by 500ft**.
+
+=== Fixed Wing Circuits ===
+Circuits on 11/29 are flown to the north of the airfield, within the boundary of the N1 highway and the railway to the north. Circuits on 06/24 are flown to the west of the airfield.
+^ Runway      ^ Circuit Direction       ^
+| 11  | LH     |
+| 29  | RH     |
+| 06  | LH     |
+| 24  | RH     |
+Circuit altitude is published in the AIP based off the type of aircraft in the circuit.
+^ Aircraft Type      ^ Circuit Altitude ^
+| Piston engine  | 5100ft     |
+| Turbine engine  | 5600ft     |
+| Low-Level ((Low level circuits are available on request at the discretion of the Tower controller.))  | 4600ft     |
+
+A standing agreement exists at Wonderboom where a maximum of **5 aircraft** should be allowed in the circuit at any given time. This is designed as a guideline to assist the Tower controller and to reduce excessive circuit congestion.
+
+== Circuit Phraseology ==
+Aircraft are instructed to report on downwind when takeoff clearance is given.
+<code>KWR, runway 29 cleared for takeoff, wind 300/10kt. Report right downwind.</code>
+\\ Once an aircraft has reported on the downwind leg, Tower can either instruct the aircraft to report on final, with a certain sequence number
+<code>KWR, report final runway 29, number 1.</code>
+or instruct the aircraft to report ready for base.
+<code>KWR, report ready for base.</code>
+
+=== CTR Exit Procedures ===
+Tower is responsible for issuing outbound traffic to an initial climb altitude which is suitable for the current traffic situation. An example of an aircraft departing runway 29 for GF1:
+<code>KWR runway 29 cleared for takeoff, wind 300/11kt. Climb to altitude 6000ft, report outbound.</code>
+In general, the initial climb for traffic entering GF1 or GF2 is **6000ft**.
+\\ For traffic entering the Johannesburg Special Rules Areas, the initial climb should be either **6000ft** or **6500ft**, depending on the traffic situation in the CTR.
+\\ Pilots may request a higher initial climb after departure. Tower may not climb an aircraft above **7500ft** due to the upper boundary of the CTR.
+\\ 
+\\ For standard outbound routings, refer to [[fawb-ground#ctr_exit_procedures|VFR Outbound Procedures]].
+\\ 
+\\ For North-Eastbound and Eastbound departures off runway 29, Tower may initially instruct aircraft to climb to 5000ft and report overhead the Petroport before further climb is given. This is most often used when the circuit is busy and/or a stream of traffic is inbound from GF1.
+\\ 
+\\ Once the an aircraft has reported at the zone boundary, Tower must instruct the aircraft to broadcast on the correct TIBA ((Traffic Information Broadcasts by Aircraft)) frequency. For VATSIM, this is **122.800 MHz**.
+\\ An example of an aircraft leaving the zone:
+<code> KWR Broadcast 122.8</code>
+
+=== CTR Joining Procedures ===
+Wonderboom uses standard joining procedures to aid in traffic management.
+^ Direction      ^ Reference Point       ^ Minimum Altitude         ^
+| North (GF1)   | Rooiwal Power Station     | 5600ft        |
+| North-East (GF2)   | 7nm North-East of Roodeplaat dam     | 6500ft        |
+| East   | Overhead Cullinan dam     | 6500ft        |
+| South-East   | 5nm South-East of Mamelodi     | 6500ft        |
+| South-West   | Crossing Magaliesberg Ridge south abeam Rosslyn     | 6500ft        |
+| West   | South abeam Rosslyn industrial area     | 6500ft        |
+| North-West   | //Should join either via Rooiwal Power Station or Rosslyn//     ||
+Tower may clear aircraft into the CTR at a lower altitude than the AIP minimum altitude, such as aircraft joining from GF2, subject to known traffic in the CTR. 
+\\ 
+\\ //Fixed wing traffic// should never be cleared into the CTR below 5600ft to ensure 500ft separation with the fixed wing circuit.
+\\ //Helicopter traffic// is usually cleared inbound at a low level, such as 4600ft, to remain below fixed wing traffic.
+\\ 
+\\ The following are the standard join instructions for each runway.
+== North ==
+^ Runway ^ Instruction ^
+| 06 | Join and report left downwind |
+| 11 | ::: |
+| 24 | Join long finals, report crossing the railway |
+| 29 | Join and report right downwind |
+
+== North-East and East ==
+^ Runway ^ Instruction ^
+| 06 | Join and report non-standard right downwind |
+| 11 | Join left downwind and report overhead the Petroport |
+| 24 | Join and report non-standard left downwind |
+| 29 | Join long finals, report south abeam Roodeplaat Dam ((It is common for Tower to next instruct the aircraft to report 2nm East of the N1 highway. This allows the traffic on a long final to be integrated with traffic in the circuit.)) |
+
+== South-East ==
+^ Runway ^ Instruction ^
+| 06 | Join and report non-standard right downwind |
+| 11 | Route along the Magaliesberg ridge to join non-standard right downwind, report south abeam the tower |
+| 24 | Join and report non-standard left downwind |
+| 29 | Join long finals, report south abeam Roodeplaat Dam ((It is common for Tower to next instruct the aircraft to report 2nm East of the N1 highway. This allows the traffic on a long final to be integrated with traffic in the circuit.)) |
+
+== South-West and West ==
+^ Runway ^ Instruction ^
+| 06 | Join and report left downwind |
+| 11 | Join long finals, report crossing the Mabopane Highway (indicated on the circuit diagram as the **R80**) |
+| 24 | Join and report right downwind |
+| 29 | Route along the Magaliesberg ridge to join non-standard left downwind, report south abeam the tower |
+
+== Phraseology Examples ==
+
+An example of a join from Mamelodi for runway 29:
+<code> KWR cleared inbound 6000ft, report south abeam the Roodeplaat dam long finals runway 29, QNH 1024.</code>
+//Note: All downwind joins which are opposite to the defined circuit are to be prefixed with **non-standard**//.
+\\ An example of a join from Mamelodi for runway 11:
+<code> KWR cleared inbound 6000ft routing along the Magaliesberg Ridge for the non-standard right downwind runway 11, QNH1024.</code>
+
+== Integrating Inbounds into the Circuit ==
+Once an aircraft has reported at the instructed position ((2nm East of the N1 for inbounds from the East; position in the above table for all other directions)), Tower must integrate the traffic into the circuit.
+\\ An example of an aircraft reporting south abeam the Tower for runway 11:
+<code> KWR descend as required, report final runway 11 number 2 following a Cherokee on final.</code>
+Tower may also elect to first descend the aircraft to a lower altitude before allowing descent at pilot's discretion.
+\\ //Note: Tower **must** instruct an aircraft to descend at pilot's discretion at some point in the join.//
+\\ 
+\\ If it is not possible to integrate an aircraft on a long final into the circuit, such as a busy circuit or two aircraft are in close trail on a long final, then the aircraft may be instructed to route overhead the field and join the circuit on the downwind leg.
+\\ An example of an aircraft inbound reported 2nm East of the N1 for runway 29:
+<code>KWR route overhead the airfield at 6000ft, report established on the right downwind runway 29.</code>
+
+=== Circuit Diagrams ===
+== Runway 11 ==
+{{:media:wonderboom_circuit_diagram_11.svg?750 |}}
+== Runway 29 ==
+{{:media:wonderboom_circuit_diagram_29.svg?750 |}}
+== Runway 06 ==
+{{:media:wonderboom_circuit_diagram_06.svg?750 |}}
+== Runway 24 ==
+{{:media:wonderboom_circuit_diagram_24.svg?750 |}}
+
+
+----
+
+==== IFR Procedures ====
+
+=== Separation ===
+Due to the size of the Wonderboom CTR, VOR radial separation is not possible. As such, **all IFR traffic within the CTR** and not on an approach must be **level separated by 1000ft**.
+\\ 
+\\ Aircraft on consecutive instrument approaches are separated by timing.
+
+=== Holding Procedures ===
+Wonderboom has one published hold at the **Doornpoort VOR (DPV)**.
+^ Holding Fix ^ Minimum Holding Altitude ^ Maximum Hold Speed ^ Approaches ^
+| DPV | 8000ft | 140kt | VOR/DME 29 |
+ Traffic in the DPV hold must be separated be 1000ft. As such, FL90 //is not available if the QNH is above 1013 hPa//. 
+\\ All traffic in the DPV must be on the Wonderboom Tower frequency. Wonderboom Tower must coordinate with Johannesburg Radar if the DPV hold becomes occupied.
+
+=== Outbound Procedures ===
+Wonderboom Tower must obtain a departure release from Johannesburg Radar for all IFR departures. Departing aircraft are then passed the initial climb given by Johannesburg Radar, along with any after departure instructions.
+\\ 
+\\ IFR departures should be instructed to **report passing 7500ft**, at which time the aircraft is handed off to Johannesburg Radar.
+\\ Should the aircraft have poor climb performance, such as with a light aircraft on a hot day, it may not reach 7500ft before the CTR boundary. In such a case, the aircraft is handed off to Johannesburg Radar //at the CTR boundary//.
+\\ 
+\\ An example of an IFR takeoff clearance:
+<code> Laminar 134 runway 29 cleared for takeoff, wind 300/11kt. Climb FL90, report passing 7500ft.</code>
+
+=== Inbound Procedures ===
+Aircraft are passed from Johannesburg Radar via release to Wonderboom Tower.
+\\ 
+== Releases ==
+^ Approach Type ^ Inbound Fix ^ Minimum Release Level ^
+| VOR/DME 29 | DPV | 8000ft |
+| RNAV(GNSS) 29 | TIKUT | 7000ft ((Descents into the Wonderboom CTR must be coordinated by Johannesburg Radar and approved by Wonderboom Tower))|
+| ::: | ETUPU | 9000ft|
+| ::: | IMSOL | 9000ft|
+| Visual Approach | Released inbound to the field | 8000ft |
+IFR aircraft on a visual approach are integrated into the circuit via a [[fawb-tower#ctr_joining_procedures|standard join]].
+
+----
+
+==== Helicopter Procedures ====
+=== Helicopter Circuit ===
+The helicopter circuit is defined to the south of runway 11/29, parallel to the main runway, as follows:
+Main helistop on grass apron northeast of Main terminal building.
+  * 50m Southwest of taxiway B2 between taxiway C2 and runway 06/24 at the grass square.
+  * 150m Northeast of the threshold of runway 11 at the grass square.
+  * 110m Southeast of runway 06/24 at the cement square.
+  * 95m Southeast of threshold of runway 06 on taxiway parallel to taxiway 06/24.
+
+Circuits are to be flown as follows:
+^ Runway ^ Instruction ^ Auto rotation ^
+| 11 | Right hand 4800ft remaining 150m clear of runway 11. | Auto rotations to the south of runway 11 only allowed from final approach or base leg, remaining clear of the airport buildings |
+| 29 | Left hand 4800ft remaining 150m clear of runway 29. | Allowed |
+| 06 | Right hand 4800ft remaining South-East of runway 11/29 and remaining 85m clear of runway 06 | Allowed  |
+| 24 | Left hand 4800ft remaining South-East of runway 11/29 and remaining 85m clear of runway 24 | Allowed  |
+
+=== Maneuvering Procedures ===
+Helicopters can depart from anywhere on the aerodrome or from one of the three TLOF areas as defined in the AIP.
+\\ 
+\\ Helicopters should contact ATC prior to lift-off from the hangars west of the runway 11 threshold, which are obscured from the Tower.
+\\ 
+\\ Helicopters are to land outside the designated apron area and hover taxi less than 20kt to the landing position within the apron area or at the Fuel Bay.
+\\ 
+\\ All takeoffs and landings between hangars at pilots' own discretion with due regard to the other tenants in close proximity.
+
+=== Phraseology Examples ===
+All helicopter operations at FAWB occur off the main runway. As such, Tower cannot clear a helicopter for takeoff or landing.
+== Takeoff ==
+A helicopter is departing Wonderboom routing Northbound and needs to first cross the active runway:
+<code>RTA wind 270/10kt, report ready to cross runway 29.</code>
+If a runway crossing is not required:
+<code>RTA wind 270/10kt, report outbound at 4600ft or below.</code>
+
+== Landing ==
+<code>RTA wind 270/10kt, report safe on the ground.</code>
+
+== Transit ==
+ZS-RTA requests a transit from north to south along the N1 highway with runway 11 in use:
+<code>RTA cleared not above 4600ft routing along the N1 highway, report ready to cross the runway 11 extended centerline.</code>
+{{page>fa-footer#FAWB}}
