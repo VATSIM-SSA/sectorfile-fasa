@@ -358,7 +358,7 @@ Window_APP_Scale=10
 Window_APP_Extensions=1
 Window_APP_AltFilter=5092
 
-[FABL]
+[FASH]
 Airport_Elevation=1173
 Airport_Radius=3
 
