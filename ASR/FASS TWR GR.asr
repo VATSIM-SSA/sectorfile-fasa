@@ -4,23 +4,27 @@ DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
 Airports:FAKU:name
+Airports:FAKU:symbol
 Airports:FAPT:name
+Airports:FAPT:symbol
 Airports:FATF:name
+Airports:FATF:symbol
 Airports:FATW:name
-Runways:FAWK 01-19:extended centerline 1
-Runways:FAWK 01-19:extended centerline 1 left base
-Runways:FAWK 01-19:extended centerline 1 left ticks
-Runways:FAWK 01-19:extended centerline 1 left vectoring
-Runways:FAWK 01-19:extended centerline 1 right base
-Runways:FAWK 01-19:extended centerline 1 right ticks
-Runways:FAWK 01-19:extended centerline 1 right vectoring
-Runways:FAWK 01-19:extended centerline 2
-Runways:FAWK 01-19:extended centerline 2 left base
-Runways:FAWK 01-19:extended centerline 2 left ticks
-Runways:FAWK 01-19:extended centerline 2 left vectoring
-Runways:FAWK 01-19:extended centerline 2 right base
-Runways:FAWK 01-19:extended centerline 2 right ticks
-Runways:FAWK 01-19:extended centerline 2 right vectoring
+Airports:FATW:symbol
+Runways:FASS 17-35:extended centerline 1
+Runways:FASS 17-35:extended centerline 1 left base
+Runways:FASS 17-35:extended centerline 1 left ticks
+Runways:FASS 17-35:extended centerline 1 left vectoring
+Runways:FASS 17-35:extended centerline 1 right base
+Runways:FASS 17-35:extended centerline 1 right ticks
+Runways:FASS 17-35:extended centerline 1 right vectoring
+Runways:FASS 17-35:extended centerline 2
+Runways:FASS 17-35:extended centerline 2 left base
+Runways:FASS 17-35:extended centerline 2 left ticks
+Runways:FASS 17-35:extended centerline 2 left vectoring
+Runways:FASS 17-35:extended centerline 2 right base
+Runways:FASS 17-35:extended centerline 2 right ticks
+Runways:FASS 17-35:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0
