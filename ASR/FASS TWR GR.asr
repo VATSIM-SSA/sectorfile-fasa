@@ -1,0 +1,41 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:FAKU:name
+Airports:FAPT:name
+Airports:FATF:name
+Airports:FATW:name
+Runways:FAWK 01-19:extended centerline 1
+Runways:FAWK 01-19:extended centerline 1 left base
+Runways:FAWK 01-19:extended centerline 1 left ticks
+Runways:FAWK 01-19:extended centerline 1 left vectoring
+Runways:FAWK 01-19:extended centerline 1 right base
+Runways:FAWK 01-19:extended centerline 1 right ticks
+Runways:FAWK 01-19:extended centerline 1 right vectoring
+Runways:FAWK 01-19:extended centerline 2
+Runways:FAWK 01-19:extended centerline 2 left base
+Runways:FAWK 01-19:extended centerline 2 left ticks
+Runways:FAWK 01-19:extended centerline 2 left vectoring
+Runways:FAWK 01-19:extended centerline 2 right base
+Runways:FAWK 01-19:extended centerline 2 right ticks
+Runways:FAWK 01-19:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:8
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:295.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-27.653131:22.984508:-27.637287:23.017392
+PLUGIN:Ground Radar plugin:AirportElevation:1173
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FASS
+PLUGIN:TopSky plugin:NoDraw:1
