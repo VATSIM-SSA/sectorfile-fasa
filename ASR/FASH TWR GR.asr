@@ -1,0 +1,29 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:FACT:name
+Airports:FACT:symbol
+Airports:FALW:name
+Airports:FALW:symbol
+Airports:FAYP:name
+Airports:FAYP:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:8
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:286.50000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-33.984015:18.813660:-33.975903:18.830496
+PLUGIN:Ground Radar plugin:AirportElevation:98
+PLUGIN:Ground Radar plugin:AirportRadius:5
+PLUGIN:Ground Radar plugin:GroundMode:FASH
+PLUGIN:TopSky plugin:NoDraw:1
