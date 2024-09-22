@@ -1,8 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\Sector File Development\GitHub\VATSSA-sectorfile-fasa\FASA-Package_20240907064404-240901-0001.sct
-SECTORTITLE:FASA-Package_20240907064404-240901-0001.sct
+SECTORFILE:
+SECTORTITLE:
 Airports:FAGY:name
 Airports:FAGY:symbol
 Airports:FAHC:name
