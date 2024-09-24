@@ -3,12 +3,6 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Free Text:FAUP Taxiways\A1:freetext
-Free Text:FAUP Taxiways\B1:freetext
-Free Text:FAUP Taxiways\E:freetext
-Free Text:FAUP Taxiways\F1:freetext
-Free Text:FAUP Taxiways\G1:freetext
-Geo:FAUP Groundlayout:
 Runways:FAUP 01-19:extended centerline 1
 Runways:FAUP 01-19:extended centerline 1 left base
 Runways:FAUP 01-19:extended centerline 1 left ticks
