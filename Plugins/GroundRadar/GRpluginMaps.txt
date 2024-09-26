@@ -3017,13 +3017,6 @@ COLORDEF:LABELLIGHT:196:192:192
 COLORDEF:STOPBAR RED:196:12:2
 COLORDEF:AOR:83:111:145
 
-// FASA SCT COLOR [TEST]
-COLORDEF:COLOR_ApronSurface:128:128:128
-COLORDEF:COLOR_HardSurface2:255:255:128
-COLORDEF:COLOR_Building2:128:128:128
-COLORDEF:COLOR_GrasSurface2:141:141:99
-COLORDEF:COLOR_ParkPosUnused:128:0:0
-
 // ##################################################################
 //                 #3 SYMBOLS v0.2
 // ##################################################################
