@@ -1,0 +1,9 @@
+===== FAJA Johannesburg Transition Table =====
+
+{{page>ssa-transition-table#Dynamic Transition}}
+
+
+{{page>ssa-transition-table#FAJA}}
+
+
+{{page>fa-footer#FAJA}}

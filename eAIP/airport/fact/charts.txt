@@ -1,0 +1,38 @@
+===== FACT Charts =====
+
+The following charts are sourced from the SACAA public AIP.
+
+^ Code ^ Description                           ^ URL ^ Remarks ^
+| ADC   | Aerodrome Chart                      | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_AERODROME%20CHART_AD-01.pdf|Chart]] | - |
+| APDC  | Parking Chart                        | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_ACFT%20PRKG%20and%20DOCKING_AD-03.pdf|Chart]] | - |
+| APDC  | Parking Chart                        | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_AD-04.pdf|Chart]] | - |
+| GMC   | Grounc Movement Chart                | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_AERODROME%20GND%20MOVE%20CHART_AD-02.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - ILS 01   | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT%20ILS-01%20RWY%2001%20Chart.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - ILS Z 19 | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT%20ILS-02.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - VOR Z 01 | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_VOR%20Z%20RWY%2001_VOR-01.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - RNAV 01  | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_RNAV%20GNSS%20RWY01_RNAV-05.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - RNP Y 01 | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_RNAV%20RNP%20RWY01_RNAV-02.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - RNP Z 01 | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_RNAV%20RNP%20RWY01_RNAV-01.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - RNAV 19  | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_%20RNAV%20(GNSS)%20RWY%2019_RNAV-06.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - RNP Z 19 | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_RNAV%20RNP%20RWY19_RNAV-03.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - RNP Z 34 | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_RNAV%20RNP%20RWY34_RNAV-04.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - VOR 19   | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_VOR%20RWY%2019_VOR-02%2010MAY2007.pdf|Chart]] | - |
+| STAR  | Arrival Chart - ASPIK 1A             | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_ASPIK%201A%20RWY%2001_ARR-04%2010MAY2007.pdf|Chart]] | - |
+| STAR  | Arrival Chart - ASPIK 1B             | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_ASPIK%201B%20RWY%2019_ARR-08%2010MAY2007.pdf|Chart]] | - |
+| STAR  | Arrival Chart - EVUKI 1B             | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_EVUKI%201B%20RWY%2019_ARR-09%2010MAY2007.pdf|Chart]] | - |
+| STAR  | Arrival Chart - IMSOM 1A             | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_IMSOM%201A%20RWY%2001_DEP-03%2010MAY2007.pdf|Chart]] | - |
+| STAR  | Arrival Chart - IMSOM 1B             | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_IMSOM%201B%20RWY%2019_DEP-08%2010MAY2007.pdf|Chart]] | - |
+| SID   | Departure Chart - ERDAS 1A           | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_ERDAS%201A%20RWY%2001_ARR-01.pdf|Chart]] | - |
+| SID   | Departure Chart - ERDAS 1B           | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_ERDAS%201B%20RWY%2019_ARR-06.pdf|Chart]] | - |
+| SID   | Departure Chart - GETEN 1A           | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_GETEN%201A%20RWY%2001_ARR-02.pdf|Chart]] | - |
+| SID   | Departure Chart - GETEN 1B           | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_GETEN%201B%20RWY%2019_ARR-07.pdf|Chart]] | - |
+| SID   | Departure Chart - KODES 1A           | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_KODES%201A%20RWY%2001_DEP-02.pdf|Chart]] | - |
+| SID   | Departure Chart - OKTED 1B           | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_OKTED%201B%20RWY%2019_DEP-09.pdf|Chart]] | - |
+| SID   | Departure Chart - OKTED 1C           | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_OKTED%201C%20RWY%2019_DEP-10.pdf|Chart]] | - |
+| SID   | Departure Chart - TETAN 1A           | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_TETAN%201A%20RWY%2019_DEP-05_.pdf|Chart]] | - |
+| SID   | Departure Chart - TETAN 1B           | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FACT_TETAN%201B%20RWY%2019_DEP-06.pdf|Chart]] | - |
+
+The complete set of FACT Official Charts can be found [[https://www.caa.co.za/industry-information/aeronautical-information-aeronautical-charts/|here]].
+
+
+{{page>fa-footer#FACT}}

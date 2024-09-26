@@ -1,0 +1,5 @@
+===== FAWB Approach =====
+
+Lorem Ipsum Verbis Est
+
+{{page>fa-footer#FAWB}}

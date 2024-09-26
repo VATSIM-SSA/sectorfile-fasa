@@ -1,0 +1,6 @@
+===== FACT | Cape Town Intl | Cape Town, South Africa =====
+
+{{tabembed>about|About,delivery|Delivery,ground|Ground,tower|Tower,departure|Departure,approach|Approach,coordination|Coordination,charts|Charts,scenery|Scenery,briefing|Briefing,wx|WX}}
+
+
+{{page>fa-footer#South Africa}}

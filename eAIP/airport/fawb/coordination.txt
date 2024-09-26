@@ -1,0 +1,5 @@
+===== FAWB Coordination =====
+
+Lorem Ipsum Verbis Est
+
+{{page>fa-footer#FAWB}}

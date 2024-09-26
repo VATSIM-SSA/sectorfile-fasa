@@ -1,0 +1,67 @@
+===== FACT Information =====
+
+**Cape Town International Airport** is the primary international airport serving the city of Cape Town, and is the second-busiest airport in South Africa and fourth-busiest in Africa. Located approximately 20 kilometres (12 mi) from the city center, the airport was opened in 1954 to replace Cape Town's previous airport, Wingfield Aerodrome. Cape Town International Airport is the only airport in the Cape Town metropolitan area that offers scheduled passenger services. The airport has domestic and international terminals, linked by a common central terminal.  
+
+More information available at [[https://en.wikipedia.org/wiki/Cape_Town_International_Airport|Wikipedia]].
+
+
+==== Aerodrome Data ====
+
+| ICAO                  | FACT |
+| IATA                  | CPT |
+| Elevation             | 151 ft |
+| Transition Altitude   | 7500 ft |
+| Transition Level      | by ATC |
+| Mag Variation         | 24º W |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=Cape_Town_International_Airport&params=33_58_10_S_018_35_50_E_region:ZA-WC_type:airport|33°58′10″S 018°35′50″E]] |
+| Site | [[https://www.airports.co.za/airports/cape-town-international-airport]] |
+
+
+==== Runways ====
+
+^ Runway ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m) ^ Remarks ^
+| 01     | 010º    | 3201     | 4172     | 3201     | 3201    | - |
+| 16     | 160º    | 1701     | 1701     | 1701     | 1701    | - |
+| 19     | 190º    | 3201     | 3544     | 3201     | 3201    | - |
+| 34     | 340º    | 1701     | 1701     | 1701     | 1701    | - |
+
+
+==== Aprons ====
+^ Apron              ^ Code ^ Stands   ^ Entry / Exit  ^ Remarks ^
+| Apron A            | -    | A3 - A17 | Twy A, B or E | - |
+| Apron B            | -    | B1 - B30 | Twy A, B or E | - |
+| Apron C            | -    | C1 - C5  | Twy A, B or E | - |
+| Apron F            | -    | F1 - F2  | Twy F | -     | - |
+| GA Apron           | -    | -        | Twy H | -     | - |
+| Apron Thunder City | -    | -        | Twy T | -     | - | 
+| FBO Apron          | -    | -        | Twy Z | -     | - |
+| SAAF Apron         | -    | -        | Twy G or D    | - |
+| SAA Freight Apron  | -    | -        | Twy S | -     | - |
+| SAA Technical Area | -    | -        | Twy J | -     | - |
+
+==== Positions & Frequencies ====
+
+^ Position    ^ Callsign            ^ Frequency ^ Remarks ^
+| FACT_ATIS   | Cape Town ATIS      | 127.000   | - |
+| FACT_DEL    | Cape Town Delivery  | 122.100   | - |
+| FACT_P_DEL  | Cape Town Planner   | 119.000   | //SSA Events Only// |
+| FACT_GND    | Cape Town Ground    | 121.900   | - |
+| FACT_E_GND  | Cape Town Ground    | 120.700   | //SSA Events Only// |
+| FACT_TWR    | Cape Town Tower     | 118.100   | - |
+| FACT_APP    | Cape Town Approach  | 119.700   | - |
+| FACT_F_APP  | Cape Town Director  | 124.350   | - |
+| FACA_CTR    | Cape Town Area      | 125.100   | - |
+| FACA_E_CTR  | Cape Town Area East | 124.700   | - |
+
+==== Airspace ====
+
+^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Cape Town CTR      | C     | FACT_TWR | GND - A025    | - |
+| Cape Town TMA      | C     | FACT_APP | A025 - FL085  | - |
+| Cape Town CTA      | A     | FACA_CTR | FL145 - FL195 | - |
+| Cape Town CTA      | C     | FACA_CTR | FL145 - FL200 | - |
+| Cape Town FIR/UIR  | G     | FACA_CTR | GND - FL195   | - |
+| Cape Town FIR/UIR  | A     | FACA_CTR | FL245 - UNL   | - |
+
+
+{{page>fa-footer#FACT}}

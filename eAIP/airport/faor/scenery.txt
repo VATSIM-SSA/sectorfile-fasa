@@ -1,0 +1,9 @@
+===== FAOR Scenery =====
+
+^ Platform ^ Type       ^ Developer ^ Link ^ Remarks ^
+| P3D       | Payware   | FSCGAA    | [[https://secure.simmarket.com/fscgaa-botswana-gaborone-intl-airport-fbsk-p3d5.phtml|Scenery]] | - |
+| P3D       | Freeware  | Jacques Botha | [[https://flyawaysimulation.com/downloads/files/7150/fsx-gabarone-airport-scenery/|Scenery]] | - |
+| FSX       | Freeware  | Jacques Botha | [[https://flyawaysimulation.com/downloads/files/7150/fsx-gabarone-airport-scenery/|Scenery]] | - |
+| MSFS      | Freeware  | EDDB2020  | [[https://flightsim.to/file/7268/gaborone-fbsk|Scenery]] | - |
+
+{{page>fa-footer#FAOR}}

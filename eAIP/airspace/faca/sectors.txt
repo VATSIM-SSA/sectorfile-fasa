@@ -1,0 +1,13 @@
+===== FACA Cape Town FIR =====
+ABOUT: CAPE TOWN AREA Controls aircraft in the CTA and UTA and give top downs controlled airports
+       Also give traffic information to VFR aircraft.
+
+==== CAPE TOWN FIR ====
+
+^ Position    ^ Callsign    ^ Frequency ^ CPDLC ^ Remarks ^
+| FACA_CTR  | CAPE TOWN      | 125.1       | FACA | ALSO FORMS INFORMATION- |
+| FACA_E_CTR| CAPE TOWN EAST | 124.7       | FACA | ALSO FORMS INFORMATION
+
+
+
+{{page>fa-footer#FACA}}

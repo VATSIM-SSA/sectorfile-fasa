@@ -1,0 +1,6 @@
+===== Eswatini Airspace =====
+
+^ ICAO  ^ Name              ^ SSA Code  ^ Type    ^ Remarks ^
+| FAJA | Johannesburg | [[airspace:faja:home|FAJA]] | -       | - |
+
+{{page>fd-footer#Eswatini}}

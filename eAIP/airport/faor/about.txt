@@ -1,0 +1,75 @@
+===== FAOR Information =====
+
+**O. R. Tambo International Airport** is an international airport serving the twin cities of Johannesburg and the main capital of South Africa, Pretoria. It is situated in Kempton Park, Gauteng. It serves as the primary airport for domestic and international travel for South Africa and since 2020, it is Africa's second busiest airport, with a capacity to handle up to 28 million passengers annually. The airport serves as the hub for South African Airways. The airport handled over 21 million passengers in 2017. 
+
+More information available at [[https://en.wikipedia.org/wiki/O._R._Tambo_International_Airport|Wikipedia]].
+
+
+==== Aerodrome Data ====
+
+| ICAO                  | FAOR |
+| IATA                  | JNB |
+| Elevation             | 5558 ft |
+| Transition Altitude   | 8000 ft |
+| Transition Level      | by ATC |
+| Mag Variation         | 19º W |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=O._R._Tambo_International_Airport&params=26_08_00_S_028_15_00_E_region:ZA-GP_type:airport|26°08′00″S 028°15′00″E]] |
+| Site | [[https://www.airports.co.za/airports/or-tambo-international-airport]] |
+
+
+==== Runways ====
+
+^ Runway ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m) ^ Remarks ^
+| 03L    | 030º    | 4421     | 4691     | 4482     | 4421    | - |
+| 21R    | 210º    | 4421     | 4521     | 4508     | 3971    | THR displaced 450M |
+| 03R    | 030º    | 3405     | 3465     | 3462     | 3405    | - |
+| 21L    | 210º    | 3405     | 3465     | 3462     | 3405    | - |
+
+==== Aprons ====
+^ Apron                     ^ Code ^ Stands   ^ Entry / Exit         ^ Remarks                               ^
+| Apron A                   | -    | A1 - A13 | Twy B, F, L or E     | Stand A1R is to the right of A1       |
+| Apron B                   | -    | B1 - B13 | Twy B, F, L or E     | -                                     |
+| Apron C                   | -    | C1 - C24 | Twy B, L or I        | -                                     |
+| Apron D                   | -    | D1 - D14 | Twy D, G8, G9 or G10 | D1-D4 has multiple stands, L, R and A |
+| Apron E                   | -    | E1 - E13 | Twy D                | -                                     |
+| Apron F                   | -    | F1 - F7  | Twy D                | -                                     |
+| Apron G                   | -    | G1 - G7  | Twy A                | -                                     |
+| Apron M                   | -    | M1 - M5  | Twy M                | -                                     |
+| Apron W                   | -    | Helipads | Twy W                | Two Helipads                          |
+| Denel                     | -    | -        | Twy E                | -                                     |
+| Fireblade Aviation        | -    | -        | Twy E                | -                                     |
+| Anglo American            | -    | -        | Twy V5               | -                                     |
+| Airlink                   | -    | -        | Twy V4               | -                                     |
+| Cemair & Solenta Aviation | -    | -        | Twy V3 or V2         | -                                     |
+| Fedair                    | -    | -        | Twy V1               | -                                     |
+| Safair                    | -    | -        | Twy V1               | -                                     |
+
+=== *INCOMPLETE BELOW* ===
+
+==== Positions & Frequencies ====
+
+^ Position    ^ Callsign              ^ Frequency ^ Remarks             ^
+| FAOR_ATIS   | Johannesburg ATIS     | 126.200   | -                   |
+| FAOR_DEL    | Clearance Delivery    | 121.700   | -                   |
+| FAOR_P_DEL  | Johannesburg Planner  | 119.000   | //SSA Events Only// |
+| FAOR_GND    | OR Tambo Ground       | 121.900   | -                   |
+| FAOR_E_GND  | Johannesburg Ground   | 120.700   | //SSA Events Only// |
+| FAOR_TWR    | Johannesburg Tower    | 118.100   | -                   |
+| FAOR_E_TWR  | Johannesburg Tower    | 118.600   | //SSA Events Only// |
+| FAOR_APP    | Johannesburg Approach | 124.500   | -                   |
+| FAOR_F_APP  | Johannesburg Director | 121.400   | -                   |
+| FAJA_CTR    | Johannesburg Area     | 126.700   | -                   |
+| FAJO_FSS    | Johannesburg Oceanic  | 120.400   | -                   |
+
+==== Airspace ====
+
+^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| OR Tambo CTR      | C     | FAOR_TWR | GND - A075    | - |
+| OR Tambo TMA      | C     | FAOR_APP | A075 - FL135  | - |
+| OR Tambo CTA      | A     | FAJA_CTR | FL145 - FL195 | - |
+| OR Tambo CTA      | C     | FAJA_CTR | FL145 - FL200 | - |
+| OR Tambo FIR/UIR  | G     | FAJA_CTR | GND - FL195   | - |
+| OR Tambo FIR/UIR  | A     | FAJA_CTR | FL245 - UNL   | - |
+
+
+{{page>fa-footer#FAOR}}
