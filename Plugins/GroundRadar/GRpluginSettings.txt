@@ -13,7 +13,7 @@
 // ##################################################################
 
 Equip_ModeS=WZLCISG
-Equip_ProMode=
+Equip_ProMode=0
 RawVideo=1
 RawVideo_MaxHistory=5
 
@@ -42,19 +42,22 @@ System_TagColor=2
 //                 #2 COLORS v0.3
 // ##################################################################
 
-Color_Arrival=253,189,166
+Color_Arrival=90,191,117
 Color_Background=160,160,160
-Color_Departure=210,236,166
+Color_Departure=115,179,245
 Color_RawVideo=175,190,200
 Color_RawVideoHistory=175,190,200
-Color_SelectedLabelFill_App=200,200,200
-Color_SelectedLabelFill_Gnd=200,200,200
+Color_SelectedLabelFill_App=58,58,58
+Color_SelectedLabelFill_Gnd=58,58,58
 Color_Unknown=0,0,0
-Color_WBackground=170,170,170
+Color_WBackground=72,74,73
+Color_WBackground3=131,131,131
 Color_WBorder=250,250,250
 Color_WForeground2=170,170,170
-Color_WForeground=65,65,65
-Color_WTitleBar=250,250,250
+Color_WForeground=217,217,217
+Color_WTitleBar=133,133,133
+Color_APP_Background=43,50,68
+Color_APP_RunwayExtension=160,160,160
 
 AppLabel_Font=EuroScope
 AppLabel_Transparency_Bg=255
@@ -129,7 +132,7 @@ List_Departure_Items=10
 //                 #6B LISTS | ARRIVALS v0.1
 // ##################################################################
 
-List_Arrival=0,1390,45
+List_Arrival=1,1390,45
 List_Arrival_RWY=1
 List_Arrival_TYPE=1
 List_Arrival_WTC=1
@@ -182,7 +185,8 @@ List_Inbound_STAND=1
 // ##################################################################
 
 Track_PredictionLine_TWR=1
-Window_APP_Extensions=1
+Window_APP_Extensions=20=1
+Window_APP_Extensions_TickWidth=0.5
 
 System_GroundMode_AltFilter_AAL=24000
 System_UseReportedGS=0
@@ -213,7 +217,7 @@ Airport_Radius=3
 Window_APP=1,1250,150,500,250
 Window_APP_Rotation=90
 Window_APP_Scale=10
-Window_APP_Extensions=1
+Window_APP_Extensions=20=1
 Window_APP_AltFilter=9457
 
 [FACT]
@@ -223,7 +227,7 @@ Airport_Radius=3
 Window_APP=1,1250,150,500,250
 Window_APP_Rotation=285
 Window_APP_Scale=10
-Window_APP_Extensions=1
+Window_APP_Extensions=20=1
 Window_APP_AltFilter=5160
 
 AppPath=FACT:FACT 01:S033.59.15.860:E018.36.32.011:009:L:144:3.0
@@ -236,7 +240,7 @@ Airport_Radius=3
 Window_APP=1,1250,150,500,250
 Window_APP_Rotation=8
 Window_APP_Scale=10
-Window_APP_Extensions=1
+Window_APP_Extensions=20=1
 Window_APP_AltFilter=5435
 
 [FAGG]
@@ -246,17 +250,20 @@ Airport_Radius=3
 Window_APP=1,1250,150,500,250
 Window_APP_Rotation=2
 Window_APP_Scale=10
-Window_APP_Extensions=1
+Window_APP_Extensions=20=1
 Window_APP_AltFilter=5648
 
 [FALA]
 Airport_Elevation=4521
 Airport_Radius=3
 
+Window_2nd=1,150,900,600,200
+Window_2nd_Scale=1250
+
 Window_APP=1,1250,150,500,250
 Window_APP_Rotation=43
 Window_APP_Scale=10
-Window_APP_Extensions=1
+Window_APP_Extensions=20=20
 Window_APP_AltFilter=9521
 
 [FALE]
@@ -266,7 +273,7 @@ Airport_Radius=3
 Window_APP=1,1250,300,600,300
 Window_APP_Rotation=52.5
 Window_APP_Scale=10
-Window_APP_Extensions=1
+Window_APP_Extensions=20=1
 Window_APP_AltFilter=5310
 
 AppPath=FALE:FALE 06:S029.37.30.190:E031.06.27.889:062:R:287:3.0
@@ -279,7 +286,7 @@ Airport_Radius=3
 Window_APP=1,1250,150,500,250
 Window_APP_Rotation=60
 Window_APP_Scale=10
-Window_APP_Extensions=1
+Window_APP_Extensions=20=1
 Window_APP_AltFilter=8950
 
 [FAKN]
@@ -289,7 +296,7 @@ Airport_Radius=3
 Window_APP=1,1250,150,500,250
 Window_APP_Rotation=54
 Window_APP_Scale=10
-Window_APP_Extensions=1
+Window_APP_Extensions=20=1
 Window_APP_AltFilter=7829
 
 [FAOR]
@@ -299,7 +306,7 @@ Airport_Radius=3
 Window_APP=1,1700,900,750,500
 Window_APP_Rotation=75
 Window_APP_Scale=17
-Window_APP_Extensions=20
+Window_APP_Extensions=20=20
 Window_APP_AltFilter=10580
 
 Window_APW_MaxDist=10
@@ -322,8 +329,11 @@ Airport_Radius=3
 Window_APP=1,1250,150,500,250
 Window_APP_Rotation=30.5
 Window_APP_Scale=10
-Window_APP_Extensions=1
+Window_APP_Extensions=20=1
 Window_APP_AltFilter=5229
+
+Window_2nd=1,1000,700,600,200
+Window_2nd_Scale=1250
 
 AppPath=FAPE:FAPE 08:S033.59.37.888:E025.36.00.000:086:L:229:3.0
 AppPath=FAPE:FAPE 26:S033.59.03.930:E025.37.05.570:266:L:184:3.0
@@ -335,7 +345,7 @@ Airport_Radius=3
 Window_APP=1,1250,150,500,250
 Window_APP_Rotation=116.3
 Window_APP_Scale=10
-Window_APP_Extensions=1
+Window_APP_Extensions=20=1
 Window_APP_AltFilter=7791
 
 [FAWK]
@@ -345,7 +355,7 @@ Airport_Radius=3
 Window_APP=1,1250,150,500,250
 Window_APP_Rotation=98
 Window_APP_Scale=10
-Window_APP_Extensions=1
+Window_APP_Extensions=20=1
 Window_APP_AltFilter=9940
 
 [FDSK]
@@ -355,7 +365,7 @@ Airport_Radius=3
 Window_APP=1,1250,150,500,250
 Window_APP_Rotation=90
 Window_APP_Scale=10
-Window_APP_Extensions=1
+Window_APP_Extensions=20=1
 Window_APP_AltFilter=5092
 
 
