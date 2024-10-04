@@ -1,0 +1,48 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:FAGY:name
+Airports:FAGY:symbol
+Airports:FAHC:name
+Airports:FAHC:symbol
+Airports:FALE:name
+Airports:FALE:symbol
+Airports:FAPM:name
+Airports:FAPM:symbol
+ARTCC low boundary:FALE-CTR:
+ARTCC low boundary:FAVG-ATZ:
+Geo:FAVG Groundlayout:
+Runways:FAVG 05-23:extended centerline 1
+Runways:FAVG 05-23:extended centerline 1 left base
+Runways:FAVG 05-23:extended centerline 1 left ticks
+Runways:FAVG 05-23:extended centerline 1 left vectoring
+Runways:FAVG 05-23:extended centerline 1 right base
+Runways:FAVG 05-23:extended centerline 1 right ticks
+Runways:FAVG 05-23:extended centerline 1 right vectoring
+Runways:FAVG 05-23:extended centerline 2
+Runways:FAVG 05-23:extended centerline 2 left base
+Runways:FAVG 05-23:extended centerline 2 left ticks
+Runways:FAVG 05-23:extended centerline 2 left vectoring
+Runways:FAVG 05-23:extended centerline 2 right base
+Runways:FAVG 05-23:extended centerline 2 right ticks
+Runways:FAVG 05-23:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:8
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:60.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-29.774296:31.050294:-29.767360:31.064817
+PLUGIN:Ground Radar plugin:AirportElevation:6
+PLUGIN:Ground Radar plugin:AirportRadius:5
+PLUGIN:Ground Radar plugin:GroundMode:FAVG
+PLUGIN:TopSky plugin:NoDraw:1
