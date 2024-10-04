@@ -1,0 +1,91 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:FAAP:name
+Airports:FAAP:symbol
+Airports:FABS:name
+Airports:FABS:symbol
+Airports:FAFW:name
+Airports:FAFW:symbol
+Airports:FAKT:name
+Airports:FAKT:symbol
+Airports:FALA:name
+Airports:FALA:symbol
+Airports:FAOR:name
+Airports:FAOR:symbol
+Airports:FASK:name
+Airports:FASK:symbol
+Airports:FAWK:name
+Airports:FAWK:symbol
+ARTCC boundary:FAOR-TMA:
+ARTCC low boundary:FAWB-CTR:
+Free Text:FAWB Taxiways\A(8):freetext
+Free Text:FAWB Taxiways\B1(5):freetext
+Free Text:FAWB Taxiways\B2(5):freetext
+Free Text:FAWB Taxiways\B3(5):freetext
+Free Text:FAWB Taxiways\B4(5):freetext
+Free Text:FAWB Taxiways\C1(4):freetext
+Free Text:FAWB Taxiways\C2(4):freetext
+Free Text:FAWB Taxiways\C3(4):freetext
+Free Text:FAWB Taxiways\D1(3):freetext
+Free Text:FAWB Taxiways\D2(3):freetext
+Free Text:FAWB Taxiways\D3(3):freetext
+Free Text:FAWB Taxiways\F1(6):freetext
+Free Text:FAWB unknown\GF-1:freetext
+Free Text:FAWB unknown\GF-2:freetext
+Free Text:FAWB unknown\MN:freetext
+Free Text:FAWB unknown\TN:freetext
+Free Text:FAWB VRP\Bon_Accord:freetext
+Free Text:FAWB VRP\Magaliesberg:freetext
+Free Text:FAWB VRP\Petroport:freetext
+Free Text:FAWB VRP\Roodelplaat Dam:freetext
+Free Text:FAWB VRP\Rosslyn:freetext
+Regions:FAWB Groundlayout:polygon
+Runways:FAWB 06-24:extended centerline 1
+Runways:FAWB 06-24:extended centerline 1 left base
+Runways:FAWB 06-24:extended centerline 1 left ticks
+Runways:FAWB 06-24:extended centerline 1 left vectoring
+Runways:FAWB 06-24:extended centerline 1 right base
+Runways:FAWB 06-24:extended centerline 1 right ticks
+Runways:FAWB 06-24:extended centerline 1 right vectoring
+Runways:FAWB 06-24:extended centerline 2
+Runways:FAWB 06-24:extended centerline 2 left base
+Runways:FAWB 06-24:extended centerline 2 left ticks
+Runways:FAWB 06-24:extended centerline 2 left vectoring
+Runways:FAWB 06-24:extended centerline 2 right base
+Runways:FAWB 06-24:extended centerline 2 right ticks
+Runways:FAWB 06-24:extended centerline 2 right vectoring
+Runways:FAWB 11-29:extended centerline 1
+Runways:FAWB 11-29:extended centerline 1 left base
+Runways:FAWB 11-29:extended centerline 1 left ticks
+Runways:FAWB 11-29:extended centerline 1 left vectoring
+Runways:FAWB 11-29:extended centerline 1 right base
+Runways:FAWB 11-29:extended centerline 1 right ticks
+Runways:FAWB 11-29:extended centerline 1 right vectoring
+Runways:FAWB 11-29:extended centerline 2
+Runways:FAWB 11-29:extended centerline 2 left base
+Runways:FAWB 11-29:extended centerline 2 left ticks
+Runways:FAWB 11-29:extended centerline 2 left vectoring
+Runways:FAWB 11-29:extended centerline 2 right base
+Runways:FAWB 11-29:extended centerline 2 right ticks
+Runways:FAWB 11-29:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:8
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:177.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-25.668163:28.206434:-25.651229:28.241888
+PLUGIN:Ground Radar plugin:AirportElevation:1248
+PLUGIN:Ground Radar plugin:AirportRadius:5
+PLUGIN:Ground Radar plugin:GroundMode:FAWB
+PLUGIN:TopSky plugin:NoDraw:1
