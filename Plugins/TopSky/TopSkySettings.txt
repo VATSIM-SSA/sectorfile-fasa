@@ -38,7 +38,7 @@ Color_Rwy_App_Line_Inuse=102,102,102
 //                 #3 COLORS
 // ##################################################################
 /TRACK LABELS
-Color_Unconcerned=80,91,94
+Color_Unconcerned=96,112,117
 Color_Concerned=89,115,91
 Color_Coordination=89,115,91
 Color_Assumed=255,255,255
@@ -77,12 +77,12 @@ System_UseTSAborderHighlightColor=1
 WXR_Brightness=30
 WXR_Gain=100
 WXR_Zoom=2
-WXR_Latitude=-25
+WXR_Latitude=-29
 WXR_Latitude_Max=-23
-WXR_Latitude_Min=-28
+WXR_Latitude_Min=-39
 WXR_Longitude=28
-WXR_Longitude_Max=26
-WXR_Longitude_Min=11
+WXR_Longitude_Max=40
+WXR_Longitude_Min=8
 WXR_ImageSize=512
 Color_Weather_Map=9,18,20
 
