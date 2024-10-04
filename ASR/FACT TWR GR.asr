@@ -61,3 +61,4 @@ PLUGIN:Ground Radar plugin:AirportElevation:160
 PLUGIN:Ground Radar plugin:AirportRadius:5
 PLUGIN:Ground Radar plugin:GroundMode:FACT
 PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FACT

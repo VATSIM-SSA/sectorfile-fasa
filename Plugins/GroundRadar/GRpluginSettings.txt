@@ -368,6 +368,15 @@ Window_APP_Scale=10
 Window_APP_Extensions=20=1
 Window_APP_AltFilter=5092
 
+[FASH]
+Airport_Elevation=1173
+Airport_Radius=3
+
+Window_APP=1,1250,150,500,250
+Window_APP_Rotation=90
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=6173
 
 // ##################################################################
 //                 END

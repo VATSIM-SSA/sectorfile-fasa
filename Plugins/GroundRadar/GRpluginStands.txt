@@ -2071,3 +2071,39 @@ STAND:FALA:AP-GA4:S025.56.26.870:E027.55.46.384:250
 USE:BCHP
 WTC:LM
 AREA
+
+// ##################################################################
+//                 FAUP Uptington
+// ##################################################################
+
+// Apron A Left
+STAND:FAUP:A-Left:S028.24.51.43:E021.15.29.04:45
+USE:ABCP
+WTC:LMH
+
+// Apron A Right
+STAND:FAUP:A_Right:S028.24.47.94:E021.15.28.21:45
+USE:ABCP
+WTC:LM
+
+// Apron B Left
+STAND:FAUP:B-Left:S028.24.31.75:E021.15.24.57:20
+USE:ABCP
+WTC:LM
+
+// Apron B Right
+STAND:FAUP:B-Right:S028.24.30.30:E021.15.24.31:20
+USE:ABP
+WTC:LM
+
+// General Aviation 1
+STAND:FAUP:GA-1:S028.24.18.20:E021.15.8.62:200
+USE:CHIMPT
+WTC:LMH
+AREA
+
+// General Aviation 2
+STAND:FAUP:GA-2:S028.23.51.25:E021.15.10.15:200
+USE:CHIMPT
+WTC:LMH
+AREA
