@@ -1,10 +1,10 @@
 {
-    "mach.prefix":{
+    "mach":{
         "digits":2,
-        "thresholdFL":245
+        "thresholdFL":245,
+        "prefix":"@M"
     },
-    "ias.prefix":{
-        "ias":"@N",
-        "mach":"@M"
+    "ias":{
+        "prefix":"@N"
     }
 }
