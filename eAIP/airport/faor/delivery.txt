@@ -6,7 +6,7 @@
 
   * VFR flights are not allowed over and above the FL 195.
 
-{{page>icao-cruiselevels#RVSM Feet}}
+{{page>icao:cruise-levels#RVSM Feet}}
 
 ==== Departure Procedures & Initial Climbs ====
 

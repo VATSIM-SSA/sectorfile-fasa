@@ -6,7 +6,7 @@
 
   * VFR flights are not allowed in Class A airspace which covers FL200 and above or as designated.
 
-{{page>icao-cruiselevels#RVSM Feet}}
+{{page>icao:cruise-levels#RVSM Feet}}
 
 ==== Departure Procedures & Initial Climbs ====
 
