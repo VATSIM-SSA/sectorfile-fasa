@@ -30,7 +30,7 @@ m_ShowTitleMetar:0
 m_ConnectSELtoSIL:1
 m_ConnectDEPtoSEL:1
 m_ConnectSILtoTOP:0
-m_ScreenNumber:1
+m_ScreenNumber:0
 m_ScreenPosition:2
 m_ScreenMaximized:1
 m_ShowTitleSelectedAc:0
@@ -56,3 +56,5 @@ m_ShowTsVccsMiniControl:0
 ScenarioEditorX:0
 ScenarioEditorY:0
 m_ShowSTARControllers:1
+MessageLinesNumber:4
+BackgroundGrphicsInThread:1
