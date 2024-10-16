@@ -69,7 +69,7 @@ Recommended altitude limits for aircraft in the circuit:
 | Helicopter     | 1000 feet  |
 
 === VFR Departures & Arrivals ===
-[[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-information-publication/Enroute%20(15_Apr_2024).pdf|Enroute AIP]] page 274 for full details.
+[[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-information-publication/Enroute%20(15_Oct_2024).pdf|Enroute AIP]] page 274 for full details.
 
 Cape Town has published standard VFR departure, arrival and transit routes via:
 
