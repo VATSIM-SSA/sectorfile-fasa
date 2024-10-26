@@ -1,5 +1,7 @@
 ===== FAOR Delivery =====
 
+<note>A lot of SIDs at FAOR are currectly suspended. Please pay spesial attention to what SIDs are in use, and which ones are not. If a SID is suspended, runway track can be given as a non-standard departure.</note>
+
 ==== IFR Clearance Rules ====
 
   * We have not implemented any specific IFR Clearance or Flight Plan Validation rules at this point.
