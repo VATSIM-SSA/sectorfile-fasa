@@ -1,0 +1,55 @@
+===== FAOR Delivery =====
+
+<note>A lot of SIDs at FAOR are currectly suspended. Please pay spesial attention to what SIDs are in use, and which ones are not. If a SID is suspended, runway track can be given as a non-standard departure.</note>
+
+==== IFR Clearance Rules ====
+
+  * We have not implemented any specific IFR Clearance or Flight Plan Validation rules at this point.
+
+  * VFR flights are not allowed over and above the FL 195.
+
+{{page>icao:cruise-levels#RVSM Feet}}
+
+==== Departure Procedures & Initial Climbs ====
+
+^ RWY ^ Fix   ^ Departure ^ Type ^ Initial Climb ^ Remarks ^
+| 03L | APDAK | APDA1B      | RNAV | FL090         | - |
+| ::: | :::   | <del>APDA3A     </del> | -    | FL090         | //Currently Suspended// |
+| ::: | EGMEN | <del>EGME1C     </del> | RNAV    | FL090         | //Currently Suspended// |
+| ::: | :::   | <del>EGME2A     </del> | -    | FL090         | //Currently Suspended// |
+| ::: | EXOBI | EXOB1A      | -    | FL090         | - |
+| ::: | GRASMERE   | <del>GAV5B      </del> | -    | 8000 ft       | //Currently Suspended// |
+| ::: | NESAN | <del>NESA1A     </del> | -    | 8000 ft       | Usable between 0600-2200 LT and //Currently Suspended// |
+| ::: | RAGUL | RAGU3A      | -    | 8000 ft       | - |
+| ::: | VASUR | VASU3A      | -    | 8000 ft       | - |
+| 03R | EXOBI | EXOB1A      | -    | FL090         | - |
+| ::: | GRASMERE   | <del>GAV5B      </del> | -    | 8000 ft       | //Currently Suspended// |
+| ::: | NESAN | <del>NESA1A     </del> | -    | 8000 ft       | Usable between 0600-2200 LT and //Currently Suspended// |
+| ::: | RAGUL | RAGU3A      | -    | 8000 ft       | - |
+| ::: | VASUR | VASU3A      | -    | 8000 ft       | - |
+| 21L | EXOBI | <del>EXOB3B     </del> | - | 8000 ft       | //Currently Suspended// |
+| ::: | HEIDELBERG   | <del>HGV5D      </del> | -    | 8000 ft       | //Currently Suspended// |
+| ::: | OVALA | <del>OVAL1B     </del> | -    | 8000 ft       | //Currently Suspended// |
+| ::: | RAGUL | <del>RAGU3B     </del> | -    | 8000 ft       | //Currently Suspended// |
+| ::: | VASUR | <del>VASU3B     </del> | -    | 8000 ft       | //Currently Suspended// |
+| 21R | APDAK | <del>APDA1D     </del> | RNAV | 8000 ft       | //Currently Suspended// |
+| ::: | :::   | <del>APDA2B     </del> | -    | 8000 ft       | //Currently Suspended// |
+| ::: | EGMEN | <del>EGME1D     </del> | RNAV    | 8000 ft       | //Currently Suspended// |
+| ::: | :::   | <del>EGME2B     </del> | -    | 8000 ft       | //Currently Suspended// |
+| ::: | EXOBI | <del>EXOB3B     </del> | -    | 8000 ft       | //Currently Suspended// |
+| ::: | GRASMERE   | <del>GAV6C      </del> | -    | 8000 ft       | //Currently Suspended// |
+| ::: | GEROX | GERO1C      | RNAV    | 8000 ft       | - |
+| ::: | HEIDELBERG   | <del>HGV5D      </del> | -    | 8000 ft       | //Currently Suspended// |
+| ::: | LAMSERIA   | <del>LIV1C      </del> | -    | 8000 ft       | //Currently Suspended// |
+| ::: | OVALA | <del>OVAL1B     </del> | -    | 8000 ft       | //Currently Suspended// |
+| ::: | RAGUL | <del>RAGU3B     </del> | -    | 8000 ft       | //Currently Suspended// |
+| ::: | VASUR | <del>VASU3B     </del> | -    | 8000 ft       | //Currently Suspended// |
+
+==== Phraseology for standard IFR clearance ==== 
+
+<code>Springbok 78, OR Tambo Delivery. Information [A] is current. Cleared to [DESTINATION], FL[XXX] on request. After departure RWY[XXX] comply with the [XXXXX] departure. Climb initially FL090/8000 feet*. After passing 7500 feet, contact [DEPARTURE] on frequency [XXX]. Squawk [XXXX].</code>
+
+  * *Note: Initial climb must be given in accordance with the given SID.
+  * Requested flight level to comply with the semi-circular rule (even level westbound, odd level eastbound).
+
+{{page>fa-footer#FAOR}}

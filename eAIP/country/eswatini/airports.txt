@@ -1,0 +1,16 @@
+===== Eswatini Airports =====
+
+^ ICAO      ^ Name                      ^ City          ^ Status            ^ Remarks ^
+| [[airport:fdbm:home|FDBM]]  | Matata                    | Lubombo       | //Not Available// | - |
+| [[airport:fdbs:home|FDBS]]  | Big Bend Sugar Estate     | Lubombo       | //Not Available// | - |
+| [[airport:fdmh:home|FDMH]]  | Mhiume                    | Lubombo       | //Not Available// | - |
+| [[airport:fdms:home|FDMS]]  | Matsapha                  | Manzini       | //Not Available// | - |
+| [[airport:fdng:home|FDNG]]  | Piggs Peak                | Hhohho        | //Not Available// | - |
+| [[airport:fdnh:home|FDNH]]  | Nhlangano                 | Nhlangano     | //Not Available// | - |
+| [[airport:fdsk:home|FDSK]]  | Sikhuphe Intl             | Sikhuphe      | //In Development// | - |
+| [[airport:fdsm:home|FDSM]]  | Simunye                   | Simunye       | //Not Available// | - |
+| [[airport:fdtm:home|FDTM]]  | Tambankulu                | Tambankulu    | //Not Available// | - |
+| [[airport:fdub:home|FDUB]]  | Ubombo Ranches            | Big Bend      | //Not Available// | - |
+
+
+{{page>fd-footer#Eswatini}}
