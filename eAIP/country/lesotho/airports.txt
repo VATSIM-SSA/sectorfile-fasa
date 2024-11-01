@@ -1,7 +1,0 @@
-===== Lesotho Airports =====
-
-^ ICAO      ^ Name                     ^ City          ^ Status             ^ Remarks ^
-| [[country:fxmm:home|FXMM]]  | Moshoeshoe I Intl        | Maseru   | //In Development// | - |
-
-
-{{page>fx-footer#Lesotho}}
