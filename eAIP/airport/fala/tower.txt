@@ -1,0 +1,28 @@
+==== FALA Tower ====
+
+  * Tower is responsible for landing and departing aircraft, the airspace surrounding the aerodrome, and controlling the CTR. The CTR at Lanseria extends from SFC to 6500FT AGL.
+
+  * Tower controllers doesn't need to issue frequency change to IFR aircraft on departures, they receive the departure frequency from clearance delivery.
+
+  * Circuits are to the North East of the field (LH for RWY07 and RH for RW25) at 5600 feet, which includes aircraft entering the circuit
+
+  * Inbound aircraft come in on 6000 feet or 5600 feet. Assign squawks to inbound and outbound VFR traffic
+
+=== Runway selection ===
+
+  * Runway 07 is the preferred runway for departures when wind is variable.
+
+  * Intersection departures possible by GA aircraft from B3 via the South Hangers and A3 via the North Hangers or C Apron.
+
+=== Phraseology ===
+
+Pilot reports holding and ready for departure
+<code>Safair 441, hold short runway 07, listen out.</code>
+
+Takeoff
+<code>Safair 441, surface winds [WIND], runway 07, cleared for takeoff</code>
+
+Landing
+<code>Safair 441, surface winds [WIND], runway 07, cleared to land</code>
+
+{{page>fa-footer#FAOR}}
