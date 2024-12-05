@@ -38,3 +38,9 @@
 ----
 
 [[airport:faor:home|FAOR]] O.R. Tambo Intl | v0.1
+
+==== FALA ====
+
+----
+
+[[airport:fala:home|FALA]] Lanseria | v0.1
