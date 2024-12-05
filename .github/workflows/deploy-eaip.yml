@@ -17,6 +17,7 @@ jobs:
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: 141.98.26.36
+          protocol: ftps
           username: ${{ secrets.EAIP_FTP_USER }}
           password: ${{ secrets.EAIP_FTP_PWD }}
           local-dir: "eAIP/"
