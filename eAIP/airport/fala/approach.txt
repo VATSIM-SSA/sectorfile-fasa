@@ -1,0 +1,25 @@
+===== FALA Approach =====
+
+* FALA doesn't have a dedicated Approach position, with Johannesburg Radar/Approach (FAOR_APP) assuming the role.
+
+==== Arrivals Procedures ====
+
+  * FALA doesn't currently have any published arrival procedures
+
+==== Missed Approach Procedures ====
+
+^ Rwy ^ Approach ^ Missed Approach Procedure ^ Remarks ^
+| 07  | ILS Z | Climb to 8000' ALT. Maintain RWY track to 2.7 DME LAI. At 2.7 DME LAI turn left onto track 270°. Contact Johannesburg Approach for radar vectoring. |
+| ::: | RNAV  | Maintain R066 and climb to 8000' ALT. At 3.0 DME LIV, turn left DCT UTRUK. Contact Johannesburg Approach for Radar Vectoring to LA1N1 |
+| ::: | VOR   | Climb straight ahead on R065 LIV (OUBD) to 8000' ALT. At 3.0 DME LIV, turn left onto track 345°. At 8000' ALT turn left direction LIV |
+
+| 25  | RNAV  | Max 230KT IAS. MAPT overhead THR 25. Climb to 8000' ALT. Continue straight ahead to LA1N2 and hold, or as directed by ATC. Contact Johannesburg Approach for radar vectoring to LA2N1 |
+
+==== MSA and MRVA ====
+
+^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA ^ Remarks ^
+
+| CPT | 0 nm | 25 nm | 0º | 0º | 2500 ft | - |
+
+
+{{page>fa-footer#FALA}}

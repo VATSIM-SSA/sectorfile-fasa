@@ -1,0 +1,53 @@
+===== FALA Ground and Apron =====
+
+* Apron is not really required on VATSIM, and only assigns parking bays and does clearances
+
+* There are two run-up bays on RWY 07 and RWY 25 for GA aircraft.
+
+==== Push-back Procedures ====
+
+=== Phraseology ===
+
+<code>Safair 441, push and start is approved, face [DIRECTION], QNH [QNH]</code>
+
+<code>ZS-SOP, startup approved, QNH [QNH], report ready for taxi</code>
+
+=== Directions ===
+
+^ Apron ^ Type ^ Facing ^ Remarks ^
+| Apron A | All | South | - |
+| Apron B | All | East/West | - |
+| Apron C | All | South | Smaller planes here only need startup | 
+
+
+==== Taxi Out Procedures ====
+
+  * The ground controller controls the taxiways both north and South
+
+  * The ground controller offers push and start clearance. Apron only gives traffic and hazard information.
+ 
+  * Pilots can expect the ground controller to transfer them to tower upon reaching RWY 07/25.
+  
+  * If runway crossing at A3/B3 must be coordinated with tower controller, or the pilot must be transferred over to tower for the cross.
+
+
+=== Phraseology ===
+
+IFR
+<code>Safair 441 taxi S A to holding point A4, runway 07</code>
+
+VFR
+<code>ZS-FFE taxi right A, holding bay runway 07, report ready in the bay</code>
+<code>ZS-FEE taxi right A, hold short runway 07</code>
+
+
+==== Taxi In Procedures ====
+
+  * If arrival runway is 03L/21R, controller hand-off can be expected after vacating the runway. Pilots are not to taxi further without ground instruction. 
+ 
+=== Phraseology ===
+
+<code>Safair 441 taxi A R</code>
+
+
+{{page>fa-footer#FAOR}}
