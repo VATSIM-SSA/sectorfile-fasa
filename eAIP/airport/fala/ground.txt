@@ -17,7 +17,7 @@
 ^ Apron ^ Type ^ Facing ^ Remarks ^
 | Apron A | All | South | - |
 | Apron B | All | East/West | - |
-| Apron C | All | South | Smaller planes here only need startup | 
+| Apron C | All | South | Smaller planes here only need startup |
 
 
 ==== Taxi Out Procedures ====
@@ -25,9 +25,9 @@
   * The ground controller controls the taxiways both north and South
 
   * The ground controller offers push and start clearance. Apron only gives traffic and hazard information.
- 
+
   * Pilots can expect the ground controller to transfer them to tower upon reaching RWY 07/25.
-  
+
   * If runway crossing at A3/B3 must be coordinated with tower controller, or the pilot must be transferred over to tower for the cross.
 
 
@@ -43,11 +43,8 @@ VFR
 
 ==== Taxi In Procedures ====
 
-  * If arrival runway is 03L/21R, controller hand-off can be expected after vacating the runway. Pilots are not to taxi further without ground instruction. 
- 
 === Phraseology ===
 
 <code>Safair 441 taxi A R</code>
-
 
 {{page>fa-footer#FAOR}}

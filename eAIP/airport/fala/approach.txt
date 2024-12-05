@@ -15,11 +15,4 @@
 
 | 25  | RNAV  | Max 230KT IAS. MAPT overhead THR 25. Climb to 8000' ALT. Continue straight ahead to LA1N2 and hold, or as directed by ATC. Contact Johannesburg Approach for radar vectoring to LA2N1 |
 
-==== MSA and MRVA ====
-
-^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA ^ Remarks ^
-
-| CPT | 0 nm | 25 nm | 0º | 0º | 2500 ft | - |
-
-
 {{page>fa-footer#FALA}}
