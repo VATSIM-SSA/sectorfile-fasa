@@ -1,0 +1,9 @@
+===== FALA Departure =====
+
+  * FALA doesn't have a dedicated Departure position, with Johannesburg Radar/Approach (FAOR_APP) assuming the role of Departure.
+
+==== Departure Procedures ====
+
+  * FALA doesn't currently have any published departure procedures
+
+{{page>fa-footer#FAOR}}

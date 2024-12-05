@@ -1,0 +1,9 @@
+===== FAOR Scenery =====
+
+^ Platform ^ Type       ^ Developer ^ Link ^ Remarks ^
+| FSX/P3D    | Payware   | Gaffer    | [[https://secure.simmarket.com/gaffer-simulations-lanseria-international-airport-p3d4.phtml|Scenery]] | - |
+| X-PLANE    | Freeware  | NMG | [[https://forums.x-plane.org/index.php?/files/file/89351-fala-lanseria-international-airport/|Scenery]] | - |
+| MSFS       | Payware  | NMG  | [[https://www.nmgsimulations.co.za/product/fala-lanseria-intl-airport-v4-msfs/|Scenery]] | - |
+| MSFS       | Payware  | CALEUS AERIAL  | [[https://secure.simmarket.com/caelus-aerial-lanseria-international-(fala)-south-africa-msfs.phtml|Scenery]] | - |
+
+{{page>fa-footer#FAOR}}

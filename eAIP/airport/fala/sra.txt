@@ -1,0 +1,69 @@
+===== Johannesburg Special Rules =====
+
+----
+
+==== Introduction ====
+Special Rules Areas are defined directly beneath all Terminal Control Areas (TMAs) in South Africa, with the same **lateral** boundary as the TMA (potentially except for the Lowveld TMAs - just check). Special Rules Areas are designed to improve the safety for aircraft operating below the TMA and protect the TMA from potential airspace infringements through mandating procedures such as  specified altitudes and Traffic Information Broadcasts by Aircraft (TIBA) frequencies.
+\\ 
+\\ Pilots operating within the Special Rules Areas are required to abide by the published rules despite the airspace being Class G. 
+\\ 
+\\ Pilots are expected to make the following broadcasts on the TIBA frequency:
+  * Entering the Special Rules Area
+  * Reporting overhead or abeam published Reporting Points, such as on the Kyalami VFR Route
+  * Leaving the Special Rules Area
+  * Changing frequency, either to contact an ATSU or when entering a different Special Rules Area
+//Note: For VATSIM, the TIBA frequency is **ALWAYS 122.800MHz**//.
+\\ 
+\\ An example broadcast for an aircraft entering the Johannesburg Special Rules East area:
+<code>Johannesburg Special Rules East Traffic, ZS-KWR is a Cherokee, 5nm South-East of Mamelodi, altitude 7000ft routing Kitty Hawk.</code>
+
+----
+
+==== Johannesburg Special Rules Areas ====
+The Johannesburg Special Rules consists of three areas.
+^ Area ^ Real-World TIBA Frequency ^ VATSIM TIBA Frequency ^
+| East | 125.4 MHz | 122.8 MHz |
+| South | 125.6 MHz | ::: |
+| West | 125.8 MHz | ::: |
+<insert a diagram for SRAs>
+
+----
+
+==== Rules ====
+Aircraft operating inside the Johannesburg Special Rules Areas must comply with the following restrictions:
+  * Less than 180kt
+  * Landing Lights ON
+The semi-circular rule does not apply within the Special Rules Area. Aircraft must instead fly the following altitudes:
+\\ Northbound (270° to 089°) — **7500ft**
+\\ Southbound (090° to 269°) — **7000ft**
+\\ 
+\\ Aircraft //unable to comply// with these rules must operate at an altitude of **6500ft or below**.
+
+----
+
+==== VFR Routes ====
+There are two published VFR routes within the Johannesburg Special Rules Areas: the Pinedene VFR Route and the Kyalami VFR Route.
+
+=== Pinedene VFR Route ===
+The Pinedene VFR Route is established as an East-West route through the Waterkloof CTR, allowing aircraft to route to and from the Grand Central area without routing around the Johannesburg, Waterkloof, and Wonderboom CTRs.
+\\ 
+\\ Aircraft intending to use the Pinedene VFR Route must obtain clearance from **Waterkloof Tower** on **124.1 MHz**.
+\\ 
+\\ Aircraft on the Pinedene routing must
+  * Remain below altitude 6000ft on Waterkloof QNH
+  * Operate under VFR by day only
+**Eastbound Route**
+\\ Join at N14/R55 intersection and route East to Pinedene station remaining clear of Zwartkops ATZ and the SA Mint. At Pinedene follow 5 rows of powerlines to exit at the Corobrick Factory remaining clear of Rietvlei Nature Reserve, exiting Waterkloof ATZ to the East on Kitty Hawk frequency 120.65 MHz.
+\\ //(Source: Avimap)//
+\\ 
+\\ **Westbound Route**
+\\ Join at the Corobrick Factory remaining clear of Rietvlei Nature Reserve and route along 5 rows of powerlines to intersect Pinedene Station, then to the N14/R55 interchange remaining clear of SA Mint and Zwartkops ATZ EXITING Waterkloof ATZ to the West on Grand Central frequency 122.8 MHz.
+\\ //(Source: Avimap)//
+
+=== Kyalami VFR Route ===
+
+----
+
+
+
+
