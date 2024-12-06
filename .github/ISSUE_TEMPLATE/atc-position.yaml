@@ -1,0 +1,64 @@
+name: ATC Position
+description: Request a new or a change to an ATC Position
+title: "[PSTN]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: "# ATC Position Update Request form"
+  - type: markdown
+    attributes:
+      value: "Please make sure to check existing issues on this repo. Only open an issue here if they don't already exist there. Thanks!"
+  - type: dropdown
+    id: impact
+    attributes:
+      label: What features does this NOTAM impact?
+      description: Please select the appropriate option.
+      options:
+        - New Position
+        - Retire Position
+        - New Frequency
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: applicable-position
+    attributes:
+      label: Applicable Postion
+      description: Please provide the applicable position for this request. Example, FNAN_GND or GOOO_FSS
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the changes you would like. Please also put sources here (So that it can be verified.)
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context (Optional)
+      description: Add any other context here.
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: ATC Position Checklist (You do not have to fill this in.)
+      description: The following items have been completed by the Sector File Team.
+      options:
+        - label: Aeronav GNG
+          required: false
+        - label: Audio for VATSIM
+          required: false
+        - label: TopSky (Settings, Maps, CPDLC)
+          required: false
+        - label: GroundRadar (Maps)
+          required: false
+        - label: SSA Website
+          required: false
+        - label: SSA ATC Position Registry
+          required: false
+
+
