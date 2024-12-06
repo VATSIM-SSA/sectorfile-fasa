@@ -1,0 +1,49 @@
+===== FALA Delivery =====
+
+==== IFR Clearance Rules ====
+
+  * We have not implemented any specific IFR Clearance or Flight Plan Validation rules at this point.
+
+  * VFR flights are not allowed over and above the FL 195.
+
+  * Apron can give IFR clearances
+
+{{page>icao:cruise-levels#RVSM Feet}}
+
+==== Non-published Unofficial Departure Procedures ====
+These procedures are not standard, and should be coordinated with Johannesburg Radar.
+
+^ RWY ^ First Fix ^ Departure ^ Type ^ Initial Climb ^ Remarks ^
+| 07  | -         | RUNWAY HEADING                      | -  | 8000 ft     | - |
+| 07  | XAGEN     | LEFT TURN XAGEN                     | -  | 8000 ft     | - |
+| 07  | RAGUL     | LEFT TURN RAGUL                     | -  | 8000 ft     | - |
+| 07  | UTRUK     | LEFT TURN UTRUK                     | -  | 8000 ft     | - |
+| 07  | GAV       | LEFT TURN TO GAV VOR                | -  | 8000 ft     | - |
+| 07  | JSV       | LEFT TURN OVERHEAD FIELD TO JSV VOR | -  | 8000 ft     | - |
+| 07  | HGV       | LEFT TURN OVERHEAD FIELD TO HGV VOR | -  | 8000 ft     | - |
+| 07  | APDAK     | LEFT TURN OVERHEAD FIELD TO APDAK   | -  | 8000 ft     | - |
+| 07  | WKV       | RUNWAY HEADING                      | -  | 8000 ft     | - |
+| 07  | DPV       | RUNWAY HEADING                      | -  | 8000 ft     | - |
+| 07  | VASUR     | LEFT TURN VASUR                     | -  | 8000 ft     | - |
+| 07  | PNV       | LEFT TURN TO PNV VOR                | -  | 8000 ft     | - |
+| 25  | -         | RUNWAY HEADING                      | -  | 8000 ft     | - |
+| 25  | XAGEN     | RUNWAY HEADING                      | -  | 8000 ft     | - |
+| 25  | RAGUL     | RUNWAY HEADING                      | -  | 8000 ft     | - |
+| 25  | UTRUK     | RIGHT TURN UTRUK                    | -  | 8000 ft     | - |
+| 25  | GAV       | RUNWAY HEADING                      | -  | 8000 ft     | - |
+| 25  | JSV       | RIGHT TURN OVERHEAD FIELD TO JSV VOR| -  | 8000 ft     | - |
+| 25  | HGV       | RIGHT TURN OVERHEAD FIELD TO HGV VOR| -  | 8000 ft     | - |
+| 25  | APDAK     | RIGHT TURN OVERHEAD FIELD TO APDAK  | -  | 8000 ft     | - |
+| 25  | WKV       | RIGHT TURN WKV VOR                  | -  | 8000 ft     | - |
+| 25  | DPV       | RIGHT TURN DPV VOR                  | -  | 8000 ft     | - |
+| 25  | VASUR     | RIGHT TURN VASUR                    | -  | 8000 ft     | - |
+| 25  | PNV       | RIGHT TURN TO PNV VOR               | -  | 8000 ft     | - |
+
+==== Phraseology for standard IFR clearance ==== 
+
+<code>Safair 441, you are cleared Lanseria to [DESTINATION], FL[XXX] on request. After departure RWY[XXX], [DEPARTURE INSTRUCTIONS], maintain 8000 feet. Passing 6500 feet, contact [DEPARTURE] on [XXX]. Squawk [XXXX].</code>
+
+  * *Note: Initial climb is usually 8000ft but should be coordinated with Johannesburg Radar.
+  * Requested flight level to comply with the semi-circular rule (even level westbound, odd level eastbound).
+
+{{page>fa-footer#FAOR}}

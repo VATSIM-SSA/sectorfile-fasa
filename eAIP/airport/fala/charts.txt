@@ -1,0 +1,17 @@
+===== FALA Charts =====
+
+The following charts are sourced from the SACAA public AIP.
+
+^ Code ^ Description                           ^ URL ^ Remarks ^
+| ADC   | Aerodrome/Heliport Chart             | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FALA_AERODROME%20CHART_AD-01.pdf|Chart]] | - |
+| APDC  | Parking/Docking Chart                | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FALA%20ACFT%20PRKG%20-%20DOCKING%20CHART_AD-02.pdf|Chart]] | - |
+| RV    | Restricted Visibility Chart          | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FALA%20ACFT%20PRKG%20-%20DOCKING%20CHART_AD-02.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - ILS Z 07 | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FALA_ILS%20RWY%2007_ILS-01.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - RNAV G 07| [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FALA_%20RWY07_RNAV-01.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - RNAV R 25| [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FALA_A-RNP_RWY%2025_RNAV-02.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - VOR Y 07 | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FALA_VOR%20Y%20RWY%2007_VOR-02.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart - VOR Z 07 | [[https://caasanwebsitestorage.blob.core.windows.net/aeronautical-charts/FALA_VOR%20Z%20STRAIGHT-IN%20RWY%2007_VOR-01.pdf|Chart]] | - |
+
+The complete set of FALA Official Charts can be found [[https://www.caa.co.za/aeronautical-charts/|here]].
+
+{{page>fa-footer#FALA}}

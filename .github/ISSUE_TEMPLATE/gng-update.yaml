@@ -1,0 +1,40 @@
+name: GNG
+description: Document a new GNG Change Requirement for this Sector File
+title: "[GNG]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: "# GNG Report form"
+  - type: markdown
+    attributes:
+      value: "Please make sure to check existing issues on this repo. Only open an issue here if they don't already exist there. Thanks!"
+  - type: dropdown
+    id: related
+    attributes:
+      label: What GNG features does this Issue relate to?
+      multiple: false
+      options:
+        - Positions
+        - PROC Combiner
+        - COPx
+        - Holdings
+        - Sectors
+        - Radars
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the changes you would like to perform.
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context (Optional)
+      description: Add any other context or screenshots about the feature request here.
+    validations:
+      required: false
