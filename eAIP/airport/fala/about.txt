@@ -1,0 +1,58 @@
+===== FALA Information =====
+
+**Lanseria International Airport** is a privately owned international airport located north of Johannesburg, South Africa. It serves as a convenient alternative to the larger O.R. Tambo International Airport, offering domestic and international flights. The airport is known for its efficient operations, modern facilities, and focus on luxury travel, making it a popular choice for private jet charters and VIP services.
+
+More information available at [[https://en.wikipedia.org/wiki/Lanseria_International_Airport|Wikipedia]].
+
+
+==== Aerodrome Data ====
+
+| ICAO                  | FALA |
+| IATA                  | HLA |
+| Elevation             | 4521 ft |
+| Transition Altitude   | 8000 ft |
+| Transition Level      | by ATC |
+| Mag Variation         | 18º W |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=Lanseria_International_Airport&params=25_56_19_S_027_55_34_E_region:ZA-GP_type:airport|25°56′19″ S, 27°55′34″ E]] |
+| Site | [[https://lanseria.co.za/]] |
+
+
+==== Runways ====
+
+^ Runway ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m) ^ Remarks ^
+| 07     | 047º    | 2996     | 4496     | 2996     | 2996    | - |
+| 25     | 227º    | 2996     | 4547     | 2996     | 2925    | THR displaced 450M |
+| 03R    | 030º    | 3405     | 3465     | 3462     | 3405    | - |
+| 21L    | 210º    | 3405     | 3465     | 3462     | 3405    | - |
+
+==== Aprons ====
+^ Apron                     ^ Code ^ Stands   ^ Entry / Exit         ^ Remarks                               ^
+| Apron A                   | -    | A1 - A2  | Twy R                | A1-A2 has multiple stands and L, R    |
+| Apron B                   | -    | B1 - B10 | Twy S, R             | -                                     |
+| Apron C                   | -    | C1 - C7  | Twy U                | One Helipad                           |
+| North Hangers             | -    | -        | Twy P                | General Aviation                      |
+| South Hangers             | -    | -        | Twy B                | General Aviation                      |
+| ExecuJet                  | -    | -        | Twy T                | -                                     |
+
+==== Positions & Frequencies ====
+
+^ Position    ^ Callsign              ^ Frequency ^ Remarks             ^
+| FALA_ATIS   | Lanseria ATIS         | 127.650   | -                   |
+| FALA_APN    | Lanseria Apron        | 121.700   | Used rarely         |
+| FALA_GND    | Lanseria Ground       | 121.650   | //SSA Events Only// |
+| FALA_TWR    | Lanseria Tower        | 124.000   | -                   |
+| FAOR_APP    | Johannesburg Radar    | 124.500   | -                   |
+| FAJA_CTR    | Johannesburg Area     | 126.700   | -                   |
+| FAJO_FSS    | Johannesburg Oceanic  | 120.400   | -                   |
+
+==== Airspace ====
+
+^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Lanseria CTR         | C     | FALA_TWR | GND - A065    | - |
+| Lanseria TMA AREA A  | C     | FAOR_APP | A065 - A076   | - |
+| Lanseria TMA AREA B  | C     | FAOR_APP | A070 - A076   | - |
+| Johannesburg TMA     | C     | FAOR_APP | A076 - FL110  | - |
+| Johannesburg CTA     | C     | FAJA_CTR | FL110 - FL195 | - |
+| Johannesburg FIR/UIR | G     | FAJA_CTR | GND - FL195   | - |
+
+{{page>fa-footer#FALA}}

@@ -1,0 +1,45 @@
+name: eAIP Update
+description: Request an update to the eAIP
+title: "[eAIP]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: "# eAIP Update Request form"
+  - type: markdown
+    attributes:
+      value: "Please make sure to check existing issues on this repo. Only open an issue here if they don't already exist there. Thanks!"
+  - type: dropdown
+    id: type-update
+    attributes:
+      label: What type of eAIP Update are you requesting?
+      multiple: false
+      options:
+        - New or Update to an Airport Page
+        - New or Update to an Airspace Page
+        - New or Update to a Country Page
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: url-pages
+    attributes:
+      label: What is the URL of the page you wish to update?
+      description: What are the page(s) that you are requesting an update to? Please provide the URL(s) to the page(s) that you are requesting an update to.
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the changes you would like. Please also put sources here (So that it can be verified.)
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context (Optional)
+      description: Add any other context about the problem here.
+    validations:
+      required: false
+
