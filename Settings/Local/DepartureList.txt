@@ -14,7 +14,7 @@ m_Column:C/S:8:1:10021:6:39:1:TopSky plugin:TopSky plugin:TopSky plugin:3:4.0
 m_Column:Type/:5:0:10028:0:0:1:TopSky plugin:::3:4.0
 m_Column:W:2:0:10032:0:0:1:TopSky plugin:::0:4.0
 m_Column:RT:2:1:58:32:0:1:TopSky plugin:::4:4.0
-m_Column:S/Pad:10:1:19:29:41:1::::4:4.0
+m_Column:S/Pad:15:1:19:29:41:1::::4:4.0
 m_Column:R:2:1:10029:0:0:1:TopSky plugin:::3:4.0
 m_Column:DEP:5:1:10007:0:0:1:TopSky plugin:::0:4.0
 m_Column:DEST:5:1:10008:1001:99:1:TopSky plugin:TopSky plugin:TopSky plugin:3:4.0
