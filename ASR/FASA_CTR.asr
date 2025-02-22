@@ -1,12 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
-ARTCC high boundary:FAJO:
-ARTCC high boundary:FBGR:
-ARTCC high boundary:FQBE:
-ARTCC high boundary:FYWH:
+SECTORFILE:FASA-Package_20240402153021-240301-0002.sct
+SECTORTITLE:FASA-Package_20240402153021-240301-0002.sct
 Runways:FAAB 01-19:centerline
 Runways:FAAB 07-25:centerline
 Runways:FAAB 11-29:centerline
@@ -109,7 +105,7 @@ Runways:FDSK 02-20:centerline
 Runways:FXMM 04-22:centerline
 Runways:FXMM 11-29:centerline
 SHOWC:1
-SHOWSB:0
+SHOWSB:1
 BELOW:0
 ABOVE:0
 LEADER:-1
@@ -121,4 +117,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:21.00000
 TAGFAMILY:ATNS - TopSky
-WINDOWAREA:-27.914156:24.789410:-24.818108:31.200916
+WINDOWAREA:-33.370624:14.734849:-20.211005:42.861920
