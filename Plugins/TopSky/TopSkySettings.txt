@@ -273,6 +273,10 @@ Shortcut_XQDM_Combo=0x00A2
 Shortcut_Map_Target=1,MVA\MVA
 Shortcut_Map_Xfr_Key=1,0x004D ; M
 
+/left ALT+N = Toggles Range Rings
+Shortcut_Map_Target=2,ENROUTE\RANGERINGS
+Shortcut_Map_Xfr_Key=2,0x004E ; N
+
 // ##################################################################
 //                 #21 STCA
 // ##################################################################
