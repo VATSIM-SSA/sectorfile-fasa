@@ -53,12 +53,14 @@ Color_CPDLC_UM_Clearance=30,250,250
 
 /MENU COLORS
 Color_Active_Text_Map=255,255,255
-Color_Background=37,37,37
+/Color_Background=37,37,37
+Color_Background=70,70,70
 Color_Foreground=220,220,220
 Color_Border=50,50,50
 Color_BottomShadow=50,50,50
 Color_TopShadow=50,50,50
-Color_Global_Menu_Highlight=72,144,231
+/Color_Global_Menu_Highlight=72,144,231
+Color_Global_Menu_Highlight=196,122,26
 Color_Selected=72,144,231
 Color_Selected_Group=140,140,140
 Color_Text_Notes=166,166,166
