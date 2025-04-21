@@ -1,6 +1,8 @@
 {
   "name": "FASA South Africa - AIRAC 2505",
   "id": "e7e28ded-39bd-434d-a54d-883014009b67",
+  "updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/refs/heads/main/Plugins/vATIS%20Profile/vATIS%20Profile%20-%20FASA.json",
+  "updateSerial": 2025042101,
   "stations": [
     {
       "id": "78bf0d6e-1795-4340-95b5-644b7d148504",
