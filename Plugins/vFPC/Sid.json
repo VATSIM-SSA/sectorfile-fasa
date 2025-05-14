@@ -1,315 +1,1238 @@
 [
     {
-        "icao": "FACT",
-        "sids": {
-            "KODES": [
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "UQ42", "Q42", "Z30", "UZ30" ]
-                },
-                {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "UQ43", "Q43" ]
-                },
-                {
-                    "direction": "EVEN",
-                    "min_fl": 245,
-                    "airways": [ "UN186" ]
-                }
-            ],
-            "VCT": [
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "UQ42", "Q42", "Z30", "UZ30" ]
-                },
-                {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "UQ43", "Q43" ]
-                },
-                {
-                    "direction": "EVEN",
-                    "min_fl": 245,
-                    "airways": [ "UN186" ]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "UZ2", "UZ39", "Z2", "Z39" ]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "UQ12", "Q12" ]
-                },
-                {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "UQ36", "Q36", "Q34", "UQ34" ]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 145,
-                    "max_fl": 245,
-                    "airways": [ "A402", "A405" ]
-                }
-            ],
-            "TETAN": [
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "UZ2", "UZ39", "Z2", "Z39" ]
-                }
-            ],
-            "OKTED": [
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "UQ12", "Q12" ]
-                }
-            ],
-            "IMSOM": [
-                {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "UQ36", "Q36", "Q34", "UQ34" ]
-                }
-            ],
-            "CTV": [
-                {
-                    "direction": "ODD",
-                    "min_fl": 145,
-                    "max_fl": 245,
-                    "airways": [ "A402", "A405" ]
-                }
-            ]
-        }
-    },
-    {
         "icao": "FAOR",
         "sids": {
-            "GAV": [
-                {
-                    "direction": "EVEN",
-                    "min_fl": 145,
-                    "engine": "T",
-                    "airways": [ "W95", "UW95", "A405", "UA405" ]
-                }
-            ],
-            "VCT":[
-                {
-                    "direction": "EVEN",
-                    "min_fl": 145,
-                    "airways": [ "W95", "UW95", "A405", "UA405" ]
-                },
-                {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "Q10", "UQ10", "UZ6", "Z6" ]
-                },
-                {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "Q24", "UQ24", "Q41", "UQ41", "UZ21", "Z21" ]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "Q1", "UQ1" ]
-                },
-                {
-                    "direction": "ODD",
-                    "airways": [ "Q40", "UQ40" ],
-                    "min_fl": 200
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "Q2", "UQ2" ]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "T122", "UT122", "Q4", "UQ4" ]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "Q48", "UQ48" ]
-                },
-                {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "Q7", "UQ7" ]
-                },
-                {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "Q24", "UQ24", "Q41", "UQ41", "UZ21", "Z21" ]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "UZ17", "Z17" ]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 145,
-                    "airways": [ "G853", "UG853" ]
-                },
-                {
-                    "direction": "EVEN",
-                    "min_fl": 145,
-                    "airways": [ "G655", "UG655" ]
-                },
-                {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "UZ16", "Z16" ]
-                },
-                {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "UQ7", "Q7" ]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "Q28", "UQ28" ]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "Z18", "UZ18" ]
-                }
-            ],
-            "RAGUL": [
-                {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "Q10", "UQ10", "UZ6", "Z6" ]
-                }
-            ],
             "VASUR": [
                 {
                     "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "Q24", "UQ24", "Q41", "UQ41", "UZ21", "Z21" ]
-                }
-            ],
-            "NESAN": [
-                {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "Q1", "UQ1" ]
+                    "destinations": ["FBSK"],
+                    "min_fl": 145,
+                    "max_fl": 245,
+                    "airways": ["Q24 DUSLI ETOSA GBV"]
                 },
                 {
-                    "direction": "ODD",
-                    "airways": [ "Q40", "UQ40" ],
-                    "min_fl": 200
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["VASUR UQ24 ETOSA"]
+                },
+                {
+                    "engine": "T",
+                    "suffix": "3A",
+                    "airways":["UQ41 EVIPI UQ16 ETMIT"],
+                    "min_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "engine": "T",
+                    "suffix": "3A",
+                    "airways":["Q41 EVIPI UQ16 ETMIT"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "airways":["UQ41 EVIPI UQ16 ETMIT"],
+                    "min_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "airways":["Q41 EVIPI UQ16 ETMIT"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "engine": "T",
+                    "suffix": "3A",
+                    "destinations":["FAPP"],
+                    "airways":["VASUR UZ23 IMKUP PPV"],
+                    "min_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "engine": "T",
+                    "suffix": "3A",
+                    "destinations":["FAPP"],
+                    "airways":["VASUR Z23 IMKUP PPV"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "destinations":["FAPP"],
+                    "airways":["VASUR Z23 IMKUP PPV"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "destinations":["FAPP"],
+                    "airways":["VASUR UZ23 IMKUP PPV"],
+                    "min_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "engine": "T",
+                    "suffix": "3A",
+                    "airways":["UZ23 IMKUP UQ6 GWV"],
+                    "min_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "engine": "T",
+                    "suffix": "3A",
+                    "airways":["Z23 IMKUP Q6 GWV"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "engine": "T",
+                    "suffix": "3A",
+                    "destinations":["FALM"],
+                    "airways":["UZ23 IMKUP UQ6 GWV"],
+                    "min_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "engine": "T",
+                    "suffix": "3A",
+                    "destinations":["FALM"],
+                    "airways":["Z23 IMKUP Q6 GWV"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "destinations":["FALM"],
+                    "airways":["Z23 IMKUP Q6 GWV"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "destinations":["FALM"],
+                    "airways":["UZ23 IMKUP UQ6 GWV"],
+                    "min_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "airways":["UZ23 IMKUP UQ6 GWV"],
+                    "min_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "airways":["Z23 IMKUP ZQ6 GWV"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "airways":["UZ21 ITROL UQ25 RUDAS"],
+                    "min_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "airways":["Z21 ITROL Q25 RUDAS"],
+                    "max_fl": 245,
+                    "direction": "EVEN"
                 }
             ],
             "EGMEN": [
                 {
                     "direction": "ODD",
+                    "min_fl": 245,
+                    "airways":["UQ2 EPSEK"]
+                },
+                {
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways":["Q2 EPSEK"]
+                },
+                {
+                    "destinations":["FAHS"],
+                    "airways":["EGMEN ANVIT HSV"],
                     "min_fl": 200,
-                    "airways": [ "Q2", "UQ2" ]
+                    "direction": "ODD"
+                },
+                {
+                    "destinations":["FAPH"],
+                    "airways":["EGMEN UQ2 XATNU PHV"],
+                    "min_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "destinations":["FAPH"],
+                    "airways":["EGMEN Q2 XATNU PHV"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "destinations":["FASZ"],
+                    "airways":["EGMEN UMVET UTREX"],
+                    "min_fl": 200,
+                    "direction": "ODD"
+                }
+            ],
+            "NESAN": [
+                {
+                    "suffix":"1A",
+                    "engine": "J",
+                    "airways":["UQ40 EVIPI UQ16 ETMIT"],
+                    "min_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "suffix":"1A",
+                    "engine": "J",
+                    "airways":["Q40 EVIPI Q16 ETMIT"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "suffix":"1A",
+                    "engine": "J",
+                    "airways":["Q40 EVIPI Q16 ETMIT"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
+                                {
+                    "suffix":"1A",
+                    "engine": "J",
+                    "airways":["UQ1 TAVLA"],
+                    "min_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "suffix":"1A",
+                    "engine": "J",
+                    "airways":["Q1 TAVLA"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "suffix":"1A",
+                    "engine": "J",
+                    "destinations":["FALM"],
+                    "airways":["Q1 IMKUP LTV"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "suffix":"1A",
+                    "engine": "J",
+                    "destinations":["FALM"],
+                    "airways":["UQ1 IMKUP LTV"],
+                    "min_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "suffix":"1A",
+                    "engine": "J",
+                    "destinations":["FAPP"],
+                    "airways":["NESAN Q1 IMKUP PPV"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "suffix":"1A",
+                    "engine": "J",
+                    "destinations":["FAPP"],
+                    "airways":["NESAN UQ1 IMKUP PPV"],
+                    "min_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "airways":["UQ1 IMKUP UQ6 GWV"],
+                    "min_fl": 200,
+                    "direction": "ODD"
                 }
             ],
             "EXOBI": [
                 {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "T122", "UT122", "Q4", "UQ4" ]
-                }
-            ],
-            "APDAK": [
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "Q48", "UQ48" ]
+                    "destinations":["FAKN"],
+                    "airways":["UT122 ESVEV UZ36 TILIR PKV"],
+                    "min_fl": 245,
+                    "direction": "ODD"
                 },
                 {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "Q7", "UQ7" ]
-                }
-            ],
-            "LIV": [
+                    "destinations":["FAKN"],
+                    "airways":["T122 ESVEV Z36 TILIR PKV"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
                 {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "engine": "T",
-                    "airways": [ "Q24", "UQ24", "Q41", "UQ41", "UZ21", "Z21" ]
+                    "destinations":["FDMS"],
+                    "airways":["EXOBI UQ4 IXESU"],
+                    "min_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "destinations":["FDMS"],
+                    "airways":["EXOBI Q4 IXESU"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "destinations":["FDSK"],
+                    "airways":["EXOBI UQ4 DUKRA VSK"],
+                    "min_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "destinations":["FDSK"],
+                    "airways":["EXOBI Q4 DUKRA VSK"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "airways":["UT122 ESVEV UZ36 TEVAP"],
+                    "min_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "airways":["T122 ESVEV UZ36 TEVAP"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "airways":["UT122"],
+                    "min_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "airways":["T122"],
+                    "max_fl": 245,
+                    "direction": "ODD"
                 }
             ],
             "HGV": [
                 {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "UZ17", "Z17" ]
+                    "suffix":"5D",
+                    "destinations":["FABL"],
+                    "airways":["HGV UZ16 NEVEN UQ9 NIDIG UZ36 BLV"],
+                    "min_fl": 245,
+                    "direction": "EVEN"
                 },
                 {
-                    "direction": "ODD",
-                    "min_fl": 145,
-                    "airways": [ "G853", "UG853" ]
+                    "suffix":"5D",
+                    "destinations":["FABL"],
+                    "airways":["HGV Z16 NEVEN Q9 NIDIG Z36 BLV"],
+                    "max_fl": 245,
+                    "direction": "EVEN"
                 },
                 {
-                    "direction": "EVEN",
-                    "min_fl": 145,
-                    "airways": [ "G655", "UG655" ]
+                    "suffix":"5D",
+                    "destinations":["FAEL"],
+                    "airways":["HGV UZ17 GEROX UQ7 AXOXI ELV"],
+                    "min_fl": 245,
+                    "direction": "EVEN"
                 },
                 {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "UZ16", "Z16" ]
+                    "suffix":"5D",
+                    "destinations":["FAEL"],
+                    "airways":["HGV Z17 GEROX Q7 AXOXI ELV"],
+                    "max_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "suffix":"5D",
+                    "destinations":["FAGG"],
+                    "airways":["HGV UZ16 NEVEN UQ9 XALIN GRV"],
+                    "min_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "suffix":"5D",
+                    "destinations":["FAGG"],
+                    "airways":["HGV Z16 NEVEN Q9 XALIN GRV"],
+                    "max_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "suffix":"5D",
+                    "destinations":["FAMG"],
+                    "airways":["HGV UZ17 GEROX UQ28 GETOK"],
+                    "min_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "suffix":"5D",
+                    "destinations":["FAMG"],
+                    "airways":["HGV Z17 GEROX Q28 GETOK"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "suffix":"5D",
+                    "destinations":["FAPE"],
+                    "airways":["HGV UZ16 NEVEN UQ8 ALKAT PEV"],
+                    "min_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "suffix":"5D",
+                    "destinations":["FAPE"],
+                    "airways":["HGV Z16 NEVEN Q8 ALKAT PEV"],
+                    "max_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "suffix":"5D",
+                    "destinations":["FAPM"],
+                    "airways":["HGV UZ17 GEROX UQ28 TESUN LYV UG853 PMV"],
+                    "min_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "suffix":"5D",
+                    "destinations":["FAPM"],
+                    "airways":["HGV Z17 GEROX Q28 TESUN LYV G853 PMV"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "suffix":"5D",
+                    "destinations":["FAUT"],
+                    "airways":["HGV UZ17 GEROX UQ7 OKBUS"],
+                    "min_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "suffix":"5D",
+                    "destinations":["FAUT"],
+                    "airways":["HGV Z17 GEROX Q7 OKBUS"],
+                    "max_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "suffix":"5D",
+                    "destinations":["FXMM"],
+                    "airways":["HGV UZ16 NEVEN UQ8 ATUXO MZV"],
+                    "min_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "suffix":"5D",
+                    "destinations":["FXMM"],
+                    "airways":["HGV Z16 NEVEN Q8 ATUXO MZV"],
+                    "max_fl": 245,
+                    "direction": "EVEN"
                 }
             ],
-            "GEROX": [
+            "APDAK": [
                 {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "UQ7", "Q7" ]
+                    "airways":["APDAK UQ48 AVAVA UZ8 RBV UQ5 GEVIS"],
+                    "min_fl": 245,
+                    "direction": "ODD"
                 },
                 {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "Q28", "UQ28" ]
+                    "suffix":["1B","3A"],
+                    "destinations":["FABL"],
+                    "engine": "J",
+                    "airways":["APDAK NEVEN UQ9 NIDIG UZ36 BLV"],
+                    "min_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "suffix":["1B","3A"],
+                    "destinations":["FABL"],
+                    "engine": "J",
+                    "airways":["APDAK NEVEN Q9 NIDIG Z36 BLV"],
+                    "max_fl": 245,
+                    "direction": "EVEN"
+                },               
+                {
+                    "suffix":["1B","3A"],
+                    "destinations":["FAEL"],
+                    "airways":["APDAK UQ7 AXOXI ELV"],
+                    "min_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "suffix":["1B","3A"],
+                    "destinations":["FAEL"],
+                    "airways":["APDAK Q7 AXOXI ELV"],
+                    "max_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "destinations":["FALE"],
+                    "airways":["APDAK UQ48 APMAT"],
+                    "min_fl": 245,
+                    "direction": "ODD"
+                },
+                {   
+                    "destinations":["FALE"],
+                    "airways":["APDAK Q48 APMAT"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "suffix":["1B","3A"],
+                    "destinations":["FAMG"],
+                    "airways":["APDAK UQ7 GEROX UQ28 GETOK"],
+                    "min_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "suffix":["1B","3A"],
+                    "destinations":["FAMG"],
+                    "airways":["APDAK Q7 GEROX UQ28 GETOK"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "suffix":["1B","3A"],
+                    "destinations":["FAUT"],
+                    "airways":["APDAK UQ7 OKBUS"],
+                    "min_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "suffix":["1B","3A"],
+                    "destinations":["FAUT"],
+                    "airways":["APDAK Q7 OKBUS"],
+                    "max_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "suffix":["1B","3A"],
+                    "destinations":["FAPM"],
+                    "airways":["APDAK UQ7 GEROX UQ28 TESUN LYV UG853 PMV"],
+                    "min_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "suffix":["1B","3A"],
+                    "destinations":["FAPM"],
+                    "airways":["APDAK Q7 GEROX Q28 TESUN LYV G853 PMV"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "destinations":["FARB"],
+                    "airways":["APDAK UQ48 AVAVA UZ8 RBV"],
+                    "min_fl": 245,
+                    "direction": "ODD"
+                },
+                {   
+                    "destinations":["FARB"],
+                    "airways":["APDAK Q48 AVAVA Z8 RBV"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                },
+                {
+                    "destinations":["FASS"],
+                    "airways":["APDAK UQ48 AVAVA UZ8 RBV"],
+                    "min_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "destinations":["FASS"],
+                    "airways":["APDAK Q48 AVAVA Z8 RBV"],
+                    "max_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "destinations":["FAVG"],
+                    "airways":["APDAK UQ7 GEROX UQ28 GETOK PMV TGV"],
+                    "min_fl": 245,
+                    "direction": "ODD"
+                },
+                {   
+                    "destinations":["FAVG"],
+                    "airways":["APDAK Q7 GEROX Q28 GETOK PMV TGV"],
+                    "max_fl": 245,
+                    "direction": "ODD"
+                }
+            ],
+            "RAGUL": [
+                {
+                    "airways":["UZ6 AVUSA UQ11 OKTEL"],
+                    "min_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "airways":["Z6 AVUSA Q11 OKTEL"],
+                    "max_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "destinations":["FACT"],
+                    "airways":["RAGUL Q10 CSV Z26 ERDAS"],
+                    "engine": "J",
+                    "max_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "destinations":["FACT"],
+                    "airways":["RAGUL UQ10 CSV UZ26 ERDAS"],
+                    "engine": "J",
+                    "min_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "destinations":["FAKM"],
+                    "airways":["RAGUL Q10 APMIN APDUR KYV"],
+                    "engine": "J",
+                    "max_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "destinations":["FAUP"],
+                    "airways":["RAGUL UZ6 UNGEK SSV UG465 UPV"],
+                    "min_fl": 245,
+                    "direction": "EVEN"
+                },
+                {   
+                    "destinations":["FASS"],
+                    "airways":["RAGUL Z6 UNGEK SSV UG465 UPV"],
+                    "max_fl": 245,
+                    "direction": "EVEN"
+                }
+            ],
+            "GAV": [
+                {
+                    "engine": "T",
+                    "destinations":["FACT"],
+                    "airways":["GAV UTEBA Q10 CSV Z26 ERDAS"],
+                    "max_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "engine": "T",
+                    "destinations":["FACT"],
+                    "airways":["GAV UTEBA UQ10 CSV UZ26 ERDAS"],
+                    "min_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "engine": "T",
+                    "destinations":["FABL"],
+                    "airways":["GAV UW95 BLV"],
+                    "min_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "engine": "T",
+                    "destinations":["FABL"],
+                    "airways":["GAV W95 BLV"],
+                    "max_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "engine": "T",
+                    "destinations":["FAKM"],
+                    "airways":["GAV UTEBA UQ10 APMIN APDUR KYV"],
+                    "min_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "engine": "T",
+                    "destinations":["FAKM"],
+                    "airways":["GAV UTEBA Q10 APMIN APDUR KYV"],
+                    "max_fl": 245,
+                    "direction": "EVEN"
                 }
             ],
             "OVALA": [
                 {
+                    "suffix":"03",
+                    "destinations":["FAGG"],
+                    "airways":["OVALA UZ18 NEVEN UQ9 XALIN GRV"],
+                    "min_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "suffix":"03",
+                    "destinations":["FAGG"],
+                    "airways":["OVALA Z18 NEVEN Q9 XALIN GRV"],
+                    "max_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "suffix":"03",
+                    "destinations":["FAPE"],
+                    "airways":["OVALA UZ18 NEVEN UQ8 ALKAT PEV"],
+                    "min_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "suffix":"03",
+                    "destinations":["FAPE"],
+                    "airways":["OVALA Z18 NEVEN Q8 ALKAT PEV"],
+                    "max_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "suffix":"03",
+                    "destinations":["FXMM"],
+                    "airways":["OVALA UZ18 NEVEN UQ8 ATUXO MZV"],
+                    "min_fl": 245,
+                    "direction": "EVEN"
+                },
+                {
+                    "suffix":"03",
+                    "destinations":["FXMM"],
+                    "airways":["OVALA Z18 NEVEN Q8 ATUXO MZV"],
+                    "max_fl": 245,
+                    "direction": "EVEN"
+                }
+            ]  
+        }
+    },
+    {
+        "icao": "FABL",
+        "sids": {
+            "BLV": [
+                {
+                    "destinations": ["FAOR","FAGM"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["BLV EGSAN UZ4 TEVAR UZ2 NIBEX"]
+                },
+                {
+                    "destinations": ["FAOR","FAGM"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["BLV EGSAN Z4 TEVAR Z2 NIBEX"]
+                },
+                {
+                    "destinations": ["FACT"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["BLV UZ40 ESRUK UQ51 GETEN"]
+                },
+                {
+                    "destinations": ["FACT"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["BLV Z40 ESRUK Q51 GETEN"]
+                },
+                {
+                    "destinations": ["FALE"],
                     "direction": "ODD",
                     "min_fl": 200,
-                    "airways": [ "Z18", "UZ18" ]
+                    "airways": ["BLV MZV GETOK"]
+                },
+                {
+                    "destinations": ["FALA","FAGC"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["BLV EGSAN Z4 TEVAR Z2 NIBEX LIV"]
+                },
+                {
+                    "destinations": ["FALA","FAGC"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["BLV EGSAN UZ4 TEVAR UZ2 NIBEX LIV"]
+                },
+                {
+                    "destinations": ["FAGG"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["BLV ETGIS Q9 XALIN GRV"]
+                },
+                {
+                    "destinations": ["FAGG"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["BLV ETGIS UQ9 XALIN GRV"]
                 }
             ]
         }
     },
     {
-        "icao": "FALA",
+        "icao": "FACT",
         "sids": {
-            "VCT": [
+            "TETAN": [
+                {
+                    "destinations": ["FAOR","FAGM"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["TETAN UZ2 NIBEX"]
+                },
+                {
+                    "destinations": ["FAOR","FAGM"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["TETAN Z2 NIBEX"]
+                },
+                {
+                    "destinations": ["FABL"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["TETAN UZ39 BLV"]
+                },
+                {
+                    "destinations": ["FABL"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["TETAN Z39 BLV"]
+                },
+                {
+                    "destinations": ["FAHS"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["TETAN UZ2 NIBEX EGMEN ANVIT HSV"]
+                },
+                {
+                    "destinations": ["FAHS"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["TETAN Z2 NIBEX EGMEN ANVIT HSV"]
+                },
+                {
+                    "destinations": ["FAKN"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["TETAN UZ39 BLV UZ36 PKV"]
+                },
+                {
+                    "destinations": ["FAKN"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["TETAN Z39 BLV Z36 PKV"]
+                },
+                {
+                    "destinations": ["FASZ"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["TETAN UZ39 BLV UZ36 PKV UTREX"]
+                },
+                {
+                    "destinations": ["FASZ"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["TETAN Z39 BLV Z36 PKV UTREX"]
+                }
+                
+            ],
+            "KODES": [
+                {
+                    "destinations": ["FAGC"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["KODES UQ42 OKLOK UQ52 EGPOP LIV"]
+                },
+                {
+                    "destinations": ["FAGC"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["KODES Q42 OKLOK Q52 EGPOP LIV"]
+                },
+                {
+                    "destinations": ["FAKM"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["KODES UQ42 OKLOK UQ52 APLEN KYV"]
+                },
+                {
+                    "destinations": ["FAKM"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["KODES Q42 OKLOK Q52 APLEN KYV"]
+                },
+                {
+                    "destinations": ["FALA"],
+                    "direction": "ODD", 
+                    "min_fl": 245,
+                    "airways": ["KODES UQ42 OKLOK UQ52 EGPOP LIV"]
+                },
+                {
+                    "destinations": ["FALA"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["KODES Q42 OKLOK Q52 EGPOP LIV"]
+                },
+                {
+                    "destinations": ["FAUP"],
+                    "direction": "ODD", 
+                    "min_fl": 245,
+                    "airways": ["KODES UZ30 UPV"]
+                },
+                {
+                    "destinations": ["FAUP"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["KODES Z30 UPV"]
+                },
+                {
+                    "destinations": ["FAWB"],
+                    "direction": "ODD", 
+                    "min_fl": 245,
+                    "airways": ["KODES UQ42 OKLOK UQ52 EGPOP LIV"]
+                },
+                {
+                    "destinations": ["FAWB"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["KODES Q42 OKLOK Q52 EGPOP LIV"]
+                },
+                {
+                    "destinations": ["FAWK","FASK"],
+                    "direction": "ODD", 
+                    "min_fl": 245,
+                    "airways": ["KODES UQ42 OKLOK UQ52 EGPOP LIV WKV"]
+                },
+                {
+                    "destinations": ["FAWK","FASK"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["KODES Q42 OKLOK Q52 EGPOP LIV WKV"]
+                },
                 {
                     "direction": "ODD",
-                    "destinations": [ "FALE" ]
+                    "min_fl": 245,
+                    "airways": ["UQ43"]
+                },
+                {
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["Q43"]
                 },
                 {
                     "direction": "EVEN",
-                    "airways": [ "Q10", "UQ10", "UZ6", "Z6" ]
+                    "min_fl": 245,
+                    "airways": ["UN186"]
                 },
                 {
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["UZ30"]
+                },
+                {
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["Z30"]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["UQ42"]
+                },
+                {
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["Q42"]
+                }   
+            ],
+            "OKTED": [
+                {
+                    "destinations": ["FAPE"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["OKTED UQ12 XUGOL UQ56 OKSET PEV"]
+                },
+                {
+                    "destinations": ["FAPE"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["OKTED Q12 XUGOL Q56 OKSET PEV"]
+                },
+                {
+                    "destinations": ["FAEL"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["OKTED UQ12 XUGOL UZ13 ETKON ELV"]
+                },
+                {
+                    "destinations": ["FAEL"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["OKTED Q12 XUGOL Z13 ETKON ELV"]
+                },
+                {
+                    "destinations": ["FAGG"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["OKTED UQ12 XUGOL UQ56 AXEMU GRV"]
+                },
+                {
+                    "destinations": ["FAEL"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["OKTED Q12 XUGOL Q56 AXEMU GRV"]
+                },
+                {
+                    "destinations": ["FALE"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["OKTED UQ12 DUNSA"]
+                },
+                {
+                    "destinations": ["FALE"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["OKTED Q12 DUNSA"]
+                },
+                {
+                    "destinations": ["FAPG"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["OKTED UQ12 XUGOL UQ56 AXEMU"]
+                },
+                {
+                    "destinations": ["FAPG"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["OKTED Q12 XUGOL Q56 AXEMU"]
+                }
+            ]
+        }
+    },
+    {
+        "icao": "FAEL",
+        "sids": {
+            "ELV": [
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["ELV ETBIN UZ20 OKTEK UZ5 AVILO"]
+                },
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["ELV ETBIN Z20 OKTEK Z5 AVILO"]
+                },
+                {
+                    "destinations": ["FALE"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["ELV ETGEB UZ34 DUKMU TGV"]
+                },
+                {
+                    "destinations": ["FALE"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["ELV ETGEB Z34 DUKMU TGV"]
+                },
+                {
+                    "destinations": ["FACT"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["ELV ESPOG UQ31 ESRUK UQ51 GETEN"]
+                },
+                {
+                    "destinations": ["FACT"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["ELV ESPOG Q31 ESRUK Q51 GETEN"]
+                },
+                {
+                    "destinations": ["FALA","FAGC"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["ELV ETBIN UZ20 OKTEK UZ5 UNPOM LIV"]
+                },
+                {
+                    "destinations": ["FALA","FAGC"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["ELV ETBIN Z20 OKTEK Z5 UNPOM LIV"]
+                },
+                {
+                    "destinations": ["FAGG"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["ELV ESPOG UQ31 GABGO GRV"]
+                },
+                {
+                    "destinations": ["FAGG"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["ELV ESPOG Q31 GABGO GRV"]
+                },
+                {
+                    "destinations": ["FAGM"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["ELV ETBIN UZ20 OKTEK HGV"]
+                },
+                {
+                    "destinations": ["FAGM"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["ELV ETBIN Z20 OKTEK HGV"]
+                },
+                {
+                    "destinations": ["FAPE"],
                     "direction": "EVEN",
                     "min_fl": 200,
-                    "airways": [ "Q24", "UQ24", "Q41", "UQ41", "UZ21", "Z21" ]
+                    "airways": ["ELV EPVUV PEV"]
                 },
                 {
-                    "direction": "ANY",
+                    "destinations": ["FAWB"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["ELV ETBIN UZ20 OKTEK UZ5 UNPOM UDMEV"]
+                },
+                {
+                    "destinations": ["FAWB"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["ELV ETBIN Z20 OKTEK Z5 UNPOM UDMEV"]
+                },
+                {
+                    "destinations": ["FAWK"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["ELV ETBIN UZ20 OKTEK UZ5 UNPOM UDMEV WKV"]
+                },
+                {
+                    "destinations": ["FAWK"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["ELV ETBIN Z20 OKTEK Z5 UNPOM UDMEV WKV"]
+                }
+            ]
+        }
+    },
+    {
+        "icao": "FAGG",
+        "sids": {
+            "GRV": [
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["GRV KATOR UZ4 TEVAR UZ2 NIBEX"]
+                },
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["GRV KATOR Z4 TEVAR Z2 NIBEX"]
+                },
+                {
+                    "destinations": ["FACT"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["GRV ETBUL UQ49 ESRUK UQ51 GETEN"]
+                },
+                {
+                    "destinations": ["FACT"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["GRV ETBUL UQ49 ESRUK UQ51 GETEN"]
+                },
+                {
+                    "destinations": ["FALE"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["GRV GABGO UQ58 IMLID UQ12 DUNSA"]
+                },
+                {
+                    "destinations": ["FALE"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["GRV GABGO Q58 IMLID Q12 DUNSA"]
+                },
+                {
+                    "destinations": ["FALA"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["GRV KATOR UZ4 TEVAR UZ2 NIBEX LIV"]
+                },
+                {
+                    "destinations": ["FALA"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["GRV KATOR Z4 TEVAR Z2 NIBEX LIV"]
+                },
+                {
+                    "destinations": ["FABL"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["GRV KATOR UZ4 NIDOX BLV"]
+                },
+                {
+                    "destinations": ["FABL"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["GRV KATOR Z4 NIDOX BLV"]
+                },
+                {
+                    "destinations": ["FAEL"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["GRV UZ13 ETKON ELV"]
+                },
+                {
+                    "destinations": ["FAEL"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["GRV Z13 ETKON ELV"]
+                }
+            ]
+        }
+    },
+    {
+        "icao": "FAHS",
+        "sids": {
+            "HSV": [
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "ODD",
                     "min_fl": 200,
-                    "airways": [ "Q1", "UQ1", "Q40", "UQ4" ]
+                    "airways": ["HSV ANVIT NESAG OKPIT"]
+                }
+            ]
+        }
+    },
+    {
+        "icao": "FAKM",
+        "sids": {
+            "KYV": [
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["KYV UNRAG UZ2 NIBEX"]
+                },
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["KYV UNRAG Z2 NIBEX"]
+                },
+                {
+                    "destinations": ["FACT"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["KYV EGNOM UQ10 CSV UZ26 ERDAS"]
+                },
+                {
+                    "destinations": ["FACT"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["KYV EGNOM Q10 CSV Z26 ERDAS"]
+                },
+                {
+                    "destinations": ["FALA"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["KYV GEPES UQ52 EGPOP LIV"]
+                },
+                {
+                    "destinations": ["FALA"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["KYV GEPES Q52 EGPOP LIV"]
+                }
+            ]
+        }
+    },
+    {
+        "icao": "FAKN",
+        "sids": {
+            "PKV": [
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["PKV DODOS G745 WIV"]
+                },
+                {
+                    "destinations": ["FALE"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["PKV NEXIS UT915 GERAX UQ63 APMAT"]
                 }
             ]
         }
@@ -319,165 +1242,178 @@
         "sids": {
             "GYV": [
                 {
+                    "destinations": ["FAOR"],
                     "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "Z29", "UZ29" ]
+                    "min_fl": 245,
+                    "airways": ["GYV UZ29 UNPOM"]
+                },
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["GYV Z29 UNPOM"]
+                },
+                {
+                    "destinations": ["FAGC"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["GYV UZ29 UNPOM LIV"]
+                },
+                {
+                    "destinations": ["FAGC"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["GYV Z29 UNPOM LIV"]
+                },
+                {
+                    "destinations": ["FAGM"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["GYV UZ29 UNPOM HGV"]
+                },
+                {
+                    "destinations": ["FAGM"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["GYV Z29 UNPOM HGV"]
+                },
+                {
+                    "destinations": ["FALA"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["GYV UZ29 UNPOM LIV"]
+                },
+                {
+                    "destinations": ["FALA"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["GYV Z29 UNPOM LIV"]
+                },
+                {
+                    "destinations": ["FAWB"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["GYV UZ29 UNPOM UDMEV"]
+                },
+                {
+                    "destinations": ["FAWB"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["GYV Z29 UNPOM UDMEV"]
+                },
+                {
+                    "destinations": ["FAWK"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["GYV UZ29 UNPOM UDMEV WKV"]
+                },
+                {
+                    "destinations": ["FAWK"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["GYV Z29 UNPOM UDMEV WKV"]
                 }
             ],
             "TUBIN": [
                 {
+                    "destinations": ["FACT"],
                     "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "UZ3", "Z3" ]
+                    "min_fl": 245,
+                    "airways": ["TUBIN UZ3 ESRUK UQ51 GETEN"]
+                },
+                {
+                    "destinations": ["FACT"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["TUBIN Z3 ESRUK Q51 GETEN"]
                 }
             ],
             "ITMIL": [
                 {
+                    "destinations": ["FASE"],
                     "direction": "ODD",
-                    "min_fl": 75,
-                    "airways": [ "B529", "UB529" ]
+                    "min_fl": 200,
+                    "airways": ["ITMIL UB529 EPRET"]
+                },
+                {
+                    "destinations": ["FASE"],
+                    "direction": "EVEN",
+                    "min_fl": 200,
+                    "airways": ["ITMIL UT915 IXESU"]
+                },
+                {
+                    "destinations": ["FAKN"],
+                    "direction": "EVEN",
+                    "min_fl": 200,
+                    "airways": ["ITMIL UT915 PKV"]
+                },
+                {
+                    "destinations": ["FDMS","FDSK"],
+                    "direction": "EVEN",
+                    "min_fl": 200,
+                    "airways": ["ITMIL UT915 PKV"]
+                },
+                {
+                    "destinations": ["FVRG"],
+                    "direction": "EVEN",
+                    "min_fl": 200,
+                    "airways": ["ITMIL UT915 GESIL"]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 200,
+                    "airways": ["ITMIL UB529 EPRET"]
+                },
+                {
+                    "direction": "EVEN",
+                    "min_fl": 200,
+                    "airways": ["ITMIL UT915"]
+                }
+            ],
+            "PMV": [
+                {
+                    "destinations": ["FABL"],
+                    "direction": "EVEN",
+                    "min_fl": 200,
+                    "airways": ["PMV UW61 BLV"]
                 }
             ],
             "OKTAN": [
                 {
+                    "destinations": ["FAEL"],
                     "direction": "EVEN",
-                    "min_fl": 145,
-                    "airways": [ "A402", "UA402" ]
+                    "min_fl": 245,
+                    "airways": ["OKTAN UQ29 ETOVU ELV"]
                 },
                 {
+                    "destinations": ["FAEL"],
                     "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "Q29", "UQ29" ]
-                }
-            ],
-            "TGV": [
-                {
-                    "direction": "ODD",
-                    "min_fl": 75,
-                    "airways": [ "B529", "UB529" ]
+                    "max_fl": 245,
+                    "airways": ["OKTAN Q29 ETOVU ELV"]
                 },
                 {
-                    "direction": "ANY",
-                    "min_fl": 145,
-                    "airways": [ "A402", "UA402" ]
-                },
-                {
+                    "destinations": ["FAGG"],
                     "direction": "EVEN",
-                    "min_fl": 145,
-                    "airways": [ "G853", "UG853" ]
-                }
-            ]
-        }
-    },
-    {
-        "icao": "FAKM",
-        "sids": {
-            "UNRAG": [
+                    "min_fl": 245,
+                    "airways": ["OKTAN UQ29 UTIMO UZ37 GABGO GRV"]
+                },  
                 {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "Z2", "UZ2" ]
-                }
-            ],
-            "OKPAG": [
-                {
+                    "destinations": ["FAGG"],
                     "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "Q10", "UQ10" ]
-                }
-            ],
-            "VCT": [
-                {
-                    "direction": "ANY",
-                    "min_fl": 200,
-                    "airways": [ "A405", "UA405" ]
+                    "max_fl": 245,  
+                    "airways": ["OKTAN Q29 UTIMO Z37 GABGO GRV"]
                 },
                 {
+                    "destinations": ["FAPE"],
                     "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "Q10", "UQ10" ]
-                },
+                    "min_fl": 245,
+                    "airways": ["OKTAN UQ29 EPVUV PEV"]
+                },  
                 {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "Z2", "UZ2" ]
-                }
-            ]
-        }
-    },
-    {
-        "icao": "FABL",
-        "sids": {
-            "OKTIG": [
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "UZ4", "Z4" ]
-                }
-            ],
-            "VCT": [
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "UZ36", "Z36", "UW61", "UZ4", "Z4" ]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 145,
-                    "airways": [ "W95", "UW95" ]
-                },
-                {
+                    "destinations": ["FAPE"],
                     "direction": "EVEN",
-                    "min_fl": 145,
-                    "airways": [ "W81", "UW81", "W95", "UW95" ]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "UZ4", "Z4" ]
-                }
-            ]
-        }
-    },
-    {
-        "icao": "FAGG",
-        "sids": {
-            "VCT": [
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "UZ4", "Z4" ]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "Q58", "UQ58" ]
-                },
-                {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "Q49", "UQ49" ]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "Z13", "UZ13" ]
-                },
-                {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "Q49", "UQ49" ]
-                },
-                {
-                    "direction": "EVEN",
-                    "min_fl": 145,
-                    "airways": [ "A402", "UA402" ],
-                    "destinations": [ "FACT" ]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 145,
-                    "airways": [ "A402", "UA402" ]
+                    "max_fl": 245,
+                    "airways": ["OKTAN Q29 EPVUV PEV"]
                 }
             ]
         }
@@ -485,158 +1421,534 @@
     {
         "icao": "FAPE",
         "sids": {
-            "VCT": [
+            "PEV": [
                 {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "Q49", "UQ49" ]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "UZ5", "Z5", "Q30", "UQ30" ]
-                },
-                {
-                    "direction": "EVEN",
-                    "min_fl": 145,
-                    "airways": [ "A402", "UA402" ],
-                    "destinations": [ "FACT", "FAGG" ]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 145,
-                    "airways": [ "A402", "UA402" ]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 145,
-                    "airways": [ "W81", "UW81" ]
-                },
-                {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "Q33", "UQ33" ]
-                }
-            ]
-        }
-    },
-    {
-        "icao": "FAEL",
-        "sids": {
-            "VCT": [
-                {
-                    "direction": "EVEN",
-                    "min_fl": 145,
-                    "airways": [ "A402", "UA402" ],
-                    "destinations": ["FACT","FAPE","FAGG"]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 145,
-                    "airways": [ "A402", "UA402" ],
-                    "destinations": ["FALE"]
-                },
-                {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "Q29", "UQ29" ]
-                },
-                {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "Q31", "UQ31" ]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "Z20", "UZ20" ]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "Z34", "UZ34" ]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "Q30", "UQ30" ]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "Z37", "UZ37" ]
-                }
-            ]
-        }
-    },
-    {
-        "icao": "FDSK",
-        "sids": {
-            "VCT": [
-                {
-                    "direction": "EVEN",
-                    "min_fl": 290,
-                    "airways": [ "UT195"]
-                },
-                {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "Q21","UQ21"]
-                },
-                {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "T949","UT949"],
-                    "destinations": ["FACT","FABL","FAPE","FAEL","FAGG","FAKM"]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "T949","UT949"]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 200,
-                    "airways": [ "T122","UT122"]
-                }
-            ]
-        }
-    },
-    {
-        "icao": "FAKN",
-        "sids": {
-            "VCT": [
-                {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "T433","UT433"]
-                },
-                {
-                    "direction": "EVEN",
-                    "min_fl": 145,
-                    "airways": [ "G745","UT466"]
-                },
-                {
-                    "direction": "EVEN",
-                    "min_fl": 200,
-                    "airways": [ "Z36","UZ36"]
-                },
-                {
-                    "direction": "ODD",
-                    "min_fl": 290,
-                    "airways": [ "UT915"]
-                },
-                {
+                    "destinations": ["FAOR"],
                     "direction": "ODD",
                     "min_fl": 245,
-                    "airways": [ "UQ13"]
+                    "airways": ["PEV ITKIT UZ5 AVILO"]
                 },
                 {
+                    "destinations": ["FAOR"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["PEV ITKIT Z5 AVILO"]
+                },
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["PEV OKRAV UQ49 ESRUK UQ51 GETEN"]
+                },
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["PEV OKRAV Q49 ESRUK Q51 GETEN"]
+                },
+                {
+                    "destinations": ["FALE"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["PEV ITKIT UQ30 IMLID UQ12 DUNSA"]
+                },
+                {
+                    "destinations": ["FALE"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["PEV ITKIT Q30 IMLID Q12 DUNSA"]
+                },
+                {
+                    "destinations": ["FALA"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["PEV ITKIT UZ5 UNPOM LIV"]
+                },
+                {
+                    "destinations": ["FALA"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["PEV ITKIT Z5 UNPOM LIV"]
+                }
+            ]
+        }
+    },
+    {
+        "icao": "FALM",
+        "sids": {
+            "LTV": [
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["PEV ITKIT UZ5 AVILO"]
+                },
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["LTV DUMGO Z11 NESAG Z7 OKPIT"]
+                }
+            ]
+        }
+    },
+    {
+        "icao": "FAHS",
+        "sids": {
+            "HSV": [
+                {
+                    "destinations": ["FAOR"],
                     "direction": "ODD",
                     "min_fl": 200,
-                    "airways": [ "Z36","UZ36"]
+                    "airways": ["HSV ANVIT NESAG OKPIT"]
+                }
+            ]
+        }
+    },
+    {
+        "icao": "FAMG",
+        "sids": {
+            "LYV": [
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["LYV EPSAK UZ29 UNPOM"]
+                },
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["LYV EPSAK Z29 UNPOM"]
+                }
+            ]
+        }
+    },
+    {
+        "icao": "FAPM",
+        "sids": {
+            "PMV": [
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["PMV LYV EPSAK UZ29 UNPOM"]
+                },
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["PMV LYV EPSAK Z29 UNPOM"]
+                },
+                {
+                    "destinations": ["FALA"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["PMV BEBAS UZ29 UNPOM LIV"]
+                },
+                {
+                    "destinations": ["FALA"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["PMV BEBAS Z29 UNPOM LIV"]
+                }
+            ]
+        }
+    },
+    {
+        "icao": "FARB",
+        "sids": {
+            "RBV": [
+                {
+                    "engine": "J",
+                    "destinations": ["FAOR"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["RBV TETIK UZ9 UNPOM"]
+                },
+                {
+                    "engine": "J",
+                    "destinations": ["FAOR"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["RBV TETIK Z9 UNPOM"]
+                },
+                {
+                    "engine": "T",
+                    "destinations": ["FAOR"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["RBV UQ20 EPSAK UZ29 UNPOM"]
+                },
+                {
+                    "engine": "T",
+                    "destinations": ["FAOR"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["RBV Q20 EPSAK Z29 UNPOM"]
+                }
+            ]
+        }
+    },
+    {
+        "icao": "FASZ",
+        "sids": {
+            "UMVET": [
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "EVEN",
+                    "min_fl": 200,
+                    "airways": ["UMVET WIV"]
+                },
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["UMVET PKV UZ36 BLV UZ40 ESRUK UQ51 GETEN"]
+                },
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["UMVET PKV Z36 BLV Z40 ESRUK Q51 GETEN"]
+                }
+            ]
+        }
+    },
+    {
+        "icao": "FAUP",
+        "sids": {
+            "UPV": [
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["UPV UZ41 UNRAG UZ2 NIBEX"]
+                },
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["UPV Z41 UNRAG Z2 NIBEX"]
+                },
+                {
+                    "destinations": ["FACT"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["UPV UQ23 CSV UZ26 ERDAS"]
+                },
+                {
+                    "destinations": ["FACT"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["UPV Q23 CSV Z26 ERDAS"]
+                },
+                {
+                    "destinations": ["FALA"],
+                    "direction": "ODD",
+                    "min_fl": 200   ,
+                    "airways": ["UPV UG465 LIV"]
+                }
+            ]
+        }
+    },
+    {
+        "icao": "FAUT",
+        "sids": {
+            "OKREV": [
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["OKREV UZ20 OKTEK UZ5 AVILO"]
+                },
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["OKREV Z20 OKTEK Z5 AVILO"]
+                }
+            ]
+        }
+    },
+    {
+        "icao": "FAVG",
+        "sids": {
+            "GYV": [
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["GYV UZ29 UNPOM"]
+                },
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["GYV Z29 UNPOM"]
+                }
+            ]
+        }
+    },
+    {
+        "icao": "FDMS",
+        "sids": {
+            "APNON": [
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["APNON UZ9 UNPOM"]
+                },
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["APNON Z9 UNPOM"]
+                }
+            ]
+        }
+    },
+    {
+        "icao": "FAGC",
+        "sids": {
+            "RAGUL": [
+                {
+                    "destinations": ["FACT"],
+                    "engine":"J",
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["RAGUL UQ10 CSV UZ26 ERDAS"]
+                },
+                {
+                    "destinations": ["FACT"],
+                    "engine":"J",
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["RAGUL Q10 CSV Z26 ERDAS"]
+                },
+                {
+                    "destinations": ["FACT"],
+                    "engine":"T",
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["GAV UTEBA UQ10 CSV UZ26 ERDAS"]
+                },
+                {
+                    "destinations": ["FACT"],
+                    "engine":"T",
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["GAV UTEBA Q10 CSV Z26 ERDAS"]
+                }
+            ],
+            "JSV": [
+                {
+                    "destinations": ["FALE"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["JSV APDAK UQ48 APMAT"]
+                },
+                {
+                    "destinations": ["FALE"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["JSV APDAK Q48 APMAT"]
+                }
+            ]
+        }
+    },
+    {
+        "icao": "FALA",
+        "sids": {
+            "XAGEN": [
+                {
+                    "destinations": ["FACT"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["XAGEN UZ31 XALVA UQ23 CSV UZ26 ERDAS"]
+                },
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["XAGEN Z31 XALVA Q23 CSV Z26 ERDAS"]
+                },
+                {
+                    "destinations": ["FAKM"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["XAGEN UZ31 IMSIR KYV"]
+                },
+                {
+                    "destinations": ["FAKM"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["XAGEN Z31 IMSIR KYV"]
+                }
+            ],
+            "JSV": [
+                {
+                    "destinations": ["FALE"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["JSV APDAK UQ48 APMAT"]
+                },
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["JSV APDAK Q48 APMAT"]
+                },
+                {
+                    "destinations": ["FAEL"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["JSV GEROX UQ7 AXOXI ELV"]
+                },
+                {
+                    "destinations": ["FAEL"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["JSV GEROX Q7 AXOXI ELV"]
+                },
+                {
+                    "destinations": ["FALA"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["JSV HGV UZ16 NEVEN UQ9 XALIN GRV"]
+                },
+                {
+                    "destinations": ["FALA"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["JSV HGV Z16 NEVEN Q9 XALIN GRV"]
+                },
+                {
+                    "destinations": ["FAMG"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["JSV GEROX UQ28 GETOK"]
+                },
+                {
+                    "destinations": ["FAMG"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["JSV GEROX Q28 GETOK"]
+                },
+                {
+                    "destinations": ["FAVG"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["JSV GEROX UQ28 GETOK PMV TGV"]
+                },
+                {
+                    "destinations": ["FAVG"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["JSV GEROX Q28 GETOK PMV TGV"]
+                }
+            ],
+            "GAV": [
+                {
+                    "destinations": ["FABL"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["GAV UW95 BLV"]
+                },
+                {
+                    "destinations": ["FABL"],
+                    "direction": "EVEN",
+                    "max_fl": 145,
+                    "airways": ["GAV W95 BLV"]
+                }
+            ]
+        }
+    },
+    {
+        "icao": "FAPG",
+        "sids": {
+            "GRV": [
+                {
+                    "destinations": ["FACT"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["GRV UQ49 ESRUK UQ51 GETEN"]
+                },
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["GRV Q49 ESRUK Q51 GETEN"]
+                }
+            ]
+        }
+    },
+    {
+        "icao": "FAWB",
+        "sids": {
+            "XAGEN": [
+                {
+                    "destinations": ["FACT"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["XAGEN UZ31 XALVA UQ23 CSV UZ26 ERDAS"]
+                },
+                {
+                    "destinations": ["FAOR"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["XAGEN Z31 XALVA Q23 CSV Z26 ERDAS"]
+                }
+            ],
+            "UDMEV": [
+                {
+                    "destinations": ["FALE"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["UDMEV APDAK UQ48 APMAT"]
+                },
+                {
+                    "destinations": ["FALE"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["UDMEV APDAK Q48 APMAT"]
+                }
+            ]
+        }
+    },
+    {
+        "icao": "FAWK",
+        "sids": {
+            "XAGEN": [
+                {
+                    "destinations": ["FACT"],
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways": ["XAGEN UZ31 XALVA UQ23 CSV UZ26 ERDAS"]
+                },
+                {
+                    "destinations": ["FACT"],
+                    "direction": "EVEN",
+                    "max_fl": 245,
+                    "airways": ["XAGEN Z31 XALVA Q23 CSV Z26 ERDAS"]
+                }
+            ],
+            "WKV": [
+                {
+                    "destinations": ["FALE"],
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways": ["WKV UDMEV APDAK UQ48 APMAT"]
+                },
+                {
+                    "destinations": ["FALE"],
+                    "direction": "ODD",
+                    "max_fl": 245,
+                    "airways": ["WKV UDMEV APDAK Q48 APMAT"]
                 }
             ]
         }
     }
+
 ]
