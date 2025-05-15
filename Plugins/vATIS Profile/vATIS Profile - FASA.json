@@ -2,7 +2,7 @@
   "name": "South Africa (FASA) - AIRAC 2505",
   "id": "9f2e52e9-b253-4884-ba5e-b23ba540230f",
   "updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/refs/heads/main/Plugins/vATIS%20Profile/vATIS%20Profile%20-%20FASA.json",
-	"updateSerial": 2025051402,
+  "updateSerial": 2025051403,
   "stations": [
     {
       "id": "9ebe0623-f64f-49af-928e-e0934c791eda",
@@ -1868,37 +1868,37 @@
             {
               "low": 1047,
               "high": 1099,
-              "altitude": 55
+              "altitude": 75
             },
             {
               "low": 1030,
               "high": 1046,
-              "altitude": 60
+              "altitude": 80
             },
             {
               "low": 1014,
               "high": 1029,
-              "altitude": 65
+              "altitude": 85
             },
             {
               "low": 997,
               "high": 1013,
-              "altitude": 70
+              "altitude": 90
             },
             {
               "low": 980,
               "high": 996,
-              "altitude": 75
+              "altitude": 95
             },
             {
               "low": 963,
               "high": 979,
-              "altitude": 80
+              "altitude": 100
             },
             {
               "low": 946,
               "high": 962,
-              "altitude": 85
+              "altitude": 105
             }
           ],
           "template": {
@@ -3981,7 +3981,7 @@
           "id": "b83420a7-0eb3-4477-bc80-dc7f6e0b634a",
           "name": "RWY 03 DUAL",
           "airportConditions": "",
-          "notams": "CLEARANCE DELIVERY FREQUENCY 121.9. RUNWAY 03 LEFT ILS APPROACH SUSPENDED.",
+          "notams": "CLEARANCE DELIVERY FREQUENCY 134.4. RUNWAY 03 LEFT ILS APPROACH SUSPENDED.",
           "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. [ARPT_COND] RW03D. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false
@@ -6149,7 +6149,7 @@
         {
           "text": "VMC",
           "ordinal": 1,
-          "enabled": false
+          "enabled": true
         },
         {
           "text": "IMC.",
@@ -12026,37 +12026,37 @@
             {
               "low": 1047,
               "high": 1099,
-              "altitude": 80
+              "altitude": 70
             },
             {
               "low": 1030,
               "high": 1046,
-              "altitude": 85
+              "altitude": 75
             },
             {
               "low": 1014,
               "high": 1029,
-              "altitude": 90
+              "altitude": 80
             },
             {
               "low": 997,
               "high": 1013,
-              "altitude": 95
+              "altitude": 85
             },
             {
               "low": 980,
               "high": 996,
-              "altitude": 100
+              "altitude": 90
             },
             {
               "low": 963,
               "high": 979,
-              "altitude": 105
+              "altitude": 95
             },
             {
               "low": 946,
               "high": 962,
-              "altitude": 110
+              "altitude": 100
             }
           ],
           "template": {
@@ -14150,19 +14150,19 @@
         {
           "text": "VMC",
           "ordinal": 1,
-          "enabled": true
+          "enabled": false
         },
         {
           "text": "IMC.",
           "ordinal": 2,
-          "enabled": false
+          "enabled": true
         }
       ],
       "notamDefinitions": [
         {
           "text": "RCR 5/5/5",
           "ordinal": 1,
-          "enabled": false
+          "enabled": true
         },
         {
           "text": "RCR 4/4/4",
