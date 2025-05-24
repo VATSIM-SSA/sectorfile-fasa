@@ -29,11 +29,11 @@ ATIS3:Check what sectors I cover at vatsim-radar.com | VFR report POB, Endurance
 ATIS4:We love feedback! Submit it at vats.im/ssa/feedback
 PROFILE:FAOR_APP:150:5
 ATIS2:"Johannesburg Radar" | PDC NOT AVAIL IN ZA
-ATIS3:Charts - chartfox.org/FACT | VFR report POB, Endurance and Intentions on initial call.
+ATIS3:Charts - chartfox.org/FAOR | VFR report POB, Endurance and Intentions on initial call.
 ATIS4:We love feedback! Submit it at vats.im/ssa/feedback
 PROFILE:FAOR_W_APP:150:5
 ATIS2:"Johannesburg Radar" | PDC NOT AVAIL IN ZA
-ATIS3:Charts - chartfox.org/FACT | VFR report POB, Endurance and Intentions on initial call.
+ATIS3:Charts - chartfox.org/FAOR | VFR report POB, Endurance and Intentions on initial call.
 ATIS4:We love feedback! Submit it at vats.im/ssa/feedback
 PROFILE:FAOR_F_APP:150:5
 ATIS2:"Johannesburg Director"
@@ -53,15 +53,15 @@ ATIS3:Charts - chartfox.org/FALE | VFR report POB, Endurance and Intentions on i
 ATIS4:We love feedback! Submit it at vats.im/ssa/feedback
 PROFILE:FAOR_TWR:50:4
 ATIS2:"O.R. Tambo Tower" | PDC NOT AVAIL IN ZA
-ATIS3:Charts - chartfox.org/FALE | VFR report POB, Endurance and Intentions on initial call.
+ATIS3:Charts - chartfox.org/FAOR | VFR report POB, Endurance and Intentions on initial call.
 ATIS4:We love feedback! Submit it at vats.im/ssa/feedback
 PROFILE:FAOR_E_TWR:50:4
 ATIS2:"O.R. Tambo Tower" | PDC NOT AVAIL IN ZA
-ATIS3:Charts - chartfox.org/FALE | VFR report POB, Endurance and Intentions on initial call.
+ATIS3:Charts - chartfox.org/FAOR | VFR report POB, Endurance and Intentions on initial call.
 ATIS4:We love feedback! Submit it at vats.im/ssa/feedback
 PROFILE:FACT_TWR:50:4
 ATIS2:"Cape Town Tower" | PDC NOT AVAIL IN ZA
-ATIS3:Charts - chartfox.org/FALE | VFR report POB, Endurance and Intentions on initial call.
+ATIS3:Charts - chartfox.org/FACT | VFR report POB, Endurance and Intentions on initial call.
 ATIS4:We love feedback! Submit it at vats.im/ssa/feedback
 PROFILE:FALE_TWR:50:4
 ATIS2:"King Shaka Tower" | PDC NOT AVAIL IN ZA
@@ -89,7 +89,7 @@ ATIS3:Charts - chartfox.org/FACT | VFR report POB, Endurance and Intentions on i
 ATIS4:We love feedback! Submit it at vats.im/ssa/feedback
 PROFILE:FALE_GND:20:3
 ATIS2:"King Shaka Ground" | PDC NOT AVAIL IN ZA
-ATIS3:Charts - chartfox.org/FACT | VFR report POB, Endurance and Intentions on initial call.
+ATIS3:Charts - chartfox.org/FALE | VFR report POB, Endurance and Intentions on initial call.
 ATIS4:We love feedback! Submit it at vats.im/ssa/feedback
 PROFILE:FAPE_APP:150:5
 ATIS2:"Port Elizabeth Approach" | PDC NOT AVAIL IN ZA
@@ -105,19 +105,19 @@ ATIS3:Charts - chartfox.org/FAPE | VFR report POB, Endurance and Intentions on i
 ATIS4:We love feedback! Submit it at vats.im/ssa/feedback
 PROFILE:FAEL_APP:150:5
 ATIS2:"East London Approach" | PDC NOT AVAIL IN ZA
-ATIS3:Charts - chartfox.org/FALE | VFR report POB, Endurance and Intentions on initial call.
+ATIS3:Charts - chartfox.org/FAEL | VFR report POB, Endurance and Intentions on initial call.
 ATIS4:We love feedback! Submit it at vats.im/ssa/feedback
 PROFILE:FAEL_TWR:50:4
 ATIS2:"East London Tower" | PDC NOT AVAIL IN ZA
-ATIS3:Charts - chartfox.org/FALE | VFR report POB, Endurance and Intentions on initial call.
+ATIS3:Charts - chartfox.org/FAEL | VFR report POB, Endurance and Intentions on initial call.
 ATIS4:We love feedback! Submit it at vats.im/ssa/feedback
 PROFILE:FAGG_APP:150:5
 ATIS2:"George Approach" | PDC NOT AVAIL IN ZA
-ATIS3:Charts - chartfox.org/FALE | VFR report POB, Endurance and Intentions on initial call.
+ATIS3:Charts - chartfox.org/FAGG | VFR report POB, Endurance and Intentions on initial call.
 ATIS4:We love feedback! Submit it at vats.im/ssa/feedback
 PROFILE:FAGG_TWR:50:4
 ATIS2:"George Tower" | PDC NOT AVAIL IN ZA
-ATIS3:Charts - chartfox.org/FALE | VFR report POB, Endurance and Intentions on initial call.
+ATIS3:Charts - chartfox.org/FAGG | VFR report POB, Endurance and Intentions on initial call.
 ATIS4:We love feedback! Submit it at vats.im/ssa/feedback
 PROFILE:FALW_GND:20:3
 ATIS2:"Langebaan Ground" | PDC NOT AVAIL IN ZA
@@ -257,7 +257,7 @@ ATIS3:Charts - chartfox.org/FAPP | VFR report POB, Endurance and Intentions on i
 ATIS4:We love feedback! Submit it at vats.im/ssa/feedback
 PROFILE:FARB_TWR:50:4
 ATIS2:"Richards Bay Tower" | PDC NOT AVAIL IN ZA
-ATIS3:Charts - chartfox.org/FAPP | VFR report POB, Endurance and Intentions on initial call.
+ATIS3:Charts - chartfox.org/FARB | VFR report POB, Endurance and Intentions on initial call.
 ATIS4:We love feedback! Submit it at vats.im/ssa/feedback
 PROFILE:FAUP_TWR:50:4
 ATIS2:"Upington Tower" | PDC NOT AVAIL IN ZA
