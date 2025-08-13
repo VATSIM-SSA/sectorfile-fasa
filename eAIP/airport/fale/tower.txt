@@ -1,0 +1,34 @@
+==== FAOR Tower ====
+
+  * Tower is responsible for landing and departing aircraft, as well as the airspace surrounding the aerodrome, as well as controller the CTR. The CTR at Durban extends from SFC to 3000ft AGL.
+  * Tower Controllers are not to issue frequency changes, as this will have been done in the clearance by the Delivery controller.
+
+==== VFR ====
+  * There are no published VFR departure or arrival routings in and out of the Durban CTR. Traffic should instead be asked to report either leaving or entering the CTR, or via of the VRPs.
+  * Circuit altitude is 800ft, with circuits conducted towards the sea. Runway 06 (Right Hand), Runway 24 (Left Hand).
+  * Controllers should avoid extending downwinds signicifantly to avoid conflicts with traffic at Durban Virginia.
+
+<code>ZSABC, hold position, after departure Runway 06, right hand circuits, not above 800ft, report right downwind Runway 06.</code>
+// map of VRPs attached here
+
+==== Wake Separation ====
+
+=== Arrivals (nm) ===
+
+^ Lead  ^ J ^ H ^ M ^ L ^
+| J     | ||||
+| H     | 6 | 4 | ||
+| M     | 7 | 5 | 5 | |
+| L     | 8 | 6 | 5 | 5 |
+
+
+=== Departures (min) ===
+
+^ Lead  ^ J ^ H ^ M ^ L ^
+| J     | ||||
+| H     | 2 | |||
+| M     | 3 | 2 | ||
+| L     | 3 | 2 | 2 | |
+
+
+{{page>fa-footer#FAOR}}

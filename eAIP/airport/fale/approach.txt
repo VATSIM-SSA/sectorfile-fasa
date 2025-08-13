@@ -1,0 +1,54 @@
+===== FALE Approach =====
+
+FALE_APP is the main station responsible covering the Durban TMA below FL145. There are no sector splits which can be accomplished.
+
+During normal operations, FALE_APP will also be providing a top-down service for Virginia (FAVG), Richards Bay (FARB) and Pietermaritzburg (FAPM).
+There are some other airports which lie below or near the TMA, for example, Greytown (FAGY), Margate (FAMG). These stations have their own dedicated Radio positions which provide an AFIS service, but are not top-down controlled by FALE_APP.
+
+For the information of those aircraft operating within the Durban TMA, unidentified unknown targets, performing as expected for general aviation within the confines of the Durban Special Rules Area will be deemed to be separated from aircraft operating within the Durban TMA, by procedures as opposed to radar.
+
+==== Handoff Procedures ====
+^ Type ^ Level ^ To/From Unit ^
+| Inbound | FL160 | FAJA |
+| Outbound | FL150 | FAJA |
+
+==== Arrivals Procedures ====
+^ Rwy ^ Fix ^ Arrival ^ Type ^ Track Miles ^ Approach ^ Remarks ^
+| 06  | APMAT | APMAT1A | ::: |  |          | - |
+| :::  | DUNSA | DUNSA1A | ::: |  |          | - |
+| :::  | GETOK | GETOK1C | ::: |  |          | - |
+| :::  | ITMIL | ITMIL1A | ::: |  |          | - |
+| 06  | APMAT | APMAT1B | ::: |  |          | - |
+| :::  | DUNSA | DUNSA1B | ::: |  |          | - |
+| :::  | GETOK | GETOK1D | ::: |  |          | - |
+| :::  | ITMIL | ITMIL1B | ::: |  |          | - |
+
+
+^ Rwy ^ Approach ^ Frequency ^ Course ^ GP Angle ^ IAF/TANS ^ Platform ^|
+| 06  | ILS Z | 111.3 TNI | 062º | 3.00º | 13.8 TNI | 3000 ft |
+| ::: | ILS Y | ::: | ::: | ::: | TGV | 3400ft |
+| ::: | RNAV GNSS | - | - | ::: | LE1N3, LE1N2 or LE1N1 | 3000ft |
+| ::: | VOR Z | 115.6 TGV | 066º | ::: | 14.9 TGV | 3000ft |
+| 24  | ILS Z | 109.7 TGI | 242º | 3.00º | 13.8 TGI | 3000 ft |
+| ::: | ILS Y | ::: | ::: | ::: | TGV | 3400ft |
+| ::: | RNAV GNSS | - | - | ::: | LE2N3, LE2N2 or LE2N1 | 3000ft |
+| ::: | VOR Z | 115.6 TGV | 066º | ::: | 14.5 TGV | 3000ft
+
+==== Holds ====
+
+^ Name ^ STAR ^ Altitude ^ Speed (IAS) ^ Inbound CRS ^ Turn ^ Leg Time/Distance ^ Remarks ^
+| APMAT | APMAT1A/APMAT1B | FL150 - FL280 | 230 KT | 169º | Left | 13nm | - |
+| ENULO | - | FL80 - FL140 | 230 KT | 062º | Right | 1 min | - |
+| GETOK | GETOK1C/GETOK1D | FL120 - FL280 | 230 KT | 121º | Right | 13nm | - |
+| ITMIL | ITMIL1A/ITMIL1B | FL150 - FL280 | 230 KT | 244º | Left | 13nm | - |
+| OKTAN | - | FL150 - FL280 | 230 KT | 059º | Right | 13nm | - |
+| VABOG | - | FL80 - FL140 | 230 KT | 241º | Right | 1 min | - |
+
+
+==== Release from FAPM and FARB ====
+Aircraft from FAPM and FARB are subject to release from FALE_APP. Approach Controllers should be cautious as departures from FAPM may cause conflicts with FALE inbounds or outbounds. Controllers should coordinate a proper action of plan in order to reduce the likelihood of a conflict on departure.
+
+==== Greytown Inbounds ====
+When FALE_APP is dealing with aircraft flying into Greytown, they should initially direct the aircraft to one of the designed IAF fixes if Runway 24 is in use. Once an aircraft is established, they should be instructed to broadcast on 122.8, or if Greytown Radio is online, then on 123.5. At this point, the pilot will assume responsibility for their own separation with other aircraft visually.
+
+{{page>fa-footer#FALE}}

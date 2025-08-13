@@ -1,0 +1,54 @@
+===== FALE Information =====
+
+King Shaka International Airport (IATA: DUR, ICAO: FALE), abbreviated KSIA, is the primary international airport serving Durban, South Africa. It is located in La Mercy, KwaZulu-Natal, approximately 35 km (22 mi) north of the city centre of Durban.
+
+==== Aerodrome Data ====
+
+| ICAO                  | FALE |
+| IATA                  | DUR |
+| Elevation             | 304 ft |
+| Transition Altitude   | 5500 ft |
+| Transition Level      | by ATC |
+| Mag Variation         | 26º W |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=King_Shaka_International_Airport&params=29_37.0_S_031_6.5_E_region:ZA-ZN_type:airport]] |
+
+
+==== Runways ====
+
+^ Runway ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m) ^ Remarks ^
+| 03L    | 062º    | 3700     | 4000     | 3700     | 3700    | - |
+| 21R    | 210º    | 3700     | 4000     | 3700     | 3700    | - |
+
+
+==== Aprons ====
+^ Apron                     ^ Code ^ Stands   ^ Entry / Exit         ^ Remarks                               ^
+| Apron A                   | -    | A1 - A16 | Twy C, E or F | - |
+| Apron B                   | -    | B1 - B9 | Twy C, E or F | - |
+| Apron C                   | -    | C1 - C6 | Twy F | - |
+| Apron D                   | -    | D1 - D6 | Twy N | - |
+| Apron E                   | -    | - | Twy A | - |
+
+==== Positions & Frequencies ====
+
+^ Position    ^ Callsign              ^ Frequency ^ Remarks             ^
+| FALE_ATIS   | King Shaka ATIS     | 127.000   | -                   |
+| FAOR_GND    | King Shaka Ground       | 121.650   | -                   |
+| FAOR_TWR    | King Shaka Tower    | 118.450   | -                   |
+| FAOR_APP    | Durban Approach | 125.750   | -                   |
+| FAJA_E_CTR    | Johannesburg Area     | 129.100   | - |
+| FAJA_S_CTR    | Johannesburg Area     | 120.300   | - |
+| FAJA_CTR    | Johannesburg Area     | 134.400   | -                   |
+
+==== Airspace ====
+
+^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Durban CTR      | C     | FALE_TWR | GND - A030    | - |
+| Durban TMA Area D      | C     | FALE_APP | A035 - FL145  | - |
+| Durban TMA Area E      | C     | FALE_APP | A030 - FL145  | - |
+| Durban TMA Area F      | C     | FALE_APP | A020 - FL145  | - |
+| Durban CTA Area A      | C    | FAJA_CTR | FL145 - FL200 | - |
+| OR Tambo FIR/UIR  | G     | FAJA_CTR | GND - FL195   | - |
+| OR Tambo FIR/UIR  | A     | FAJA_CTR | FL245 - UNL   | - |
+
+
+{{page>fa-footer#FALE}}

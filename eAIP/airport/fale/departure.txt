@@ -1,0 +1,13 @@
+===== FALE Departure =====
+
+  * FALE_APP will assume full responsibility of departures out of Durban King Shaka.
+  * There is no handoff from Tower, as this is an automatic handoff given by the Clearance.
+
+
+==== Departure Procedures ====
+
+  * FALE_APP should pay particular close attention for conflicts with inbound aircraft and traffic from other aerodromes. 
+  * Standard Handoff Altitude to FAJA unit is FL150 for outbound aircraft.
+
+
+{{page>fa-footer#FAOR}}
