@@ -1,4 +1,4 @@
-==== FAOR Tower ====
+==== FALE Tower ====
 
   * Tower is responsible for landing and departing aircraft, as well as the airspace surrounding the aerodrome, as well as controller the CTR. The CTR at Durban extends from SFC to 3000ft AGL.
   * Tower Controllers are not to issue frequency changes, as this will have been done in the clearance by the Delivery controller.
