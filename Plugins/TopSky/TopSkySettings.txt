@@ -53,12 +53,14 @@ Color_CPDLC_UM_Clearance=30,250,250
 
 /MENU COLORS
 Color_Active_Text_Map=255,255,255
-Color_Background=37,37,37
+/Color_Background=37,37,37
+Color_Background=70,70,70
 Color_Foreground=220,220,220
 Color_Border=50,50,50
 Color_BottomShadow=50,50,50
 Color_TopShadow=50,50,50
-Color_Global_Menu_Highlight=72,144,231
+/Color_Global_Menu_Highlight=72,144,231
+Color_Global_Menu_Highlight=196,122,26
 Color_Selected=72,144,231
 Color_Selected_Group=140,140,140
 Color_Text_Notes=166,166,166
@@ -273,6 +275,10 @@ Shortcut_XQDM_Combo=0x00A2
 Shortcut_Map_Target=1,MVA\MVA
 Shortcut_Map_Xfr_Key=1,0x004D ; M
 
+/left ALT+N = Toggles Range Rings
+Shortcut_Map_Target=2,ENROUTE\RANGERINGS
+Shortcut_Map_Xfr_Key=2,0x004E ; N
+
 // ##################################################################
 //                 #21 STCA
 // ##################################################################
@@ -338,6 +344,12 @@ System_Coord_Sound_TIP=1
 System_Coord_Sound_TIP_ACP=1
 System_Coord_Sound_TIP_RJC=1
 
+// ##################################################################
+//                   #25 SID STAR HIDING
+// ##################################################################
+Airspace_Hide_SID_Names=VASUR3B,RAGUL3B,EXOBI3B,APDAK1D,EGMEN1D,LIV1C,HGV5D,GAV6C,OVALA1B,APDAK2B,EGMEN2B,EGMEN1C,GAV5B,NESAN1A,APDAK3A,EGMEN2A,OKTIG1B,TETAN1A,KODES1A,IMSOM1A,TETAN1A,TETAN1B,IMSOM1B,OKTED1B,OKTED1C,OVALA03,OVALA,BLV02,BLV20,BLV12,BLV30,TETAN01,OKTED01,KODES01,ELV06,ELV24,ELV11,ELV29,GRV11,GRV29,HSV09,HSV27,HSV18,HSV36,KYV02,KYV20,KYV10,KYV28,PKV05,PKV23,OKTAN06,ITMIL24,PMV06,PMV24,PEV06,PEV24,LTV08,LTV26,LYV05,LYV23,PMV16,PMV34,RBV05,RBV23,UMVET17,UMVET35,UPV17,UPV35,OKREV14,OKREV32,GYV05,GYV23,RAGUL17,RAGUL35,JSV17,JSV35,XAGEN07,XAGEN25,JSV07,JSV25,GAV07,GAV25,OKPAG1A,OKPAG1B,UNRAG1A
+
+Airspace_Hide_STAR_Names=STV5B,WIV3C,NIBEX2C,AVAGO2B,AVILO1A,WIV4A,STV6A,NIBEX2A,AVAGO2A,UTONU1A,ERDAS1B,GETEN1B,ASPIK1B,XALIN1B,AXEMU1A,GABGO1A,GABGO1B,EVESI1A,IBKEL1A,IBKEL1B
 
 // ##################################################################
 //                   THE END
