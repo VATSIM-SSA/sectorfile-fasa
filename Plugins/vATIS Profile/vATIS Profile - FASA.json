@@ -1,8 +1,8 @@
 {
   "name": "South Africa (FASA) - AIRAC 2509",
-  "id": "b1042002-33c8-4de4-aba1-4c4a6ceefa6d",
+  "id": "2a7aa497-2c85-4b34-b38f-f9c6aa862f27",
   "updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/refs/heads/main/Plugins/vATIS%20Profile/vATIS%20Profile%20-%20FASA.json",
-  "updateSerial": 2025090401,
+  "updateSerial": 2025090402,
   "stations": [
     {
       "id": "9ebe0623-f64f-49af-928e-e0934c791eda",
@@ -4039,7 +4039,7 @@
           "id": "b83420a7-0eb3-4477-bc80-dc7f6e0b634a",
           "name": "RWY 03 DUAL",
           "airportConditions": "",
-          "notams": "CLEARANCE DELIVERY FREQUENCY 121.900.",
+          "notams": "",
           "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. EXP SIDS AND STARS IN USE, [ARPT_COND] RW03D. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false,
@@ -4055,7 +4055,7 @@
           "id": "7dff065a-fa7c-4c22-80f5-7c2cbc64b887",
           "name": "RWY 03L",
           "airportConditions": "",
-          "notams": "CLEARANCE DELIVERY FREQUENCY 121.900",
+          "notams": "",
           "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. EXP SIDS AND STARS IN USE, [ARPT_COND] RW03L. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false,
@@ -4071,7 +4071,7 @@
           "id": "ca1202c9-cecd-4ff1-964f-253bbecfed34",
           "name": "RWY 03R",
           "airportConditions": "",
-          "notams": "CLEARANCE DELIVERY FREQUENCY 118.100.",
+          "notams": "",
           "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. EXP SIDS AND STARS IN USE, [ARPT_COND] RW03R. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false,
@@ -4087,7 +4087,7 @@
           "id": "e5c20f3e-76a0-4e36-945f-ee9a53d31548",
           "name": "RWY 21 DUAL",
           "airportConditions": "",
-          "notams": "CLEARANCE DELIVERY FREQUENCY 118.100. ALPHA STOPBARS RUNWAY 21 RIGHT UNSERVICIABLE.",
+          "notams": "",
           "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. EXP SIDS AND STARS IN USE, [ARPT_COND] RW21D. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false,
@@ -4103,7 +4103,7 @@
           "id": "73ae4d01-0904-45cb-b6fc-5a49c8e46240",
           "name": "RWY 21L",
           "airportConditions": "",
-          "notams": "CLEARANCE DELIVERY FREQUENCY 118.100.",
+          "notams": "",
           "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. EXP SIDS AND STARS IN USE, [ARPT_COND] RW21L. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false,
@@ -4119,7 +4119,7 @@
           "id": "f43342fc-4d68-4941-bc63-ebd9648fbdae",
           "name": "RWY 21R",
           "airportConditions": "",
-          "notams": "CLEARANCE DELIVERY FREQUENCY 118.100. ALPHA STOPBARS RUNWAY 21 RIGHT UNSERVICIABLE.",
+          "notams": "",
           "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. EXP SIDS AND STARS IN USE, [ARPT_COND] RW21R. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false,
@@ -4192,6 +4192,46 @@
           "variableName": "RW21R",
           "text": "ARR RWY21R DEP RWY21R",
           "voice": "RUNWAY 21R FOR ARRIVALS AND DEPARTURES."
+        },
+        {
+          "variableName": "FAOR_DEL",
+          "text": "CLEARANCE DELIVERY FREQUENCY 121.700",
+          "voice": "CLEARANCE DELIVERY FREQUENCY WUN TOO WUN DAY-SEE-MAL SEVEN"
+        },
+        {
+          "variableName": "FAOR_GND",
+          "text": "CLEARANCE DELIVERY FREQUENCY 121.900",
+          "voice": "CLEARANCE DELIVERY FREQUENCY WUN TOO WUN DAY-SEE-MAL NINER"
+        },
+        {
+          "variableName": "FAOR_TWR",
+          "text": "CLEARANCE DELIVERY FREQUENCY 118.100",
+          "voice": "CLEARANCE DELIVERY FREQUENCY WUN WUN AIT DAY-SEE-MAL WUN"
+        },
+        {
+          "variableName": "FAOR_APP",
+          "text": "CLEARANCE DELIVERY FREQUENCY 124.500",
+          "voice": "CLEARANCE DELIVERY FREQUENCY WUN TOO TREE DAY-SEE-MAL FIFE"
+        },
+        {
+          "variableName": "FAJA_CTR",
+          "text": "CLEARANCE DELIVERY FREQUENCY 134.400",
+          "voice": "CLEARANCE DELIVERY FREQUENCY WUN TREE FOWER DAY-SEE-MAL FOWER"
+        },
+        {
+          "variableName": "FAJA_NW_CTR",
+          "text": "CLEARANCE DELIVERY FREQUENCY 126.700",
+          "voice": "CLEARANCE DELIVERY FREQUENCY WUN TOO SIX DAY-SEE-MAL SEVEN"
+        },
+        {
+          "variableName": "FAJA_SW_CTR",
+          "text": "CLEARANCE DELIVERY FREQUENCY 128.300",
+          "voice": "CLEARANCE DELIVERY FREQUENCY WUN TOO AIT DAY-SEE-MAL TREE"
+        },
+        {
+          "variableName": "FAJA_SE_CTR",
+          "text": "CLEARANCE DELIVERY FREQUENCY 132.150",
+          "voice": "CLEARANCE DELIVERY FREQUENCY WUN TREE TOO DAY-SEE-MAL WUN FIFE ZERO"
         }
       ],
       "airportConditionDefinitions": [
@@ -4208,33 +4248,78 @@
       ],
       "notamDefinitions": [
         {
-          "text": "RCR 5/5/5",
+          "text": "@FAOR_DEL",
           "ordinal": 1,
           "enabled": false
         },
         {
-          "text": "RCR 4/4/4",
+          "text": "@FAOR_GND",
           "ordinal": 2,
-          "enabled": false
+          "enabled": true
         },
         {
-          "text": "RCR 3/3/3",
+          "text": "@FAOR_TWR",
           "ordinal": 3,
           "enabled": false
         },
         {
-          "text": "RCR 2/2/2",
+          "text": "@FAOR_APP",
           "ordinal": 4,
           "enabled": false
         },
         {
-          "text": "RCR 1/1/1",
+          "text": "@FAJA_CTR",
           "ordinal": 5,
           "enabled": false
         },
         {
-          "text": "RCR 0/0/0",
+          "text": "@FAJA_NW_CTR",
           "ordinal": 6,
+          "enabled": false
+        },
+        {
+          "text": "@FAJA_SW_CTR",
+          "ordinal": 7,
+          "enabled": false
+        },
+        {
+          "text": "@FAJA_SE_CTR",
+          "ordinal": 7,
+          "enabled": false
+        },
+        {
+          "text": "ALPHA STOPBARS RUNWAY 21 RIGHT INSERVICIABLE",
+          "ordinal": 9,
+          "enabled": true
+        },
+        {
+          "text": "RCR 5/5/5",
+          "ordinal": 10,
+          "enabled": false
+        },
+        {
+          "text": "RCR 4/4/4",
+          "ordinal": 11,
+          "enabled": false
+        },
+        {
+          "text": "RCR 3/3/3",
+          "ordinal": 12,
+          "enabled": false
+        },
+        {
+          "text": "RCR 2/2/2",
+          "ordinal": 13,
+          "enabled": false
+        },
+        {
+          "text": "RCR 1/1/1",
+          "ordinal": 14,
+          "enabled": false
+        },
+        {
+          "text": "RCR 0/0/0",
+          "ordinal": 15,
           "enabled": false
         }
       ]
