@@ -23,6 +23,7 @@ System_RwyArea=45.0
 System_RwyBufferArea=90.0 
 System_RwyArea_LVP=90.0
 System_RwyBufferArea_LVP=140.0
+System_GUI_Version=1
 
 System_State_OnFreq=ON FREQ
 System_State_DeIce=STBY
@@ -72,7 +73,8 @@ GroundLabel_Font=EuroScope
 GroundLabel_FontStyle=1000,0,0,0
 GroundLabel_FontSize=11
 GroundLabel_Transparency_Bg=100
-GroundLabel_Filter_NoState=1
+GroundLabel_Filter_NoState=0
+GroundLabel_Filter_Squawk_Error=1
 TowerLabel_FontSize=11
 AppLabel_FontSize=11
 
@@ -201,6 +203,9 @@ Track_HistoryDots_GND=0
 Track_HistoryDots_TWR_Type=1
 Track_Heading_Line=0
 
+Window_WindRose_Units_Clouds=0
+Window_WindRose_Units_QFE=0
+Window_WindRose_Units_Wind=0 
 
 // ##################################################################
 //                 #9 AIRPORT SETTINGS v0.1
