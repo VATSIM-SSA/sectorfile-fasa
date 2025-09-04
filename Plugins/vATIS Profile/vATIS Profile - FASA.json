@@ -2,7 +2,7 @@
   "name": "South Africa (FASA) - AIRAC 2509",
   "id": "2a7aa497-2c85-4b34-b38f-f9c6aa862f27",
   "updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/refs/heads/main/Plugins/vATIS%20Profile/vATIS%20Profile%20-%20FASA.json",
-  "updateSerial": 2025090402,
+  "updateSerial": 2025090403,
   "stations": [
     {
       "id": "9ebe0623-f64f-49af-928e-e0934c791eda",
@@ -4172,6 +4172,11 @@
           "variableName": "IMC",
           "text": "ZONE IMC.",
           "voice": "EXPECT ZONE EYE EM CEE"
+        },
+        {
+          "variableName": "INSERVICIABLE",
+          "text": "INSERVICIABLE",
+          "voice": "UNSERVICEABLE"
         },
         {
           "variableName": "RW03R",
