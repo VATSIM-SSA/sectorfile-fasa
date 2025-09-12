@@ -1,6 +1,6 @@
 {
   "Name": "South Africa (FASA) - AIRAC 2509",
-  "updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/refs/heads/main/Plugins/vATIS%20Profile/vATIS%20Profile%20-%20FASA.json",
+  "updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/refs/heads/main/vATIS/FASA.json",
   "updateSerial": 1970010100,
   "stations": []
 }
