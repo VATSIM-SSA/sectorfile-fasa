@@ -1,8 +1,8 @@
 {
   "name": "South Africa (FASA) - AIRAC 2509",
   "id": "d7ab3e89-c93d-4d73-b101-7c9ce26ccbb0",
-  "updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/refs/heads/main/vATIS/FASA.json",
-  "updateSerial": 2025090403,
+  "updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/refs/heads/main/Plugins/vATIS%20Profile/vATIS%20Profile%20-%20FASA.json",
+  "updateSerial": 2025091301,
   "stations": [
     {
       "id": "9ebe0623-f64f-49af-928e-e0934c791eda",
@@ -1930,8 +1930,8 @@
             }
           ],
           "template": {
-            "text": "TRL {trl}",
-            "voice": "TRANSITION LEVEL {trl}"
+            "text": "TRL FL0{trl}",
+            "voice": "TRANSITION LEVEL FLIGHT LEVEL ZERO {trl}"
           }
         },
         "notams": {
@@ -1948,13 +1948,13 @@
           }
         }
       },
-      "notamsBeforeFreeText": false,
+      "notamsBeforeFreeText": true,
       "airportConditionsBeforeFreeText": false,
       "frequency": 127000000,
       "useDecimalTerminology": false,
       "atisVoice": {
         "useTextToSpeech": true,
-        "voice": "Default",
+        "voice": "UK Male",
         "speechRate": 150
       },
       "presets": [
@@ -1964,18 +1964,30 @@
           "name": "RWY 19",
           "airportConditions": "",
           "notams": "",
-          "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. [ARPT_COND]. RW19. FACT STARS SUSPENDED, AIRCRAFT TO ROUTE TO CTV AFTER GETEN, ERDAS OR ASPIK. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
+          "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. [ARPT_COND]. RW19. [NOTAMS] FACT STARS SUSPENDED, AIRCRAFT TO ROUTE TO CTV AFTER GETEN, ERDAS OR ASPIK. [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         },
         {
           "id": "a367455b-56a3-4b1f-ad57-84eb64cb482c",
           "ordinal": 1,
           "name": "RWY 01",
-          "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. [ARPT_COND]. RW01. FACT STARS IN USE FOR RWY 01. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
+          "template": "",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         }
       ],
@@ -2078,6 +2090,11 @@
           "text": "RCR 0/0/0",
           "ordinal": 6,
           "enabled": false
+        },
+        {
+          "text": "INCREASED BIRD ACTIVITY",
+          "ordinal": 7,
+          "enabled": true
         }
       ]
     },
@@ -4007,8 +4024,8 @@
             }
           ],
           "template": {
-            "text": "TRL {trl}",
-            "voice": "TRANSITION LEVEL {trl}"
+            "text": "TRL FL0{trl}",
+            "voice": "TRANSITION LEVEL FLIGHT LEVEL ZERO {trl}"
           }
         },
         "notams": {
@@ -4031,7 +4048,7 @@
       "useDecimalTerminology": false,
       "atisVoice": {
         "useTextToSpeech": true,
-        "voice": "Default",
+        "voice": "UK Male",
         "speechRate": 150
       },
       "presets": [
@@ -4040,7 +4057,7 @@
           "name": "RWY 03 DUAL",
           "airportConditions": "",
           "notams": "",
-          "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. EXP SIDS AND STARS IN USE, [ARPT_COND] RW03D. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
+          "template": "@FAOR ATIS [LETTER] [OBS_TIME]. EXP SIDS AND STARS IN USE, [ARPT_COND] RW03D. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -4056,7 +4073,7 @@
           "name": "RWY 03L",
           "airportConditions": "",
           "notams": "",
-          "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. EXP SIDS AND STARS IN USE, [ARPT_COND] RW03L. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
+          "template": "@FAOR ATIS [LETTER] [OBS_TIME]. EXP SIDS AND STARS IN USE, [ARPT_COND] RW03L. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -4072,7 +4089,7 @@
           "name": "RWY 03R",
           "airportConditions": "",
           "notams": "",
-          "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. EXP SIDS AND STARS IN USE, [ARPT_COND] RW03R. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
+          "template": "@FAOR ATIS [LETTER] [OBS_TIME]. EXP SIDS AND STARS IN USE, [ARPT_COND] RW03R. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -4088,7 +4105,7 @@
           "name": "RWY 21 DUAL",
           "airportConditions": "",
           "notams": "",
-          "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. EXP SIDS AND STARS IN USE, [ARPT_COND] RW21D. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
+          "template": "@FAOR ATIS [LETTER] [OBS_TIME]. EXP SIDS AND STARS IN USE, [ARPT_COND] RW21D. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -4104,7 +4121,7 @@
           "name": "RWY 21L",
           "airportConditions": "",
           "notams": "",
-          "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. EXP SIDS AND STARS IN USE, [ARPT_COND] RW21L. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
+          "template": "@FAOR ATIS [LETTER] [OBS_TIME]. EXP SIDS AND STARS IN USE, [ARPT_COND] RW21L. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -4120,7 +4137,7 @@
           "name": "RWY 21R",
           "airportConditions": "",
           "notams": "",
-          "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. EXP SIDS AND STARS IN USE, [ARPT_COND] RW21R. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
+          "template": "@FAOR ATIS [LETTER] [OBS_TIME]. EXP SIDS AND STARS IN USE, [ARPT_COND] RW21R. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -4136,7 +4153,7 @@
         {
           "variableName": "VMC",
           "text": "ZONE VMC.",
-          "voice": "EXPECT ZONE VEE EM CEE"
+          "voice": "EXPECT ZONE V M C"
         },
         {
           "variableName": "RW03D",
@@ -4175,7 +4192,7 @@
         },
         {
           "variableName": "INSERVICIABLE",
-          "text": "UNSERVICABLE",
+          "text": "UNSERVICIABLE",
           "voice": "UNSERVICEABLE"
         },
         {
@@ -4200,43 +4217,48 @@
         },
         {
           "variableName": "FAOR_DEL",
-          "text": "CLEARANCE DELIVERY FREQUENCY 121.700",
-          "voice": "CLEARANCE DELIVERY FREQUENCY WUN TOO WUN DAY-SEE-MAL SEVEN"
+          "text": "CLEARANCE DELIVERY FREQUENCY 121 DECIMAL 7",
+          "voice": "CLEARANCE DELIVERY FREQUENCY WUN TOO WUN DAY SEE MAL SEVEN"
         },
         {
           "variableName": "FAOR_GND",
-          "text": "CLEARANCE DELIVERY FREQUENCY 121.900",
-          "voice": "CLEARANCE DELIVERY FREQUENCY WUN TOO WUN DAY-SEE-MAL NINER"
+          "text": "CLEARANCE DELIVERY FREQUENCY 121 DECIMAL 9",
+          "voice": "CLEARANCE DELIVERY FREQUENCY WUN TOO WUN DAY SEE MAL NINER"
         },
         {
           "variableName": "FAOR_TWR",
-          "text": "CLEARANCE DELIVERY FREQUENCY 118.100",
-          "voice": "CLEARANCE DELIVERY FREQUENCY WUN WUN AIT DAY-SEE-MAL WUN"
+          "text": "CLEARANCE DELIVERY FREQUENCY 118 DECIMAL 1",
+          "voice": "CLEARANCE DELIVERY FREQUENCY WUN WUN AIT DAY SEE MAL WUN"
         },
         {
           "variableName": "FAOR_APP",
-          "text": "CLEARANCE DELIVERY FREQUENCY 124.500",
-          "voice": "CLEARANCE DELIVERY FREQUENCY WUN TOO TREE DAY-SEE-MAL FIFE"
+          "text": "CLEARANCE DELIVERY FREQUENCY 124 DECIMAL 5",
+          "voice": "CLEARANCE DELIVERY FREQUENCY WUN TOO TREE DAY SEE MAL FIFE"
         },
         {
           "variableName": "FAJA_CTR",
-          "text": "CLEARANCE DELIVERY FREQUENCY 134.400",
-          "voice": "CLEARANCE DELIVERY FREQUENCY WUN TREE FOWER DAY-SEE-MAL FOWER"
+          "text": "CLEARANCE DELIVERY FREQUENCY 134 DECIMAL 4",
+          "voice": "CLEARANCE DELIVERY FREQUENCY WUN TREE FOWER DAY SEE MAL FOWER"
         },
         {
           "variableName": "FAJA_NW_CTR",
-          "text": "CLEARANCE DELIVERY FREQUENCY 126.700",
-          "voice": "CLEARANCE DELIVERY FREQUENCY WUN TOO SIX DAY-SEE-MAL SEVEN"
+          "text": "CLEARANCE DELIVERY FREQUENCY 126 DECIMAL 7",
+          "voice": "CLEARANCE DELIVERY FREQUENCY WUN TOO SIX DAY SEE MAL SEVEN"
         },
         {
           "variableName": "FAJA_SW_CTR",
-          "text": "CLEARANCE DELIVERY FREQUENCY 128.300",
-          "voice": "CLEARANCE DELIVERY FREQUENCY WUN TOO AIT DAY-SEE-MAL TREE"
+          "text": "CLEARANCE DELIVERY FREQUENCY 128 DECIMAL 3",
+          "voice": "CLEARANCE DELIVERY FREQUENCY WUN TOO AIT DAY SEE MAL TREE"
         },
         {
           "variableName": "FAJA_SE_CTR",
-          "text": "CLEARANCE DELIVERY FREQUENCY 132.150",
-          "voice": "CLEARANCE DELIVERY FREQUENCY WUN TREE TOO DAY-SEE-MAL WUN FIFE ZERO"
+          "text": "CLEARANCE DELIVERY FREQUENCY 132 DECIMAL 150",
+          "voice": "CLEARANCE DELIVERY FREQUENCY WUN TREE TOO DAY SEE MAL WUN FIFE ZERO"
+        },
+        {
+          "variableName": "FAOR",
+          "text": "FAOR",
+          "voice": "O R TAMBO INTERNATIONAL"
         }
       ],
       "airportConditionDefinitions": [
@@ -6255,8 +6277,8 @@
             }
           ],
           "template": {
-            "text": "TRL {trl}",
-            "voice": "TRANSITION LEVEL {trl}"
+            "text": "TRL FL0{trl}",
+            "voice": "TRANSITION LEVEL FLIGHT LEVEL ZERO {trl}"
           }
         },
         "notams": {
@@ -8298,8 +8320,8 @@
             }
           ],
           "template": {
-            "text": "TRL {trl}",
-            "voice": "TRANSITION LEVEL {trl}"
+            "text": "TRL FL0{trl}",
+            "voice": "TRANSITION LEVEL FLIGHT LEVEL ZERO {trl}"
           }
         },
         "notams": {
@@ -10337,8 +10359,8 @@
             }
           ],
           "template": {
-            "text": "TRL {trl}",
-            "voice": "TRANSITION LEVEL {trl}"
+            "text": "TRL FL0{trl}",
+            "voice": "TRANSITION LEVEL FLIGHT LEVEL ZERO {trl}"
           }
         },
         "notams": {
@@ -12365,8 +12387,8 @@
             }
           ],
           "template": {
-            "text": "TRL {trl}",
-            "voice": "TRANSITION LEVEL {trl}"
+            "text": "TRL FL0{trl}",
+            "voice": "TRANSITION LEVEL FLIGHT LEVEL ZERO {trl}"
           }
         },
         "notams": {
@@ -14393,8 +14415,8 @@
             }
           ],
           "template": {
-            "text": "TRL {trl}",
-            "voice": "TRANSITION LEVEL {trl}"
+            "text": "TRL FL0{trl}",
+            "voice": "TRANSITION LEVEL FLIGHT LEVEL ZERO {trl}"
           }
         },
         "notams": {
@@ -16454,8 +16476,8 @@
             }
           ],
           "template": {
-            "text": "TRL {trl}",
-            "voice": "TRANSITION LEVEL {trl}"
+            "text": "TRL FL0{trl}",
+            "voice": "TRANSITION LEVEL FLIGHT LEVEL ZERO {trl}"
           }
         },
         "notams": {
@@ -18483,8 +18505,8 @@
             }
           ],
           "template": {
-            "text": "TRL {trl}",
-            "voice": "TRANSITION LEVEL {trl}"
+            "text": "TRL FL0{trl}",
+            "voice": "TRANSITION LEVEL FLIGHT LEVEL ZERO {trl}"
           }
         },
         "notams": {
@@ -20505,8 +20527,8 @@
             }
           ],
           "template": {
-            "text": "TRL {trl}",
-            "voice": "TRANSITION LEVEL {trl}"
+            "text": "TRL FL0{trl}",
+            "voice": "TRANSITION LEVEL FLIGHT LEVEL ZERO {trl}"
           }
         },
         "notams": {
@@ -22533,8 +22555,8 @@
             }
           ],
           "template": {
-            "text": "TRL {trl}",
-            "voice": "TRANSITION LEVEL {trl}"
+            "text": "TRL FL0{trl}",
+            "voice": "TRANSITION LEVEL FLIGHT LEVEL ZERO {trl}"
           }
         },
         "notams": {
