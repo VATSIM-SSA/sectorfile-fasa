@@ -2,13 +2,11 @@
 
 What kind of change does this PR introduce?
 
-```
-[ ] Bug Fix
-[ ] Feature / Enhancement
-[ ] Plugins
-[ ] Documentation
-[ ] Other
-```
+- [ ] Bug Fix
+- [ ] Feature / Enhancement
+- [ ] Plugins
+- [ ] Documentation
+- [ ] Other
 
 ## Issue Number and Link
 
