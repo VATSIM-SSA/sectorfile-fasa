@@ -1034,12 +1034,6 @@
                     "destinations": ["FALA","FAGC"],
                     "direction": "ODD",
                     "min_fl": 245,
-                    "airways": ["ELV DCT ETBIN UZ20 OKTEK UZ5 STV LIV"]
-                },
-                {
-                    "destinations": ["FALA","FAGC"],
-                    "direction": "ODD",
-                    "max_fl": 245,
                     "airways": ["ELV DCT ETBIN Z20 OKTEK Z5 STV DCT LIV"]
                 },
                 {
