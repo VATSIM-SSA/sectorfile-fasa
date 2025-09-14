@@ -2,7 +2,7 @@
 //                 VATSSA | FIR FASA | GroundRadar | Settings
 // ##################################################################
 
-// GroundRadar Version 1.5 Stable
+// GroundRadar Version 1.6 Beta 3
 
 // Version v0.5
 // Update Date 30/06/2022
@@ -23,12 +23,12 @@ System_RwyArea=45.0
 System_RwyBufferArea=90.0 
 System_RwyArea_LVP=90.0
 System_RwyBufferArea_LVP=140.0
+System_GUI_Version=1
 
 System_State_OnFreq=ON FREQ
 System_State_DeIce=STBY
 System_State_StartUp=START UP
 System_State_Push=PUSH
-System_State_Taxi=TAXI
 System_State_Taxi_In=TAXI
 System_State_Taxi_Out=TAXI
 System_State_LineUp=LINE UP
@@ -53,8 +53,8 @@ Color_Unknown=0,0,0
 Color_WBackground=72,74,73
 Color_WBackground3=131,131,131
 Color_WBorder=250,250,250
-Color_WForeground2=170,170,170
 Color_WForeground=217,217,217
+Color_WForeground2=170,170,170
 Color_WTitleBar=133,133,133
 Color_APP_Background=43,50,68
 Color_APP_RunwayExtension=160,160,160
@@ -72,7 +72,8 @@ GroundLabel_Font=EuroScope
 GroundLabel_FontStyle=1000,0,0,0
 GroundLabel_FontSize=11
 GroundLabel_Transparency_Bg=100
-GroundLabel_Filter_NoState=1
+GroundLabel_Filter_NoState=0
+GroundLabel_Filter_Squawk_Error=1
 TowerLabel_FontSize=11
 AppLabel_FontSize=11
 
@@ -201,6 +202,9 @@ Track_HistoryDots_GND=0
 Track_HistoryDots_TWR_Type=1
 Track_Heading_Line=0
 
+Window_WindRose_Units_Clouds=0
+Window_WindRose_Units_QFE=0
+Window_WindRose_Units_Wind=0
 
 // ##################################################################
 //                 #9 AIRPORT SETTINGS v0.1
@@ -214,7 +218,7 @@ Track_Heading_Line=0
 Airport_Elevation=4457
 Airport_Radius=3
 
-Window_APP=1,1250,150,500,250
+Window_APP=1,0,1250,150
 Window_APP_Rotation=90
 Window_APP_Scale=10
 Window_APP_Extensions=20=1
@@ -224,7 +228,7 @@ Window_APP_AltFilter=9457
 Airport_Elevation=160
 Airport_Radius=3
 
-Window_APP=1,1250,150,500,250
+Window_APP=1,0,1250,150,500,250
 Window_APP_Rotation=285
 Window_APP_Scale=10
 Window_APP_Extensions=20=1
@@ -237,7 +241,7 @@ AppPath=FACT:FACT 19:S033.57.35.431:E018.36.00.179:189:R:143:3.0
 Airport_Elevation=435
 Airport_Radius=3
 
-Window_APP=1,1250,150,500,250
+Window_APP=1,0,1250,150,500,250
 Window_APP_Rotation=8
 Window_APP_Scale=10
 Window_APP_Extensions=20=1
@@ -247,7 +251,7 @@ Window_APP_AltFilter=5435
 Airport_Elevation=648
 Airport_Radius=3
 
-Window_APP=1,1250,150,500,250
+Window_APP=1,0,1250,150,500,250
 Window_APP_Rotation=2
 Window_APP_Scale=10
 Window_APP_Extensions=20=1
@@ -260,7 +264,7 @@ Airport_Radius=3
 Window_2nd=1,150,900,600,200
 Window_2nd_Scale=1250
 
-Window_APP=1,1250,150,500,250
+Window_APP=1,0,1250,150,500,250
 Window_APP_Rotation=43
 Window_APP_Scale=10
 Window_APP_Extensions=20=20
@@ -270,7 +274,7 @@ Window_APP_AltFilter=9521
 Airport_Elevation=310
 Airport_Radius=3
 
-Window_APP=1,1250,300,600,300
+Window_APP=1,0,1250,300,600,300
 Window_APP_Rotation=52.5
 Window_APP_Scale=10
 Window_APP_Extensions=20=1
@@ -283,7 +287,7 @@ AppPath=FALE:FALE 24:S029.35.54.560:E031.07.51.160:242:L:301:3.0
 Airport_Elevation=3950
 Airport_Radius=3
 
-Window_APP=1,1250,150,500,250
+Window_APP=1,0,1250,150,500,250
 Window_APP_Rotation=60
 Window_APP_Scale=10
 Window_APP_Extensions=20=1
@@ -293,7 +297,7 @@ Window_APP_AltFilter=8950
 Airport_Elevation=2829
 Airport_Radius=3
 
-Window_APP=1,1250,150,500,250
+Window_APP=1,0,1250,150,500,250
 Window_APP_Rotation=54
 Window_APP_Scale=10
 Window_APP_Extensions=20=1
@@ -303,7 +307,7 @@ Window_APP_AltFilter=7829
 Airport_Elevation=5580
 Airport_Radius=3
 
-Window_APP=1,1700,900,750,500
+Window_APP=1,0,1700,900,750,500
 Window_APP_Rotation=75
 Window_APP_Scale=17
 Window_APP_Extensions=20=20
@@ -326,7 +330,7 @@ Airport_ModeS=1
 Airport_Elevation=229
 Airport_Radius=3
 
-Window_APP=1,1250,150,500,250
+Window_APP=1,0,1250,150,500,250
 Window_APP_Rotation=30.5
 Window_APP_Scale=10
 Window_APP_Extensions=20=1
@@ -342,7 +346,7 @@ AppPath=FAPE:FAPE 26:S033.59.03.930:E025.37.05.570:266:L:184:3.0
 Airport_Elevation=2791
 Airport_Radius=3
 
-Window_APP=1,1250,150,500,250
+Window_APP=1,0,1250,150,500,250
 Window_APP_Rotation=116.3
 Window_APP_Scale=10
 Window_APP_Extensions=20=1
@@ -352,7 +356,7 @@ Window_APP_AltFilter=7791
 Airport_Elevation=4940
 Airport_Radius=3
 
-Window_APP=1,1250,150,500,250
+Window_APP=1,0,1250,150,500,250
 Window_APP_Rotation=98
 Window_APP_Scale=10
 Window_APP_Extensions=20=1
@@ -362,7 +366,7 @@ Window_APP_AltFilter=9940
 Airport_Elevation=1092
 Airport_Radius=3
 
-Window_APP=1,1250,150,500,250
+Window_APP=1,0,1250,150,500,250
 Window_APP_Rotation=90
 Window_APP_Scale=10
 Window_APP_Extensions=20=1
@@ -372,7 +376,7 @@ Window_APP_AltFilter=5092
 Airport_Elevation=321
 Airport_Radius=3
 
-Window_APP=1,1250,150,500,250
+Window_APP=1,0,1250,150,500,250
 Window_APP_Rotation=90
 Window_APP_Scale=10
 Window_APP_Extensions=1
@@ -382,7 +386,7 @@ Window_APP_AltFilter=5173
 Airport_Elevation=3848
 Airport_Radius=3
 
-Window_APP=1,1250,150,500,250
+Window_APP=1,0,1250,150,500,250
 Window_APP_Rotation=90
 Window_APP_Scale=10
 Window_APP_Extensions=1
