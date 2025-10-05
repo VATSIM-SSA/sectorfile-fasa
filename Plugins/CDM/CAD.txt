@@ -1,0 +1,4 @@
+##----- Capacity Availability Document -----##
+##--- FAXX ---##
+FACT,30
+FAOR,53
