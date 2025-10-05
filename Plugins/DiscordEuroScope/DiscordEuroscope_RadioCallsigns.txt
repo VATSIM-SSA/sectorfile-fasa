@@ -19,7 +19,7 @@ FAGG_TWR:George Tower
 FAGM_TWR:Rand Tower
 FAHS_APP:Hoedspruit Approach
 FAHS_GND:Hoedspruit Ground
-FAHS_I_CTR:Lowveld Info
+FAMR_I_CTR:Lowveld Info
 FAHS_TWR:Hoedspruit Tower
 FAJA_CTR:Johannesburg Area North East
 FAJA_C_CTR:Johannesburg Area Central
