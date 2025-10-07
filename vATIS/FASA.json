@@ -1,8 +1,8 @@
 {
   "name": "South Africa (FASA) - AIRAC 2509",
-  "id": "d7ab3e89-c93d-4d73-b101-7c9ce26ccbb0",
+  "id": "40c3af63-91a7-4e42-8f9b-4c06818e3181",
   "updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/refs/heads/main/vATIS/FASA.json",
-  "updateSerial": 2025091401,
+  "updateSerial": 2025100701,
   "stations": [
     {
       "id": "9ebe0623-f64f-49af-928e-e0934c791eda",
@@ -1979,7 +1979,7 @@
           "id": "a367455b-56a3-4b1f-ad57-84eb64cb482c",
           "ordinal": 1,
           "name": "RWY 01",
-          "template": "",
+          "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. [ARPT_COND]. RW01. [NOTAMS] AIRCRAFT TO ROUTE TO CTV AFTER GETEN, ERDAS OR ASPIK. [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -2094,7 +2094,7 @@
         {
           "text": "INCREASED BIRD ACTIVITY",
           "ordinal": 7,
-          "enabled": true
+          "enabled": false
         }
       ]
     },
@@ -4268,8 +4268,13 @@
           "enabled": true
         },
         {
-          "text": "IMC.",
+          "text": "IMC",
           "ordinal": 2,
+          "enabled": false
+        },
+        {
+          "text": "WINDSHEAR REPORTED",
+          "ordinal": 3,
           "enabled": false
         }
       ],
@@ -4282,12 +4287,12 @@
         {
           "text": "@FAOR_GND",
           "ordinal": 2,
-          "enabled": true
+          "enabled": false
         },
         {
           "text": "@FAOR_TWR",
           "ordinal": 3,
-          "enabled": false
+          "enabled": true
         },
         {
           "text": "@FAOR_APP",
@@ -10391,6 +10396,7 @@
           "id": "8d05b8f2-113a-4854-a429-47ff931e3036",
           "name": "RWY 26",
           "airportConditions": "",
+          "notams": "",
           "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. [ARPT_COND]. RW26. [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false
@@ -14456,10 +14462,16 @@
           "id": "1a9f366e-34b7-42ea-8872-95003e27fd0d",
           "name": "RWY 06",
           "airportConditions": "",
-          "notams": "SIDS AND STARS IN USE. REPORT BAY NUMBER AND AIRCRAFT REGISTRATION ON INITIAL CONTACT.",
+          "notams": "",
           "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. [ARPT_COND]. RW06. NIL SIDS AND STARS. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         }
       ],
