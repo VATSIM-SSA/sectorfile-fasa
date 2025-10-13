@@ -5,7 +5,7 @@
 // GroundRadar Version 1.6 Beta 3
 
 // Version v0.5
-// Update Date 30/06/2022
+// Update Date 13/10/2025
 
 
 // ##################################################################
@@ -43,8 +43,8 @@ System_TagColor=2
 // ##################################################################
 
 Color_Arrival=90,191,117
-Color_Background=160,160,160
 Color_Departure=115,179,245
+Color_Background=160,160,160
 Color_RawVideo=175,190,200
 Color_RawVideoHistory=175,190,200
 Color_SelectedLabelFill_App=58,58,58
@@ -86,6 +86,7 @@ Label=GND:DEP:0:ALRT,0,0:ASSR_E,0,1:COMM,0,1
 Label=GND:DEP:1:CALLSIGN,0,0:DRWY,0,1,1 
 Label=GND:DEP:2:ATYP,0,0:WTC,0,1,0
 Label=GND:DEP:3:DEP,0,0:GS,2,1,0:RMK,0,1 
+Label=GND:DEP:3:RMK,0,0:DEP,0,1:GS,2,1,0
 
 Label=TWR:ARR:0:ALRT,0,0:COMM,0,1 
 Label=TWR:ARR:1:CALLSIGN,0,0:ARWY,0,1 
@@ -234,8 +235,8 @@ Window_APP_Scale=10
 Window_APP_Extensions=20=1
 Window_APP_AltFilter=5160
 
-AppPath=FACT:FACT 01:S033.59.15.860:E018.36.32.011:009:L:144:3.0
-AppPath=FACT:FACT 19:S033.57.35.431:E018.36.00.179:189:R:143:3.0
+AppPath=FACT:FACT 01:S033.59.15.860:E018.36.32.011:345:L:144:3.0
+AppPath=FACT:FACT 19:S033.57.35.431:E018.36.00.179:165:R:143:3.0
 
 [FAEL]
 Airport_Elevation=435
@@ -280,8 +281,8 @@ Window_APP_Scale=10
 Window_APP_Extensions=20=1
 Window_APP_AltFilter=5310
 
-AppPath=FALE:FALE 06:S029.37.30.190:E031.06.27.889:062:R:287:3.0
-AppPath=FALE:FALE 24:S029.35.54.560:E031.07.51.160:242:L:301:3.0
+AppPath=FALE:FALE 06:S029.37.30.190:E031.06.27.889:036:R:287:3.0
+AppPath=FALE:FALE 24:S029.35.54.560:E031.07.51.160:216:L:301:3.0
 
 [FAKM]
 Airport_Elevation=3950
@@ -313,12 +314,10 @@ Window_APP_Scale=17
 Window_APP_Extensions=20=20
 Window_APP_AltFilter=10580
 
-Window_APW_MaxDist=10
-
-AppPath=FAOR:FAOR 03L:S026.08.47.108:E028.14.03.631:036:R:5558:3.0:0.6:0.6
-AppPath=FAOR:FAOR 03R:S026.09.53.168:E028.14.53.221:036:R:5510:3.0:0.6:0.6
-AppPath=FAOR:FAOR 21L:S026.08.06.640:E028.15.26.200:215:L:5494:3.0:0.6:0.6
-AppPath=FAOR:FAOR 21R:S026.06.42.861:E028.14.42.089:215:L:5505:3.0:0.6:0.6
+AppPath=FAOR:FAOR 03L:S026.08.47.108:E028.14.03.631:016:R:5558:3.0:0.6:0.6
+AppPath=FAOR:FAOR 03R:S026.09.53.168:E028.14.53.221:016:R:5510:3.0:0.6:0.6
+AppPath=FAOR:FAOR 21L:S026.08.06.640:E028.15.26.200:196:L:5494:3.0:0.6:0.6
+AppPath=FAOR:FAOR 21R:S026.06.42.861:E028.14.42.089:196:L:5505:3.0:0.6:0.6
 
 List_Inbound=*,2
 Airport_SMR_Raw=1
@@ -339,8 +338,8 @@ Window_APP_AltFilter=5229
 Window_2nd=1,1000,700,600,200
 Window_2nd_Scale=1250
 
-AppPath=FAPE:FAPE 08:S033.59.37.888:E025.36.00.000:086:L:229:3.0
-AppPath=FAPE:FAPE 26:S033.59.03.930:E025.37.05.570:266:L:184:3.0
+AppPath=FAPE:FAPE 08:S033.59.37.888:E025.36.00.000:058:L:229:3.0
+AppPath=FAPE:FAPE 26:S033.59.03.930:E025.37.05.570:238:L:184:3.0
 
 [FAUP]
 Airport_Elevation=2791
