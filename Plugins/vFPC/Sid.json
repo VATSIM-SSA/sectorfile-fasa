@@ -987,6 +987,30 @@
                     "max_fl": 245,
                     "airways": ["Q12"]
                 }
+            ],
+            "IMSOM": [
+                {
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways":["UVIKU UN188 XUDAN"]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways":["UVIKU UN188 ABV"]
+                }
+            ],
+            "UVIKU": [
+                {
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways":["UQ14 UVGOD"]
+                },
+                {
+                    "direction": "EVEN",
+                    "min_fl": 245,
+                    "airways":["Q14 UVGOD"]
+                }
             ]
         }
     },
