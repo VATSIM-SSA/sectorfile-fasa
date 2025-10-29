@@ -998,6 +998,26 @@
                     "direction": "ODD",
                     "min_fl": 245,
                     "airways":["UVIKU UN188 ABV"]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways":["UVIKU UQ34 UN188 XUDAN"]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways":["UVIKU UQ34 UN188 ABV"]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways":["UVIKU Q34 UN188 XUDAN"]
+                },
+                {
+                    "direction": "ODD",
+                    "min_fl": 245,
+                    "airways":["UVIKU Q34 UN188 ABV"]
                 }
             ],
             "UVIKU": [
