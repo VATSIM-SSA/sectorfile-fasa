@@ -1011,12 +1011,12 @@
                 },
                 {
                     "direction": "ODD",
-                    "min_fl": 245,
+                    "max_fl": 245,
                     "airways":["UVIKU Q34 UN188 XUDAN"]
                 },
                 {
                     "direction": "ODD",
-                    "min_fl": 245,
+                    "max_fl": 245,
                     "airways":["UVIKU Q34 UN188 ABV"]
                 }
             ],
