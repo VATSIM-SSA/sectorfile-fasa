@@ -1002,22 +1002,22 @@
                 {
                     "direction": "ODD",
                     "min_fl": 245,
-                    "airways":["UVIKU UQ34 UN188 XUDAN"]
+                    "airways":["UQ34 UVIKU UN188 XUDAN"]
                 },
                 {
                     "direction": "ODD",
                     "min_fl": 245,
-                    "airways":["UVIKU UQ34 UN188 ABV"]
+                    "airways":["UQ34 UVIKU UN188 ABV"]
                 },
                 {
                     "direction": "ODD",
                     "max_fl": 245,
-                    "airways":["UVIKU Q34 UN188 XUDAN"]
+                    "airways":["Q34 UVIKU UN188 XUDAN"]
                 },
                 {
                     "direction": "ODD",
                     "max_fl": 245,
-                    "airways":["UVIKU Q34 UN188 ABV"]
+                    "airways":["Q34 UVIKU UN188 ABV"]
                 }
             ],
             "UVIKU": [
