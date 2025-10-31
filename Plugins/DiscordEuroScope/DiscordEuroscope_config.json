@@ -1,0 +1,78 @@
+{
+  "discord_appid": "1302649123819749438",
+  "discord_presence_large_image_key": "ssa_updated",
+  "discord_presence_small_image_key": "",
+  "buttons": [
+    {
+      "label": "Visit us!",
+      "url": "https://vatssa.com"
+    }
+  ],
+  "sweatbox_bypass": false,
+  "states": {
+    "idle": {
+      "presence_small_image_key": "",
+      "presence_large_image_key": "",
+      "state": "",
+      "details": "Getting everything started up...",
+      "presence_small_image_text": "",
+      "presence_large_image_text": "Visit us at vatssa.com"
+    },
+    "playback": {
+      "presence_small_image_key": "",
+      "presence_large_image_key": "",
+      "state": "",
+      "details": "Playbacking back files",
+      "presence_small_image_text": "",
+      "presence_large_image_text": "Visit us at vatssa.com"
+    },
+    "sweatbox": {
+      "presence_small_image_key": "",
+      "presence_large_image_key": "",
+      "state": "This is were it all begins!",
+      "details": "Currectly mentoring on Sweatbox",
+      "presence_small_image_text": "",
+      "presence_large_image_text": "Visit us at vatssa.com"
+    },
+    "direct": {
+      "presence_small_image_key": "",
+      "presence_large_image_key": "",
+      "state": "",
+      "details": "",
+      "presence_small_image_text": "",
+      "presence_large_image_text": "",
+      "if_observer": {
+        "presence_small_image_key": "",
+        "presence_large_image_key": "",
+        "state": "Aircraft in range: {total_inrange}",
+        "details": "Observing as {callsign}",
+        "presence_small_image_text": "",
+        "presence_large_image_text": "Visit us at vatssa.com"
+      },
+
+      "if_controller": {
+        "presence_small_image_key": "ssa_updated",
+        "presence_large_image_key": "ssa_tower",
+        "state": "Controlling ({current_tracked} of {total_inrange})",
+        "details": "{rcallsign} on {frequency}MHz",
+        "presence_small_image_text": "{callsign}",
+        "presence_large_image_text": "Visit us at vatssa.com"
+      },
+
+      "if_supervisor": {
+        "presence_small_image_key": "",
+        "presence_large_image_key": "",
+        "state": "",
+        "details": "Supervisoring currectly as {callsign}",
+        "presence_small_image_text": "",
+        "presence_large_image_text": ""
+      }
+    }
+  },
+  "radio_callsigns": {
+    "config": {
+      "load_from_ese": true,
+      "path_to_ese": "..\\..\\"
+    }
+  }
+}
