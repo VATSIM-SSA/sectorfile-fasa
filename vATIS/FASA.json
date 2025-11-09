@@ -1,8 +1,8 @@
 {
   "name": "South Africa (FASA) - AIRAC 2511",
-  "id": "166404e0-3437-438e-a1be-0d8727b4d80f",
+  "id": "322e0dc5-e3c5-4f21-b619-a07830965f78",
   "updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/refs/heads/main/vATIS/FASA.json",
-  "updateSerial": 2025101001,
+  "updateSerial": 2025110901,
   "stations": [
     {
       "id": "9ebe0623-f64f-49af-928e-e0934c791eda",
@@ -4056,7 +4056,7 @@
           "id": "b83420a7-0eb3-4477-bc80-dc7f6e0b634a",
           "name": "RWY 03 DUAL",
           "airportConditions": "",
-          "notams": "@FAOR_GND.",
+          "notams": "",
           "template": "@FAOR ATIS [LETTER] [OBS_TIME]. EXP SIDS AND STARS IN USE, [ARPT_COND] RW03D. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false,
@@ -4104,7 +4104,7 @@
           "id": "e5c20f3e-76a0-4e36-945f-ee9a53d31548",
           "name": "RWY 21 DUAL",
           "airportConditions": "",
-          "notams": "CDM IN TRIAL. SUBMIT TOBT AT VATS.IM/VDGS",
+          "notams": "",
           "template": "@FAOR ATIS [LETTER] [OBS_TIME]. EXP SIDS AND STARS IN USE, [ARPT_COND] RW21D. [NOTAMS] [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false,
@@ -4152,7 +4152,7 @@
       "contractions": [
         {
           "variableName": "VMC",
-          "text": "ZONE VMC.",
+          "text": "EXP ZONE VMC.",
           "voice": "EXPECT ZONE V M C"
         },
         {
@@ -4187,7 +4187,7 @@
         },
         {
           "variableName": "IMC",
-          "text": "ZONE IMC.",
+          "text": "EXP ZONE IMC.",
           "voice": "EXPECT ZONE EYE EM CEE"
         },
         {
@@ -4256,14 +4256,49 @@
           "voice": "CLEARANCE DELIVERY FREQUENCY WUN TREE TOO DAY SEE MAL WUN FIFE ZERO"
         },
         {
+          "variableName": "FASA_CTR",
+          "text": "CLEARANCE DELIVERY FREQUENCY 1 28.325",
+          "voice": "CLEARANCE DELIVERY FREQUENCY WUN TOO AIT DAY SEE MAL TREE TOO FIFE"
+        },
+        {
           "variableName": "FAOR",
           "text": "FAOR",
           "voice": "O R TAMBO INTERNATIONAL"
         },
         {
-          "variableName": "FASA_CTR",
-          "text": "CLEARANCE DELIVERY FREQUENCY 128.325",
-          "voice": "CLEARANCE DELIVERY FREQUENCY WUN TOO AIT DAY SEE MAL TREE TOO FIFE"
+          "variableName": "666",
+          "text": "RCR 6/6/6",
+          "voice": "RUNWAY CONDITION REPORT. SIX, SIX, SIX"
+        },
+        {
+          "variableName": "555",
+          "text": "RCR 5/5/5",
+          "voice": "RUNWAY CONDITION REPORT. FIVE, FIVE, FIVE"
+        },
+        {
+          "variableName": "444",
+          "text": "RCR 4/4/4",
+          "voice": "RUNWAY CONDITION REPORT. FOUR, FOUR, FOUR"
+        },
+        {
+          "variableName": "333",
+          "text": "RCR 3/3/3",
+          "voice": "RUNWAY CONDITION REPORT. THREE, THREE, THREE"
+        },
+        {
+          "variableName": "222",
+          "text": "RCR 2/2/2",
+          "voice": "RUNWAY CONDITION REPORT. TOO, TOO, TOO"
+        },
+        {
+          "variableName": "111",
+          "text": "RCR 1/1/1",
+          "voice": "RUNWAY CONDITION REPORT. WUN, WUN, WUN"
+        },
+        {
+          "variableName": "000",
+          "text": "RCR 0/0/0",
+          "voice": "RUNWAY CONDITION REPORT. ZERO, ZERO, ZERO"
         }
       ],
       "airportConditionDefinitions": [
@@ -4287,7 +4322,7 @@
         {
           "text": "@FAOR_DEL",
           "ordinal": 1,
-          "enabled": true
+          "enabled": false
         },
         {
           "text": "@FAOR_GND",
@@ -4297,7 +4332,7 @@
         {
           "text": "@FAOR_TWR",
           "ordinal": 3,
-          "enabled": false
+          "enabled": true
         },
         {
           "text": "@FAOR_APP",
@@ -4330,32 +4365,32 @@
           "enabled": false
         },
         {
-          "text": "RCR 5/5/5",
+          "text": "@555",
           "ordinal": 10,
           "enabled": false
         },
         {
-          "text": "RCR 4/4/4",
+          "text": "@444",
           "ordinal": 11,
           "enabled": false
         },
         {
-          "text": "RCR 3/3/3",
+          "text": "@333",
           "ordinal": 12,
           "enabled": false
         },
         {
-          "text": "RCR 2/2/2",
+          "text": "@222",
           "ordinal": 13,
           "enabled": false
         },
         {
-          "text": "RCR 1/1/1",
+          "text": "@111",
           "ordinal": 14,
           "enabled": false
         },
         {
-          "text": "RCR 0/0/0",
+          "text": "@000",
           "ordinal": 15,
           "enabled": false
         }
