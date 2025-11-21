@@ -2,7 +2,7 @@
 //                 VATSSA | FIR FASA | GroundRadar | Settings
 // ##################################################################
 
-// GroundRadar Version 1.6 Beta 3
+// GroundRadar Version 1.6 Beta 4
 
 // Version v0.5
 // Update Date 13/10/2025
