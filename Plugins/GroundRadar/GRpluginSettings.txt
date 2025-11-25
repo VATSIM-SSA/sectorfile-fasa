@@ -2,7 +2,7 @@
 //                 VATSSA | FIR FASA | GroundRadar | Settings
 // ##################################################################
 
-// GroundRadar Version 1.6 Beta 4
+// GroundRadar Version 1.6 Beta 3
 
 // Version v0.5
 // Update Date 13/10/2025
@@ -12,6 +12,7 @@
 //                 #1 SYSTEM SETTINGS v0.3
 // ##################################################################
 
+Maps_URL=https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/refs/heads/main/Plugins/GroundRadar/GRpluginMaps.txt
 Equip_ModeS=WZLCISG
 Equip_ProMode=0
 RawVideo=1
@@ -27,16 +28,15 @@ System_GUI_Version=1
 
 System_State_OnFreq=ON FREQ
 System_State_DeIce=STBY
-System_State_StartUp=START UP
+System_State_StartUp=S/UP
 System_State_Push=PUSH
 System_State_Taxi_In=TAXI
 System_State_Taxi_Out=TAXI
-System_State_LineUp=LINE UP
-System_State_Depa=TAKE OFF
+System_State_LineUp=L/UP
+System_State_Depa=T/O
 System_State_Parked=PARKED
 
 System_TagColor=2
-
 
 // ##################################################################
 //                 #2 COLORS v0.3
@@ -44,7 +44,6 @@ System_TagColor=2
 
 Color_Arrival=90,191,117
 Color_Departure=115,179,245
-Color_Background=160,160,160
 Color_RawVideo=175,190,200
 Color_RawVideoHistory=175,190,200
 Color_SelectedLabelFill_App=58,58,58
@@ -85,7 +84,7 @@ Label=GND:ARR:3:RMK,0,1
 Label=GND:DEP:0:ALRT,0,0:ASSR_E,0,1:COMM,0,1 
 Label=GND:DEP:1:CALLSIGN,0,0:DRWY,0,1,1 
 Label=GND:DEP:2:ATYP,0,0:WTC,0,1,0
-Label=GND:DEP:3:DEP,0,0:GS,2,1,0:RMK,0,1
+Label=GND:DEP:3:RMK,0,0:DEP,0,1:GS,2,1,0
 
 Label=TWR:ARR:0:ALRT,0,0:COMM,0,1 
 Label=TWR:ARR:1:CALLSIGN,0,0:ARWY,0,1 
