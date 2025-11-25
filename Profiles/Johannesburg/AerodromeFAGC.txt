@@ -1,6 +1,0 @@
-PROFILE
-PROFILE:FAGC_TWR:50:4
-ATIS2:"Grand Central Tower" | Runway XX in use
-ATIS3:VFR report POB, Endurance and Intentions on initial call | Charts chartfox.org/FAGC
-ATIS4:We love some feedback! Submit it at vats.im/ssa/feedback
-END
