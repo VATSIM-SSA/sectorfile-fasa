@@ -1,0 +1,18 @@
+PROFILE
+PROFILE:FAWB_TWR:50:4
+ATIS2:"Waterkloof Tower" | Runway XX in use
+ATIS3:VFR report POB, Endurance and Intentions on initial call | Charts chartfox.org/FAWK
+ATIS4:We love some feedback! Submit it at vats.im/ssa/feedback
+PROFILE:FASK_TWR:50:4
+ATIS2:"Swartkops Tower" | Runway XX in use
+ATIS3:VFR report POB, Endurance and Intentions on initial call | Charts chartfox.org/FASK
+ATIS4:We love some feedback! Submit it at vats.im/ssa/feedback
+PROFILE:FAWK_GND:20:3
+ATIS2:"Waterkloof Ground" | Runway XX in use
+ATIS3:VFR report POB, Endurance and Intentions on initial call | Charts chartfox.org/FAWK
+ATIS4:We love some feedback! Submit it at vats.im/ssa/feedback
+PROFILE:FASK_GND:20:3
+ATIS2:"Swartkops Ground" | Runway XX in use
+ATIS3:VFR report POB, Endurance and Intentions on initial call | Charts chartfox.org/FASK
+ATIS4:We love some feedback! Submit it at vats.im/ssa/feedback
+END
