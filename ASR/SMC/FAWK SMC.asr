@@ -13,34 +13,6 @@ Free Text:FAWK Taxiways\D:freetext
 Free Text:FAWK Taxiways\D:freetext
 Free Text:FAWK Taxiways\F:freetext
 Geo:FAWK Groundlayout:
-Runways:FAWK 01-19:extended centerline 1
-Runways:FAWK 01-19:extended centerline 1 left base
-Runways:FAWK 01-19:extended centerline 1 left ticks
-Runways:FAWK 01-19:extended centerline 1 left vectoring
-Runways:FAWK 01-19:extended centerline 1 right base
-Runways:FAWK 01-19:extended centerline 1 right ticks
-Runways:FAWK 01-19:extended centerline 1 right vectoring
-Runways:FAWK 01-19:extended centerline 2
-Runways:FAWK 01-19:extended centerline 2 left base
-Runways:FAWK 01-19:extended centerline 2 left ticks
-Runways:FAWK 01-19:extended centerline 2 left vectoring
-Runways:FAWK 01-19:extended centerline 2 right base
-Runways:FAWK 01-19:extended centerline 2 right ticks
-Runways:FAWK 01-19:extended centerline 2 right vectoring
-Runways:FAWK 06-24:extended centerline 1
-Runways:FAWK 06-24:extended centerline 1 left base
-Runways:FAWK 06-24:extended centerline 1 left ticks
-Runways:FAWK 06-24:extended centerline 1 left vectoring
-Runways:FAWK 06-24:extended centerline 1 right base
-Runways:FAWK 06-24:extended centerline 1 right ticks
-Runways:FAWK 06-24:extended centerline 1 right vectoring
-Runways:FAWK 06-24:extended centerline 2
-Runways:FAWK 06-24:extended centerline 2 left base
-Runways:FAWK 06-24:extended centerline 2 left ticks
-Runways:FAWK 06-24:extended centerline 2 left vectoring
-Runways:FAWK 06-24:extended centerline 2 right base
-Runways:FAWK 06-24:extended centerline 2 right ticks
-Runways:FAWK 06-24:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

@@ -20,38 +20,6 @@ Airports:FAWK:symbol
 ARTCC low boundary:FAGM-ATZ:
 ARTCC low boundary:FAOR-CTR:
 Geo:FAGM Groundlayout:
-Runways:FAGM 11-29:centerline
-Runways:FAGM 11-29:extended centerline 1
-Runways:FAGM 11-29:extended centerline 1 left base
-Runways:FAGM 11-29:extended centerline 1 left ticks
-Runways:FAGM 11-29:extended centerline 1 left vectoring
-Runways:FAGM 11-29:extended centerline 1 right base
-Runways:FAGM 11-29:extended centerline 1 right ticks
-Runways:FAGM 11-29:extended centerline 1 right vectoring
-Runways:FAGM 11-29:extended centerline 2
-Runways:FAGM 11-29:extended centerline 2 left base
-Runways:FAGM 11-29:extended centerline 2 left ticks
-Runways:FAGM 11-29:extended centerline 2 left vectoring
-Runways:FAGM 11-29:extended centerline 2 right base
-Runways:FAGM 11-29:extended centerline 2 right ticks
-Runways:FAGM 11-29:extended centerline 2 right vectoring
-Runways:FAGM 11-29:name
-Runways:FAGM 17-35:centerline
-Runways:FAGM 17-35:extended centerline 1
-Runways:FAGM 17-35:extended centerline 1 left base
-Runways:FAGM 17-35:extended centerline 1 left ticks
-Runways:FAGM 17-35:extended centerline 1 left vectoring
-Runways:FAGM 17-35:extended centerline 1 right base
-Runways:FAGM 17-35:extended centerline 1 right ticks
-Runways:FAGM 17-35:extended centerline 1 right vectoring
-Runways:FAGM 17-35:extended centerline 2
-Runways:FAGM 17-35:extended centerline 2 left base
-Runways:FAGM 17-35:extended centerline 2 left ticks
-Runways:FAGM 17-35:extended centerline 2 left vectoring
-Runways:FAGM 17-35:extended centerline 2 right base
-Runways:FAGM 17-35:extended centerline 2 right ticks
-Runways:FAGM 17-35:extended centerline 2 right vectoring
-Runways:FAGM 17-35:name
 SHOWC:1
 SHOWSB:1
 BELOW:0

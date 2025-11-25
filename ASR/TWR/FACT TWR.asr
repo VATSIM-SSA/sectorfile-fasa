@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\kalai\Documents\Sector Files\FASA 2512 Build\FASA-Package_20251030155753-251101-0002.sct
-SECTORTITLE:FASA-Package_20251030155753-251101-0002.sct
+SECTORFILE:
+SECTORTITLE:
 Runways:FACT 01-19:centerline
 Runways:FACT 16-34:centerline
 Runways:FAYP 02-20:centerline
