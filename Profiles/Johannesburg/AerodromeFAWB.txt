@@ -1,0 +1,10 @@
+PROFILE
+PROFILE:FAWB_TWR:50:4
+ATIS2:"Wonderboom Tower" | Runway XX in use
+ATIS3:VFR report POB, Endurance and Intentions on initial call | Charts chartfox.org/FAWB
+ATIS4:We love some feedback! Submit it at vats.im/ssa/feedback
+PROFILE:FAWB_GND:20:3
+ATIS2:"Wonderboom Ground" | Runway XX in use
+ATIS3:VFR report POB, Endurance and Intentions on initial call | Charts chartfox.org/FAWB
+ATIS4:We love some feedback! Submit it at vats.im/ssa/feedback
+END

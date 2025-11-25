@@ -1,0 +1,10 @@
+PROFILE
+PROFILE:FACT_APP:150:5
+ATIS2:"Cape Town Approach" | Submit TOBT @ vats.im/vdgs
+ATIS3:VFR report POB, Endurance and Intentions on initial call | Charts chartfox.org/FACT
+ATIS4:We love some feedback! Submit it at vats.im/ssa/feedback
+PROFILE:FACT_F_APP:80:5
+ATIS2:"Cape Town Director" | Turn as soon as instructed
+ATIS3:CALLSIGN ONLY ON INITIAL CALL UNLESS OTHERWISE INSTRUCTED
+ATIS4:We love some feedback! Submit it at vats.im/ssa/feedback
+END
