@@ -1,0 +1,40 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:FABB:name
+Airports:FABB:symbol
+Airports:FAGC:name
+Airports:FAGC:symbol
+Airports:FAHG:name
+Airports:FAHG:symbol
+Airports:FALA:name
+Airports:FALA:symbol
+Airports:FAOR:name
+Airports:FAOR:symbol
+Airports:FATA:name
+Airports:FATA:symbol
+Airports:FAWK:name
+Airports:FAWK:symbol
+ARTCC low boundary:FAGM-ATZ:
+ARTCC low boundary:FAOR-CTR:
+Geo:FAGM Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:8
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:359.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-26.248719:28.131466:-26.231786:28.166920
+PLUGIN:Ground Radar plugin:AirportElevation:1671
+PLUGIN:Ground Radar plugin:AirportRadius:5
+PLUGIN:Ground Radar plugin:GroundMode:FAGM
+PLUGIN:TopSky plugin:NoDraw:1
