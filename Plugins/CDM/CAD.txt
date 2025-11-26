@@ -1,10 +1,10 @@
 ##----- Capacity Availability Document -----##
 #--- South Africa [FACA & FAJA] ---#
-FABL,6
-FACT,24
-FAEL,8
-FALA,8
-FALE,12
-FAOR,30
-FAPE,8
-FAGG,7
+FAOR,53
+FACT,30
+FALE,24
+FALA,16
+FAGG,15
+FAPE,17
+FAEL,17
+FABL,12
