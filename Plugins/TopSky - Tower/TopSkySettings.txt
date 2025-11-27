@@ -10,6 +10,7 @@
 //                 #1 SYSTEM SETTINGS
 // ##################################################################
 
+Maps_URL=https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/refs/heads/main/Plugins/TopSky%20-%20Tower/TopSkyMaps.txt
 Setup_COOPANS=1
 Setup_AutoSignIn=1
 System_GUI_Scale_GlobalMenu=1
