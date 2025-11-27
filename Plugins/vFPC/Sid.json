@@ -243,14 +243,8 @@
             "EXOBI": [
                 {
                     "destinations":["FAKN"],
-                    "airways":["UT122 ESVEV UZ36 TILIR DCT PKV"],
-                    "min_fl": 245,
-                    "direction": "ODD"
-                },
-                {
-                    "destinations":["FAKN"],
-                    "airways":["T122 ESVEV Z36 TILIR DCT PKV"],
-                    "max_fl": 245,
+                    "airways":["EXOBI DCT ESVEV DCT TILIR DCT PKV"],
+                    "min_fl": 200,
                     "direction": "ODD"
                 },
                 {
@@ -278,23 +272,13 @@
                     "direction": "ODD"
                 },
                 {
-                    "airways":["UT122 ESVEV UZ36 TEVAP"],
-                    "min_fl": 245,
+                    "airways":["EXOBI DCT ESVEV DCT TEVAP"],
+                    "min_fl": 200,
                     "direction": "ODD"
                 },
                 {
-                    "airways":["T122 ESVEV UZ36 TEVAP"],
-                    "max_fl": 245,
-                    "direction": "ODD"
-                },
-                {
-                    "airways":["UT122"],
-                    "min_fl": 245,
-                    "direction": "ODD"
-                },
-                {
-                    "airways":["T122"],
-                    "max_fl": 245,
+                    "airways":["EXOBI DCT ORNAD"],
+                    "min_fl": 200,
                     "direction": "ODD"
                 }
             ],
@@ -302,14 +286,14 @@
                 {
                     "suffix":"5D",
                     "destinations":["FABL"],
-                    "airways":["HGV UZ16 NEVEN UQ9 NIDIG UZ36 BLV"],
+                    "airways":["HGV UZ16 NEVEN UQ9 NIDIG DCT BLV"],
                     "min_fl": 245,
                     "direction": "EVEN"
                 },
                 {
                     "suffix":"5D",
                     "destinations":["FABL"],
-                    "airways":["HGV Z16 NEVEN Q9 NIDIG Z36 BLV"],
+                    "airways":["HGV Z16 NEVEN Q9 NIDIG DCT BLV"],
                     "max_fl": 245,
                     "direction": "EVEN"
                 },
@@ -414,7 +398,7 @@
             ],
             "APDAK": [
                 {
-                    "airways":["APDAK UQ48 AVAVA UZ8 ETMAL DCT OKLEP UQ5 GEVIS"],
+                    "airways":["APDAK UQ48 AVAVA UZ8 RBV UQ5 GEVIS"],
                     "min_fl": 245,
                     "direction": "ODD"
                 },
@@ -422,7 +406,7 @@
                     "suffix":["1B","3A"],
                     "destinations":["FABL"],
                     "engine": "J",
-                    "airways":["APDAK NEVEN UQ9 NIDIG UZ36 BLV"],
+                    "airways":["APDAK DCT NEVEN UQ9 NIDIG DCT BLV"],
                     "min_fl": 245,
                     "direction": "EVEN"
                 },
@@ -430,7 +414,7 @@
                     "suffix":["1B","3A"],
                     "destinations":["FABL"],
                     "engine": "J",
-                    "airways":["APDAK NEVEN Q9 NIDIG Z36 BLV"],
+                    "airways":["APDAK DCT NEVEN Q9 NIDIG DCT BLV"],
                     "max_fl": 245,
                     "direction": "EVEN"
                 },               
@@ -528,25 +512,25 @@
                 },
                 {
                     "destinations":["FAVG"],
-                    "airways":["APDAK UQ7 GEROX UQ28 GETOK PMV DCT EPRIB"],
+                    "airways":["APDAK UQ7 GEROX UQ28 GETOK PMV DCT TGV"],
                     "min_fl": 245,
                     "direction": "ODD"
                 },
                 {   
                     "destinations":["FAVG"],
-                    "airways":["APDAK Q7 GEROX Q28 GETOK PMV DCT EPRIB"],
+                    "airways":["APDAK Q7 GEROX Q28 GETOK PMV DCT TGV"],
                     "max_fl": 245,
                     "direction": "ODD"
                 }
             ],
             "RAGUL": [
                 {
-                    "airways":["UZ6 AVUSA UQ11 OKTEL"],
+                    "airways":["UZ6 AVUSA DCT OKTEL"],
                     "min_fl": 245,
                     "direction": "EVEN"
                 },
                 {
-                    "airways":["Z6 AVUSA Q11 OKTEL"],
+                    "airways":["Z6 AVUSA DCT OKTEL"],
                     "max_fl": 245,
                     "direction": "EVEN"
                 },
