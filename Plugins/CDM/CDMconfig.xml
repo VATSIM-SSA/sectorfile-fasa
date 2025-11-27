@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <CDM>
-	<rate ops="15" />
-	<rateLvo ops="10" />
+	<rate ops="19" />
+	<rateLvo ops="13" />
 	<expiredCtot time="25" />
 	<realMode mode="true" />
 	<pilotTobt mode="true" />
