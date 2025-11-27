@@ -3,8 +3,6 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-ARTCC boundary:FAOR-TMA:
-ARTCC low boundary:FAWB-CTR:
 SHOWC:1
 SHOWSB:1
 BELOW:0
