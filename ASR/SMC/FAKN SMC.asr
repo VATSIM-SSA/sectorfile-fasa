@@ -3,7 +3,7 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Geo:FABL Groundlayout (New):
+Geo:FAKN Groundlayout (New):
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -15,12 +15,12 @@ HISTORY_DOTS:5
 SIMULATION_MODE:2
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0.00000
+DisplayRotation:54.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-29.107172:26.274456:-29.077520:26.337369
-PLUGIN:Ground Radar plugin:AirportElevation:4457
+WINDOWAREA:-25.390502:31.081498:-25.371718:31.120085
+PLUGIN:Ground Radar plugin:AirportElevation:2829
 PLUGIN:Ground Radar plugin:AirportRadius:3
-PLUGIN:Ground Radar plugin:GroundMode:FABL
+PLUGIN:Ground Radar plugin:GroundMode:FAKN
 PLUGIN:TopSky plugin:HideMapData:ICAO
 PLUGIN:TopSky plugin:NoDraw:1
-PLUGIN:TopSky plugin:ShowMapData:FABL
+PLUGIN:TopSky plugin:ShowMapData:FAKN
