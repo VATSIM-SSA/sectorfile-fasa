@@ -536,14 +536,14 @@
                 },
                 {
                     "destinations":["FACT"],
-                    "airways":["RAGUL Q10 CSV Z26 ERDAS"],
+                    "airways":["RAGUL Q10 DUMDO DCT ERDAS"],
                     "engine": "J",
                     "max_fl": 245,
                     "direction": "EVEN"
                 },
                 {
                     "destinations":["FACT"],
-                    "airways":["RAGUL UQ10 CSV UZ26 ERDAS"],
+                    "airways":["RAGUL UQ10 DUMDO DCT ERDAS"],
                     "engine": "J",
                     "min_fl": 245,
                     "direction": "EVEN"
@@ -572,14 +572,14 @@
                 {
                     "engine": "T",
                     "destinations":["FACT"],
-                    "airways":["GAV UTEBA Q10 CSV Z26 ERDAS"],
+                    "airways":["GAV UTEBA Q10 DUMDO DCT ERDAS"],
                     "max_fl": 245,
                     "direction": "EVEN"
                 },
                 {
                     "engine": "T",
                     "destinations":["FACT"],
-                    "airways":["GAV UTEBA UQ10 CSV UZ26 ERDAS"],
+                    "airways":["GAV UTEBA UQ10 DUMDO DCT ERDAS"],
                     "min_fl": 245,
                     "direction": "EVEN"
                 },
@@ -1233,13 +1233,13 @@
                     "destinations": ["FACT"],
                     "direction": "EVEN",
                     "min_fl": 245,
-                    "airways": ["KYV DCT EGNOM UQ10 CSV UZ26 ERDAS"]
+                    "airways": ["KYV DCT EGNOM UQ10 DUMDO DCT ERDAS"]
                 },
                 {
                     "destinations": ["FACT"],
                     "direction": "EVEN",
                     "max_fl": 245,
-                    "airways": ["KYV DCT EGNOM Q10 CSV Z26 ERDAS"]
+                    "airways": ["KYV DCT EGNOM Q10 DUMDO DCT ERDAS"]
                 },
                 {
                     "destinations": ["FALA"],
@@ -1673,13 +1673,13 @@
                     "destinations": ["FACT"],
                     "direction": "EVEN",
                     "min_fl": 245,
-                    "airways": ["UPV UQ23 CSV UZ26 ERDAS"]
+                    "airways": ["UPV UQ23 DUMDO DCT ERDAS"]
                 },
                 {
                     "destinations": ["FACT"],
                     "direction": "EVEN",
                     "max_fl": 245,
-                    "airways": ["UPV Q23 CSV Z26 ERDAS"]
+                    "airways": ["UPV Q23 DUMDO DCT ERDAS"]
                 },
                 {
                     "destinations": ["FALA"],
@@ -1756,28 +1756,28 @@
                     "engine":"J",
                     "direction": "EVEN",
                     "min_fl": 245,
-                    "airways": ["RAGUL UQ10 CSV UZ26 ERDAS"]
+                    "airways": ["RAGUL UQ10 DUMDO DCT ERDAS"]
                 },
                 {
                     "destinations": ["FACT"],
                     "engine":"J",
                     "direction": "EVEN",
                     "max_fl": 245,
-                    "airways": ["RAGUL Q10 CSV Z26 ERDAS"]
+                    "airways": ["RAGUL Q10 DUMDO DCT ERDAS"]
                 },
                 {
                     "destinations": ["FACT"],
                     "engine":"T",
                     "direction": "EVEN",
                     "min_fl": 245,
-                    "airways": ["GAV DCT UTEBA UQ10 CSV UZ26 ERDAS"]
+                    "airways": ["GAV DCT UTEBA UQ10 DUMDO DCT ERDAS"]
                 },
                 {
                     "destinations": ["FACT"],
                     "engine":"T",
                     "direction": "EVEN",
                     "max_fl": 245,
-                    "airways": ["GAV DCT UTEBA Q10 CSV Z26 ERDAS"]
+                    "airways": ["GAV DCT UTEBA Q10 DUMDO DCT ERDAS"]
                 }
             ],
             "JSV": [
@@ -1804,13 +1804,13 @@
                     "destinations": ["FACT"],
                     "direction": "EVEN",
                     "min_fl": 245,
-                    "airways": ["XAGEN UZ31 XALVA UQ23 CSV UZ26 ERDAS"]
+                    "airways": ["XAGEN UZ31 XALVA UQ23 DUMDO DCT ERDAS"]
                 },
                 {
                     "destinations": ["FAOR"],
                     "direction": "EVEN",
                     "max_fl": 245,
-                    "airways": ["XAGEN Z31 XALVA Q23 CSV Z26 ERDAS"]
+                    "airways": ["XAGEN Z31 XALVA Q23 DUMDO DCT ERDAS"]
                 },
                 {
                     "destinations": ["FAKM"],
@@ -1930,13 +1930,13 @@
                     "destinations": ["FACT"],
                     "direction": "EVEN",
                     "min_fl": 245,
-                    "airways": ["XAGEN UZ31 XALVA UQ23 CSV UZ26 ERDAS"]
+                    "airways": ["XAGEN UZ31 XALVA UQ23 DUMDO DCT ERDAS"]
                 },
                 {
                     "destinations": ["FAOR"],
                     "direction": "EVEN",
                     "max_fl": 245,
-                    "airways": ["XAGEN Z31 XALVA Q23 CSV Z26 ERDAS"]
+                    "airways": ["XAGEN Z31 XALVA Q23 DUMDO DCT ERDAS"]
                 }
             ],
             "UDMEV": [
@@ -1963,13 +1963,13 @@
                     "destinations": ["FACT"],
                     "direction": "EVEN",
                     "min_fl": 245,
-                    "airways": ["XAGEN UZ31 XALVA UQ23 CSV UZ26 ERDAS"]
+                    "airways": ["XAGEN UZ31 XALVA UQ23 DUMDO DCT ERDAS"]
                 },
                 {
                     "destinations": ["FACT"],
                     "direction": "EVEN",
                     "max_fl": 245,
-                    "airways": ["XAGEN Z31 XALVA Q23 CSV Z26 ERDAS"]
+                    "airways": ["XAGEN Z31 XALVA Q23 DUMDO DCT ERDAS"]
                 }
             ],
             "WKV": [
