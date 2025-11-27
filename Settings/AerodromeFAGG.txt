@@ -1,0 +1,6 @@
+PROFILE
+PROFILE:FAGG_TWR:50:4
+ATIS2:"George Tower" | Submit TOBT @ vats.im/vdgs
+ATIS3:VFR report POB, Endurance and Intentions on initial call | Charts chartfox.org/FAGG
+ATIS4:We love some feedback! Submit it at vats.im/ssa/feedback
+END

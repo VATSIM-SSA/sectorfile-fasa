@@ -1,0 +1,10 @@
+PROFILE
+PROFILE:FAPE_TWR:50:4
+ATIS2:"Port Elizabeth Tower" | Submit TOBT @ vats.im/vdgs
+ATIS3:VFR report POB, Endurance and Intentions on initial call | Charts chartfox.org/FAPE
+ATIS4:We love some feedback! Submit it at vats.im/ssa/feedback
+PROFILE:FAPE_DEL:20:2
+ATIS2:"Port Elizabeth Clearance Delivery" | Submit TOBT @ vats.im/vdgs
+ATIS3:VFR report POB, Endurance and Intentions on initial call | Charts chartfox.org/FAPE
+ATIS4:We love some feedback! Submit it at vats.im/ssa/feedback
+END
