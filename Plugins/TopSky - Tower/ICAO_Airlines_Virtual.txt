@@ -1,0 +1,138 @@
+AAA	Ansett - Virtual	Ansett
+ABJ	Blue Air - Virtual	Alphajet
+ACH	Air Child - Virtual	Airchild
+ACM	Flight School Academy - Virtual	Academy
+AEF	Aero Lloyd - Virtual	Aero Lloyd
+AEO	Aeolos Airlines - Virtual	Aeolos
+AFX	Airfox - Virtual	Airfox
+AGJ	Air Greece - Virtual	Air Greece
+AHN	Air Hungaria - Virtual	Air Hungaria
+ANV	Aeronav Association - Virtual	Aeronav
+ARC	Roma Airways - Virtual	Roma Airways
+ATA	Altay Cargo Airlines - Virtual	Altay Cargo
+ASE	Aegean Seagull - Virtual	Seagull
+AWG	AirWeGo - Virtual	Airwego
+AZT	Aztec Airways - Virtual	Aztec
+BAR	Fly Bar - Virtual	Bar
+BFA	Butterfly - Virtual	Butterfly
+BVX	British AvGeek - Virtual Community	Osprey
+CAG	Contrail Air - Virtual	Contrail
+CED	Cedar Airways - Virtual	Ced
+CKY	Caribsky Alliance - Virtual	Caribsky
+CSB	Cassubian - Virtual	Cassubian
+CXD	Candan Air - Virtual	Candan
+CYB	Cyber Air - Virtual	Cyber
+DBX	Air Danubius - Virtual	Danubius
+DLP	Dolphin Air - Virtual	Dolphin Air
+DSG	Skyline Group - Virtual	Skyline
+DWV	Dutchwings - Virtual	Dutchwings
+DXX	DAX - Diamond Air Express - Virtual	Diamond
+EAG	Eagle - Virtual	Eagle
+EHY	Ephesus - Virtual	Efes
+EPV	Elite Premair - Virtual	Noble Flight
+ETX	Elite Air - Virtual	Elite
+EUL	Euroline - Virtual	Euroline
+EVX	Everyair - Virtual	Everyair
+FCY	Cyberavia - Virtual	Cyberavia
+FDC	Freightdog - Virtual	Freightdog
+FEU	Flyeuro - Virtual	Flyeuro
+FFG	Federated Flight Group - Virtual	Federated Flight Group
+FFP	Primacharter - Virtual	Flyingfish
+FFR	Fisher - Virtual	Fisher
+FGY	Fly GA - Virtual	Skyway
+FNE	Flyone - Virtual	Flyred
+FPA	Fly Play Airlines - Virtual	Fly Play
+FSV	Flysweden - Virtual	Flyswede
+FYI	Fly Italy - Virtual	Fly Italy
+FYO	Flygeo - Virtual	Flygeo
+GAE	German Air Express	Express
+GAV	Go Air UK - Virtual	Goair
+GEL	Germaneagle - Virtual	German Eagle
+GEW	German Airways - Virtual	Blueflight
+GHY	German SKY - Virtual	German Sky
+GLI	Global Italia - Virtual	Global Italia
+GLW	Global Wings - Virtual	Global Wings
+GOG	Golden Ghana - Virtual	Goldbird
+GVY	Gravity - Virtual	Gravity
+HLF	Hapag-Lloyd Flug - Virtual	Hapag-Lloyd
+HNG	Hangar25 - Virtual	Hangar
+IAF	Israeli Air Force - Virtual	IAF
+IFY	Interfly - Virtual	Interfly
+IHA	Global Aid - Virtual	IHS
+IHS	International Humanitarian Air Service - Virtual	Global Aid
+IMP	Hellenic Imperial - Virtual	Imperial
+INF	Infinity Air - Virtual	Infinity
+INJ	Interjet - Virtual	Interjet
+IPV	Parmiss Airlines - Virtual	Parmiss
+IRN	Pilot of Persia - Virtual	Iranian
+IUK	Iukkiair - Virtual	Iukkiair
+JFD	Jadefly - Virtual	Jadefly
+JHI	Your Airways - Virtual	Dorpat
+JHX	Your Exclusive - Virtual	Shadow
+JSR	Jetstream Radio - Virtual	Jetstream
+JWA	Jetwave Airlines - Virtual	Jetwave
+JWB	Jetway Brazil - Virtual	Jetway
+KAS	Cactus51 - Virtual	Cactus
+KSC	Smart Express Cargo - Virtual	Smart Cargo
+KSX	Smart Express - Virtual	Smart Express
+LAZ	Balkan Bulgarian Airlines - Virtual	Balkan
+LDI	Lauda Air Italy - Virtual	Lauda Italy
+LGX	Ligurian Air - Virtual	Ligurian
+LHA	Leipzig Air - Virtual	Leipzig Air
+LRF	Air Septimanie - Virtual	Air Septimanie
+LTX	Lonestar Cargo - Virtual	Lonestar
+MAH	Malev - Virtual	Malev
+MAW	Makhado Virtual		Makhado
+MED	Meriterranea - Virtual	Mediterranea
+NFR	Nightfury - Virtual	Nightfury
+NXA	Nationair Canada - Virtual	Nation Airways
+OEO	One Engine Out Airways - Virtual	Windmill
+OHK	Oasis Hong Kong - Virtual	Oasis
+OHO	Oho Airways - Virtual	Hoyer
+PAY	Pacific Airways - Virtual	Pacific
+PLC	Poland Cargo - Virtual	Poland Cargo
+PLI	Aeroperu - Virtual	Aeroperu
+POL	Police - Virtual	Police
+PUG	Rallyeair - Virtual	Rallyair
+RAH	Rapshansa - Virtual	Rapshansa
+RGI	Regioair - Virtual	Regio
+RQX	Swiss Wings - Virtual	Swiss Wings
+RSW	Air Switzerland - Virtual	Air Switzerland
+RTC	Arctic Air - Virtual	Arcticair
+RUP	Ruhrpott Aviation - Virtual	Union
+SAB	Sabena Airlines - Virtual	Sabena
+SAL	Saladair - Virtual	Saladair
+SAV	Severnair - Virtual	Severnair
+SBZ	Skybound Airways - Virtual	Skybound
+SFR	Safair LTD  Safair
+SIM	Simulator Verein Rhein-Neckar - Virtual	Sim-Line
+SKS	Skysalad - Virtual	Skysalad
+SPE	Speedair - Virtual	Speedair
+STK	Starsky - Virtual	Starsky
+STR	Starline Airways - Virtual	Starline
+STV	Stevens Express - Virtual	Stevens
+SUR	Sur Air - Virtual	Sur
+SWH	Swissair - Virtual	Swissair
+TJV	Twinjet - Virtual	Twinjet
+TPP	Twin Piston Charters - Virtual	Irony
+TWJ	Twinjet - Virtual	Twinjet
+TYR	Tyris Air - Virtual	Tyris Air
+UAT	Ukraine Atlantic Airlines - Virtual	Ukraine Atlantic
+UGA	United Global Airways - Virtual	United Global
+UHA	Uchiha Airways - Virtual	Uchiha
+UKV	UK Virtual - Virtual	Skyways
+VAR	Virtuali Roma - Virtual	Virtuali Roma
+VBA	V-Bird - Virtual	Veebee
+VCP	Flightdeck2sim - Virtual	Alpaca
+VHR	Humanit'air - Virtual	Humanitair
+VNC	Virtual NAC - Virtual	VNC
+VTL	Vatil - Virtual	Vatil
+WAT	Walker Air Transport - Virtual	Walker
+WFX	Westfalia - Virtual	Westfalia
+WKA	Wika Airlines - Virtual	Wika
+WOH	Charterair - Virtual	Holiday
+WSK	Whisk Airways - Virtual	Whisk
+WSR	Wise Air - Virtual	Wise Air
+WWV	Worldwide - Virtual	Worldwide
+ZEA	Zonexecutive - Virtual	Exec
+ZIP	Zipair - Virtual	Zipper
