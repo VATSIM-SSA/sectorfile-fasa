@@ -552,14 +552,14 @@
                 },
                 {
                     "destinations":["FACT"],
-                    "airways":["RAGUL Q10 CSV Z26 ERDAS"],
+                    "airways":["RAGUL Q10 DUMDO DCT ERDAS"],
                     "engine": "J",
                     "max_fl": 245,
                     "direction": "EVEN"
                 },
                 {
                     "destinations":["FACT"],
-                    "airways":["RAGUL UQ10 CSV UZ26 ERDAS"],
+                    "airways":["RAGUL UQ10 DUMDO DCT ERDAS"],
                     "engine": "J",
                     "min_fl": 245,
                     "direction": "EVEN"
