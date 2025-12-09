@@ -1,0 +1,364 @@
+// ##################################################################
+//                 VATSSA | FIR FASA | TopSky | Settings
+// ##################################################################
+
+// Version v0.5
+// Update Date 05/09/2024
+
+
+// ##################################################################
+//                 #1 SYSTEM SETTINGS
+// ##################################################################
+
+Maps_URL=https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/refs/heads/main/Plugins/TopSky%20-%20Tower/TopSkyMaps.txt
+Setup_COOPANS=1
+Setup_AutoSignIn=1
+System_GUI_Scale_GlobalMenu=1
+Setup_ScreenLat=FABL
+System_GUI_Scale_Menus=1.1
+System_GUI_Scale_Screen=1.1
+System_GUI_Scale_Tracks=1
+System_GUI_Scale_Windows=1.1
+System_RawVideo=0
+System_MetarSourceVATSIM=1
+System_FPASD=1
+System_UseTSAborderHighlightColor-0
+System_UseILScat=1
+
+// ##################################################################
+//                 #2 RUNWAY APPORACH LINES
+// ##################################################################
+
+RwyAppLines_Auto=1
+RwyAppLines_Length=25
+RwyAppLines_Markers=4
+RwyAppLines_MarkerSpacing=5
+Color_Rwy_App_Line_Inuse=102,102,102
+
+
+// ##################################################################
+//                 #3 COLORS
+// ##################################################################
+/TRACK LABELS
+Color_Unconcerned=255,169,83
+Color_Concerned=157,219,139
+Color_Coordination=157,219,139
+Color_Assumed=157,219,139
+Color_Redundant=157,219,139
+Color_Warning=255,255,0
+Color_Informed=229,173,18
+Color_Informed_2=229,173,18
+Color_Informed_3=229,173,18
+Color_Flight_Highlight=30,30,30
+Color_Field_Highlight=49,49,49
+Color_CPDLC_UM_Clearance=30,250,250
+
+/MENU COLORS
+Color_Active_Text_Map=255,255,255
+/Color_Background=37,37,37
+Color_Background=70,70,70
+Color_Foreground=220,220,220
+Color_Border=50,50,50
+Color_BottomShadow=50,50,50
+Color_TopShadow=50,50,50
+/Color_Global_Menu_Highlight=72,144,231
+Color_Global_Menu_Highlight=196,122,26
+Color_Selected=72,144,231
+Color_Selected_Group=140,140,140
+Color_Text_Notes=166,166,166
+Color_Suite_Highlight=72,144,231
+Color_Heading_Vector=206,155,49
+Color_WM_Frame=255,255,255
+Color_Map_1=102,102,102
+
+/MAP COLORS
+Color_Active_Map=35,36,35
+System_UseTSAborderHighlightColor=1
+
+// ##################################################################
+//                 #4 WEATHER RADAR
+// ##################################################################
+WXR_Brightness=30
+WXR_Gain=100
+WXR_Zoom=2
+WXR_Latitude=-29
+WXR_Latitude_Max=-23
+WXR_Latitude_Min=-39
+WXR_Longitude=28
+WXR_Longitude_Max=40
+WXR_Longitude_Min=8
+WXR_ImageSize=512
+Color_Weather_Map=9,18,20
+
+// ##################################################################
+//                 #5 AIRSPACE
+// ##################################################################
+
+Airspace_C_Flag=FAOR,FACT,FALE,FABL,FAKN,FAKM
+Airspace_SIGMET_Areas=FAJA,FACA
+Airspace_ASSR_Type=2
+Airspace_ASSR_AutoAssign_Type=2
+Areas_PreActiveTime=100
+Maps_NOTAM_Activation=0
+Airspace_No_DUPE_Codes=1000,1200,2000,2200,7000,7700,7600,7500,2600
+Label_DAPs=1
+
+// ##################################################################
+//                 #6 EQUIPMENT CODES
+// ##################################################################
+
+Equip_Assume_All_SSRs_Mode_S=1
+
+// ##################################################################
+//                 #7 Areas
+// ##################################################################
+
+Areas_Label_Levels=1
+Areas_Altitude_Filtering=1
+Areas_NOTAM_Activation=1
+
+// ##################################################################
+//                 #8 AIW
+// ##################################################################
+
+AIW=1
+AIW_Type=1
+AIW_FlightRules=1
+AIW_PredictionTime=1
+AIW_Inhibit_ActiveAreas=1
+
+// ##################################################################
+//                 #9 MSAW
+// ##################################################################
+MSAW=1
+MSAW_AppInhibit=2
+MSAW_VFR=0
+MSAW_Filter=2
+MSAW_UseCFL=1
+MSAW_Buffer_IFR=400
+
+// ##################################################################
+//                 #10 MCTD & SAP PERFORMANCE
+// ##################################################################
+
+FPCP_PredictionTime=30
+FPCP_MinState=1
+FPCP_4D=1
+
+// ##################################################################
+//                 #11 DIVERGENCE
+// ##################################################################
+
+Divergence_RAM_ADEP_Radius=50
+Divergence_RAM_ADES_Radius=50
+Divergence_CLAM_MinCFL=4000
+
+// ##################################################################
+//                 #12 SAP
+// ##################################################################
+SAP=1
+SAP_AHDG=1
+SAP_RAM=1
+SAP_Risks=1
+SAP_Risks_Window=1
+SAP_Risks_Label=1
+
+// ##################################################################
+//                 #13 APW
+// ##################################################################
+
+APW=1
+APW_VFR=1
+APW_Uncorrelated=1
+APW_AlertSound=1
+APW_Filter=2
+APW_Buffer_Lat_L_IFR=1
+APW_Buffer_Lat_L_VFR=1
+APW_Buffer_Vert_U=1000
+APW_Buffer_Vert_L_IFR=500
+APW_Buffer_Vert_L_VFR=500
+APW_ConflictCount=4
+
+// ##################################################################
+//                 #14 RDF
+// ##################################################################
+
+RDF_Mode=2
+RDF_Floor=0
+Color_Standard_Line_RDF=72,144,231
+
+// ##################################################################
+//                 #15 FLIGHT PLAN LEGS
+// ##################################################################
+
+FlightLeg_Label_Time=1
+FlightLeg_Label_Point=1
+FlightLeg_Label_DIST=1
+FlightLeg_Label_SCFL=0
+FlightLeg_Label_RFL=0
+FlightLeg_AutoShow=1
+FlightLeg_AssumeTime=2
+FlightLeg_LineWidth=1
+
+// ##################################################################
+//                 #16 LABELS
+// ##################################################################
+
+Label_ADES_MaxChars=4
+Label_AHDG_Point_Label=2
+Label_AHDG_ShowExtra=0
+Label_ASP_Digits=2
+Label_CFL_DefaultValue=1
+Label_SI_ShowFreq=1
+Label_SI_FreqTime=5
+Label_AFL_Buffer=300
+Track_PSR_Filter_GS=50
+Label_DAPs=1
+Label_DAPs_Prefix=@
+Label_GS_Digits=2
+Label_WTC_Highlight_WTC=HJ
+
+// ##################################################################
+//                 #17 MENUS
+// ##################################################################
+
+Menu_MaxListItems=18
+List_Holding_MaxItems=18
+System_UseAcceptedCoordColor=1
+System_UseRwyLockedColor=1
+Color_Sid_Star_Allocation=255,255,255
+Color_Rwy_Locked=191,185,92
+Menu_DAPs=1
+
+// ##################################################################
+//                 #18 LISTS
+// ##################################################################
+
+List_Holding_Plugin=1
+List_OptionsInGlobalMenu=1
+List_Sector_Concerned=1
+List_Sector_Informed=1
+List_Sector_Redundant=1
+List_VFR_FPL_Filter=2
+
+// ##################################################################
+//                 #19 MTCD
+// ##################################################################
+
+/MTCD
+MTCD=1
+MTCD_AHDG=1
+MTCD_RAM=0
+MTCD_Risks_Label=1
+MTCD_Filter_Dep=3
+MTCD_Sep_Vert_U=500
+MTCD_Sep_Vert_L=300
+MTCD_Sep_Lat=5
+MTCD_Distance_Arr=10
+MTCD_Distance_Dep=5
+
+
+// ##################################################################
+//                 #20 SHORTCUTS
+// ##################################################################
+
+Shortcut_Master=1
+
+/Left CTRL+Q = Draw QDM line 
+Shortcut_QDM=0x51
+Shortcut_QDM_Combo=0x00A2
+
+/Left CTRL+X = Clear all QDM
+Shortcut_XQDM=0x58
+Shortcut_XQDM_Combo=0x00A2
+
+/left ALT+M = Toggles MVAs
+Shortcut_Map_Target=1,MVA\MVA
+Shortcut_Map_Xfr_Key=1,0x004D ; M
+
+/left ALT+V = Toggles VFR
+Shortcut_Map_Target=1,VFR\VFR
+Shortcut_Map_Xfr_Key=1,0x004D ; V
+
+/left ALT+N = Toggles Range Rings
+Shortcut_Map_Target=2,ENROUTE\RANGERINGS
+Shortcut_Map_Xfr_Key=2,0x004E ; N
+
+// ##################################################################
+//                 #21 STCA
+// ##################################################################
+
+STCA=1
+STCA_VFR=0
+STCA_Uncorrelated=0
+STCA_Filter=2
+STCA_AlertSound=1
+STCA_AlertSound_Filter=2
+STCA_WakeTurbulenceType=0
+
+// ##################################################################
+//                 #22 TRACK CONTROL
+// ##################################################################
+/Track Control
+Track_HistoryDots=5
+Track_HistoryDots_Max=15
+Track_TextSize_2_Ratio=0.9
+Track_PredictionLine=0
+Color_Track_Default=210,210,210
+Color_Track_Highlight=255,255,255
+Color_VAW_Track_Position=219,219,219
+Vector_AHDG_Label_Time=1
+Vector_QDM_MaxNumber=10
+Vector_QDM_Label_Dir=1
+Vector_QDM_Label_Dir2=1
+Vector_QDM_Fixes=1
+Vector_AHDG_Label_Dir=1
+
+// ##################################################################
+//                 #23 CPDLC
+// ##################################################################
+
+CPDLC_Default=1
+CPDLC_MinLevel=195
+CPDLC_PlaySound=1
+CPDLC_CFL=1
+CPDLC_DCT=1
+CPDLC_AHDG=1
+CPDLC_ASP=1
+CPDLC_Transfer=1
+
+// ##################################################################
+//                 #23 WINDOWS
+// ##################################################################
+
+Window_CPDLC_Current=1,1800,43
+Window_QNHTL=1,2230,43
+Window_CPDLC_Setting=1,1000,500
+Window_NOTAM=1,100,500
+Window_ASM=1,100,800
+Window_PDC_SetASSR=1
+Window_PDC_SetCFL=1
+
+// ##################################################################
+//                   #24 SYS COORD SOUNDS v0.1
+// ##################################################################
+
+System_Coord_Sound_ROF=1
+System_Coord_Sound_ROF_RJC=1
+System_Coord_Sound_RTI=1
+System_Coord_Sound_RTI_ACP=1
+System_Coord_Sound_RTI_RJC=1
+System_Coord_Sound_TIP=1
+System_Coord_Sound_TIP_ACP=1
+System_Coord_Sound_TIP_RJC=1
+
+// ##################################################################
+//                   #25 SID STAR HIDING
+// ##################################################################
+Airspace_Hide_SID_Names=VASUR3B,RAGUL3B,EXOBI3B,APDAK1D,EGMEN1D,LIV1C,HGV5D,GAV6C,OVALA1B,APDAK2B,EGMEN2B,EGMEN1C,GAV5B,NESAN1A,APDAK3A,EGMEN2A,OKTIG1B,TETAN1A,KODES1A,IMSOM1A,TETAN1A,TETAN1B,IMSOM1B,OKTED1B,OKTED1C,OVALA03,OVALA,BLV02,BLV20,BLV12,BLV30,TETAN01,OKTED01,KODES01,ELV06,ELV24,ELV11,ELV29,GRV11,GRV29,HSV09,HSV27,HSV18,HSV36,KYV02,KYV20,KYV10,KYV28,PKV05,PKV23,OKTAN06,ITMIL24,PMV06,PMV24,PEV08,PEV24,LTV08,LTV26,LYV05,LYV23,PMV16,PMV34,RBV05,RBV23,UMVET17,UMVET35,UPV17,UPV35,OKREV14,OKREV32,GYV05,GYV23,RAGUL17,RAGUL35,JSV17,JSV35,XAGEN07,XAGEN25,JSV07,JSV25,GAV07,GAV25,OKPAG1A,OKPAG1B,UNRAG1A,KODES19,GYV1A,GYV2B,ITMIL1C,OKTAN1A,TUBIN1A,TUBIN1B
+
+Airspace_Hide_STAR_Names=STV5B,WIV3C,NIBEX2C,AVAGO2B,AVILO1A,WIV4A,STV6A,NIBEX2A,AVAGO2A,UTONU1A,ERDAS1B,GETEN1B,ASPIK1B,XALIN1B,AXEMU1A,GABGO1A,GABGO1B,EVESI1A,IBKEL1A,IBKEL1B,APMAT1A,APMAT1B,DUNSA1A,DUNSA1B,GETOK1C,GETOK1D,ITMIL1A,ITMIL1B
+
+// ##################################################################
+//                   THE END
+// ##################################################################

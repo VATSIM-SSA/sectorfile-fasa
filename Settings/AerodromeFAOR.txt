@@ -1,0 +1,18 @@
+PROFILE
+PROFILE:FAOR_TWR:50:4
+ATIS2:"O.R. Tambo Tower" | Submit TOBT @ vats.im/vdgs
+ATIS3:VFR report POB, Endurance and Intentions on initial call | Charts chartfox.org/FAOR
+ATIS4:We love some feedback! Submit it at vats.im/ssa/feedback
+PROFILE:FAOR_E_TWR:50:4
+ATIS2:"O.R. Tambo Tower" | Submit TOBT @ vats.im/vdgs
+ATIS3:VFR report POB, Endurance and Intentions on initial call | Charts chartfox.org/FAOR
+ATIS4:We love some feedback! Submit it at vats.im/ssa/feedback
+PROFILE:FAOR_GND:20:3
+ATIS2:"O.R. Tambo Ground" | Submit TOBT @ vats.im/vdgs
+ATIS3:VFR report POB, Endurance and Intentions on initial call | Charts chartfox.org/FAOR
+ATIS4:We love some feedback! Submit it at vats.im/ssa/feedback
+PROFILE:FAOR_DEL:20:2
+ATIS2:"O.R. Tambo Clearance Delivery" | Submit TOBT @ vats.im/vdgs
+ATIS3:VFR report POB, Endurance and Intentions on initial call | Charts chartfox.org/FAOR
+ATIS4:We love some feedback! Submit it at vats.im/ssa/feedback
+END
