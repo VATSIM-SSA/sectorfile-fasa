@@ -71,6 +71,10 @@ PROFILE:FDSK_APP:150:5
 ATIS2:"Sikhuphe Approach / Tower" | PDC NOT AVAIL IN SZ
 ATIS3:VFR report POB, Endurance and Intentions on initial call | Charts chartfox.org/FDSK
 ATIS4:We love feedback! Submit it at vats.im/ssa/feedback
+PROFILE:FACA_CTR:500:6
+ATIS2:"Cape Town Area" | CPDLC Only 'FACA'
+ATIS3:Submit TOBT @ vats.im/vdgs | Check what sectors I cover at vatsim-radar.com
+ATIS4:We love feedback! Submit it at vats.im/ssa/feedback
 PROFILE:FACA_E_CTR:500:6
 ATIS2:"Cape Town Area" | CPDLC Only 'FACE'
 ATIS3:Submit TOBT @ vats.im/vdgs | Check what sectors I cover at vatsim-radar.com
