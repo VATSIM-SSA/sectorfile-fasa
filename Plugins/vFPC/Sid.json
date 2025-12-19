@@ -525,12 +525,12 @@
             ],
             "RAGUL": [
                 {
-                    "airways":["UZ6 AVUSA DCT OKTEL"],
+                    "airways":["UZ6 AVUSA UQ11 OKTEL"],
                     "min_fl": 245,
                     "direction": "EVEN"
                 },
                 {
-                    "airways":["Z6 AVUSA DCT OKTEL"],
+                    "airways":["Z6 AVUSA Q11 OKTEL"],
                     "max_fl": 245,
                     "direction": "EVEN"
                 },
