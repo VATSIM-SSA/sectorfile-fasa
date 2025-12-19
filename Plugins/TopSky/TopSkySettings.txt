@@ -76,7 +76,7 @@ Color_Active_Map=35,36,35
 System_UseTSAborderHighlightColor=1
 
 // ##################################################################
-//                 #4 WEATHER RADAR
+//                 #4 WEATHER RADAR & WIND DATA
 // ##################################################################
 WXR_Brightness=30
 WXR_Gain=100
@@ -89,6 +89,11 @@ WXR_Longitude_Max=40
 WXR_Longitude_Min=8
 WXR_ImageSize=512
 Color_Weather_Map=9,18,20
+
+HTTP_GRIB_Latitude_Max=-22
+HTTP_GRIB_Latitude_Min=-37
+HTTP_GRIB_Longitude_Max=35
+HTTP_GRIB_Longitude_Min=15
 
 // ##################################################################
 //                 #5 AIRSPACE
