@@ -184,7 +184,7 @@ exclude = [
     "FAJA_E*",
     "FAJA_C*",
     "FAJA_S_*",
-    "FAJA_IS**",
+    "FAJA_IS*",
 ]
 priority = [
     "*_FMP",
