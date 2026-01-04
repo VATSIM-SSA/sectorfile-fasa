@@ -452,7 +452,7 @@ grouping = "None"
 
 [stations.profiles.FAPE]
 include = [
-    "FAEL*",
+    "FAPE*",
     "FACA_*",
     "FASA_*",
     "*_FMP",
