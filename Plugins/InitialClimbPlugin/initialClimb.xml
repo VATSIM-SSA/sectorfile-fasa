@@ -39,12 +39,9 @@
 	<apt icao="FAOR">
 		<runway name="03L">
 			<sid name="APDAK">
-				<alt>090</alt>
+				<alt>110</alt>
 			</sid>
 			<sid name="EGMEN">
-				<alt>090</alt>
-			</sid>
-			<sid name="EGMEN1C">
 				<alt>090</alt>
 			</sid>
 			<sid name="EXOBI">
@@ -70,11 +67,8 @@
 			<sid name="APDAK">
 				<alt>080</alt>
 			</sid>
-			<sid name="EGMEN1D">
+			<sid name="EGMEN">
 				<alt>090</alt>
-			</sid>
-			<sid name="EGMEN2B">
-				<alt>080</alt>
 			</sid>
 			<sid name="GAV">
 				<alt>080</alt>
@@ -85,7 +79,7 @@
 			<sid name="HGV">
 				<alt>080</alt>
 			</sid>
-			<sid name="LIV1C">
+			<sid name="LIV">
 				<alt>080</alt>
 			</sid>
 			<sid name="OVALA">
@@ -95,9 +89,6 @@
 				<alt>080</alt>
 			</sid>
 			<sid name="VASUR">
-				<alt>080</alt>
-			</sid>
-			<sid name="">
 				<alt>080</alt>
 			</sid>
 			<sid name="NESAN">
