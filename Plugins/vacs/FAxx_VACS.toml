@@ -1,0 +1,518 @@
+[stations]
+selected_profile = "-FASA-Generic"
+
+[stations.profiles.-FASA-Generic]
+include = [
+    "FA*",
+    "FAJA_*",
+    "FACA_*",
+    "FASA_*",
+    "FAJO_*",
+    "*_FMP",
+]
+exclude = []
+priority = [
+    "*_FMP",
+    "*_CTR",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL",
+]
+frequencies = "HideAliased"
+grouping = "None"
+
+[stations.profiles.-FASA-Generic.aliases]
+
+[stations.profiles.FAJA-ACC]
+include = [
+    "FAJA_*",
+    "FASA_*",
+
+    "FACA_*",
+
+    "FBGR_*",
+    "FVHF_*",
+    "FYWF_*",
+    "FQBE_*",
+    "FQMA_*",
+    "FAJO_*",
+
+    "FAOR_*",
+    "FALA_*",
+    "FALE_*",
+    "FABL_*",
+    "FAKM_*",
+    "FAKN_*",
+    "FAPP_*",
+    "FAPM_*",
+    "FARB_*",
+    "FAWB_*",
+    "FAUP_*",
+    "FAGM_*",
+    "FAVG_*",
+
+    "*_FMP",
+]
+exclude = []
+priority = [
+    "*_FMP",
+    "*_CTR",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL",
+]
+frequencies = "HideAliased"
+grouping = "None"
+
+[stations.profiles.FAJA-ACC.aliases]
+
+"128.325" = "FASA"
+
+"134.400" = "FAJA NE"
+"126.700" = "FAJA NW"
+"128.300" = "FAJA SW"
+"132.150" = "FAJA SE"
+"120.300" = "FAJA CEN"
+"129.100" = "FAJA EAST"
+"118.550" = "FAJA WEST"
+"118.500" = "FAJA W1"
+
+"125.100" = "FACA"
+"124.700" = "FACA EAST"
+
+"124.500" = "JNB RDR"
+"123.700" = "JNB RDR W"
+"121.400" = "JNB FIN"
+"118.100" = "OR AIR W"
+"118.600" = "OR AIR E"
+
+"124.000" = "LA AIR"
+"118.450" = "LE AIR"
+"124.300" = "BL APP"
+"120.800" = "BL AIR"
+"119.400" = "KM APP"
+"118.200" = "KM AIR"
+"119.200" = "KN APP"
+"119.750" = "PP AIR"
+"122.000" = "PM AIR"
+"118.900" = "RB AIR"
+"118.350" = "WB AIR"
+"121.300" = "UP AIR"
+"118.700" = "GM AIR"
+"120.600" = "VG AIR"
+
+[stations.profiles.FACA-ACC]
+include = [
+    "FACA_*",
+    "FASA_*",
+
+    "FAJA_*",
+
+    "FAJO_*",
+
+    "FACT_*",
+    "FAGG_*",
+    "FAPE_*",
+    "FAEL_*",
+    "FAUT_*",
+
+    "*_FMP",
+]
+exclude = [
+    "FAJA_N_*",
+    "FAJA_NE_*",
+    "FAJA_NW_*",
+    "FAJA_SW_*",
+    "FAJA_SE_*",
+    "FAJA_IN_*",
+]
+priority = [
+    "*_FMP",
+    "*_CTR",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL",
+]
+frequencies = "HideAliased"
+grouping = "None"
+
+[stations.profiles.FACA-ACC.aliases]
+
+"128.325" = "FASA"
+
+"125.100" = "FACA"
+"124.700" = "FACA EAST"
+
+"134.400" = "FAJA"
+"120.300" = "FAJA CEN"
+"129.100" = "FAJA EAST"
+"118.550" = "FAJA WEST"
+"118.500" = "FAJA W1"
+
+"119.700" = "CT APP"
+"124.350" = "CT FIN"
+"118.100" = "CT AIR"
+
+"128.200" = "GG APP"
+"118.900" = "GG AIR"
+
+"120.400" = "PE APP"
+
+"120.100" = "EL APP"
+"118.300" = "EL AIR"
+
+"121.300" = "UT AIR"
+
+[stations.profiles.FAOR-Radar]
+include = [
+    "FAOR*",
+    "FAJA_*",
+    "FASA_*",
+    "FAGM*",
+    "FAGC*",
+    "FALA*",
+    "FAWK*",
+    "FASK*",
+    "FAWB*",
+    "*_FMP",
+]
+exclude = [
+    "FAJA_W*",
+    "FAJA_E*",
+    "FAJA_C*",
+    "FAJA_S_*",
+    "FAJA_IS*",
+]
+priority = [
+    "*_FMP",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL",
+    "*_CTR",
+]
+frequencies = "HideAliased"
+grouping = "None"
+
+[stations.profiles.FAOR-Radar.aliases]
+
+"128.325" = "FASA"
+"134.400" = "FAJA NE"
+"126.700" = "FAJA NW"
+"128.300" = "FAJA SW"
+"132.150" = "FAJA SE"
+"124.500" = "RDR"
+"123.700" = "RDR W"
+"121.400" = "FIN"
+"118.100" = "OR AIR W"
+"118.600" = "OR AIR E"
+"121.900" = "OR SMC"
+"121.700" = "OR DEL"
+
+"118.700" = "GM AIR"
+"122.850" = "GC AIR"
+"124.000" = "LA AIR"
+"121.650" = "LA SMC"
+"124.100" = "WK AIR"
+"121.850" = "WK SMC"
+"123.200" = "SK AIR"
+"118.350" = "WB AIR"
+"120.600" = "WB SMC"
+
+[stations.profiles.FAOR]
+include = [
+    "FAOR*",
+    "FAJA_*",
+    "FASA_*",
+    "FAGM*",
+    "*_FMP",
+]
+exclude = [
+    "FAJA_W*",
+    "FAJA_E*",
+    "FAJA_C*",
+    "FAJA_S_*",
+    "FAJA_IS_*",
+]
+priority = [
+    "*_FMP",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL",
+    "*_CTR",
+]
+frequencies = "HideAliased"
+grouping = "None"
+
+[stations.profiles.FAOR.aliases]
+
+"128.325" = "FASA"
+"134.400" = "FAJA NE"
+"126.700" = "FAJA NW"
+"128.300" = "FAJA SW"
+"132.150" = "FAJA SE"
+"124.500" = "RDR"
+"123.700" = "RDR W"
+"121.400" = "FIN"
+"118.100" = "AIR W"
+"118.600" = "AIR E"
+"121.900" = "SMC"
+"121.700" = "DEL"
+
+"118.700" = "GM AIR"
+
+[stations.profiles.FACT]
+include = [
+    "FACT*",
+    "FACA_*",
+    "FASA_*",
+    "FAYP*",
+    "*_FMP",
+]
+exclude = [
+    "FACA_W_*",
+]
+priority = [
+    "*_FMP",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL",
+    "*_CTR",
+]
+frequencies = "HideAliased"
+grouping = "None"
+
+[stations.profiles.FACT.aliases]
+
+"128.325" = "FASA"
+"125.100" = "FACA"
+"119.700" = "APP"
+"124.350" = "FIN"
+"118.100" = "AIR"
+"121.900" = "SMC"
+"122.100" = "DEL"
+
+[stations.profiles.FALA]
+include = [
+    "FALA*",
+    "FAOR*_APP",
+    "FAJA_*",
+    "FASA_*",
+    "*_FMP",
+]
+exclude = [
+    "FAJA_W*",
+    "FAJA_E*",
+    "FAJA_C*",
+    "FAJA_S*",
+    "FAJA_IS_*",
+    "FAOR_F*",
+]
+priority = [
+    "*_FMP",
+    "FAOR_W_*",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL",
+    "*_CTR",
+]
+frequencies = "HideAliased"
+grouping = "None"
+
+[stations.profiles.FALA.aliases]
+
+"128.325" = "FASA"
+"134.400" = "FAJA NE"
+"126.700" = "FAJA NW"
+"128.300" = "FAJA SW"
+"132.150" = "FAJA SE"
+"124.500" = "RDR"
+"123.700" = "RDR W"
+"124.000" = "AIR"
+"121.650" = "SMC"
+
+[stations.profiles.FAGG]
+include = [
+    "FAGG*",
+    "FACA_*",
+    "FASA_*",
+    "*_FMP",
+]
+exclude = []
+priority = [
+    "*_FMP",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL",
+    "FACA_W*",
+    "*_CTR",
+]
+frequencies = "HideAliased"
+grouping = "None"
+
+[stations.profiles.FAGG.aliases]
+
+"128.325" = "FASA"
+"125.100" = "FACA"
+"124.700" = "FACA W"
+"128.200" = "APP"
+"118.900" = "AIR"
+
+[stations.profiles.FALE]
+include = [
+    "FALE*",
+    "FAJA_*",
+    "FASA_*",
+    "*_FMP",
+]
+exclude = [
+    "FAJA_W*",
+    "FAJA_N_*",
+    "FAJA_NE*",
+    "FAJA_NW*",
+    "FAJA_SW*",
+    "FAJA_SE*",
+    "FAJA_IN_*",
+    "FAJA_C*",
+]
+priority = [
+    "*_FMP",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL",
+    "FAJA_E*",
+    "*_CTR",
+]
+frequencies = "HideAliased"
+grouping = "None"
+
+[stations.profiles.FALE.aliases]
+
+"128.325" = "FASA"
+"134.400" = "FAJA"
+"129.100" = "FAJA EAST"
+"120.300" = "FAJA SOUTH"
+"125.750" = "APP"
+"118.450" = "AIR"
+"121.650" = "SMC"
+
+[stations.profiles.FALE-Approach]
+include = [
+    "FALE*",
+    "FAJA_*",
+    "FASA_*",
+    "FAVG*",
+    "FARB*",
+    "FAPM*",
+    "*_FMP",
+]
+exclude = [
+    "FAJA_W*",
+    "FAJA_N_*",
+    "FAJA_NE*",
+    "FAJA_NW*",
+    "FAJA_SW*",
+    "FAJA_SE*",
+    "FAJA_IN_*",
+    "FAJA_C*",
+]
+priority = [
+    "*_FMP",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL",
+    "FAJA_E*",
+    "*_CTR",
+]
+frequencies = "HideAliased"
+grouping = "None"
+
+[stations.profiles.FALE-Approach.aliases]
+
+"128.325" = "FASA"
+"134.400" = "FAJA"
+"129.100" = "FAJA EAST"
+"120.300" = "FAJA SOUTH"
+"125.750" = "DUR APP"
+"118.450" = "LE AIR"
+"121.650" = "LE SMC"
+
+"120.600" = "VG AIR"
+"118.900" = "RB AIR"
+"122.000" = "PM AIR"
+
+[stations.profiles.FAPE]
+include = [
+    "FAPE*",
+    "FACA_*",
+    "FASA_*",
+    "*_FMP",
+]
+exclude = []
+priority = [
+    "*_FMP",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL",
+    "FACA_W*",
+    "*_CTR",
+]
+frequencies = "HideAliased"
+grouping = "None"
+
+[stations.profiles.FAPE.aliases]
+
+"128.325" = "FASA"
+"125.100" = "FACA"
+"124.700" = "FACA W"
+"120.400" = "APP"
+"122.100" = "DEL"
+
+[stations.profiles.FABL]
+include = [
+    "FABL*",
+    "FAJA_*",
+    "FASA_*",
+    "*_FMP",
+]
+exclude = [
+    "FAJA_W*",
+    "FAJA_N_*",
+    "FAJA_NE*",
+    "FAJA_NW*",
+    "FAJA_SW*",
+    "FAJA_SE*",
+    "FAJA_IN_*",
+    "FAJA_E*",
+]
+priority = [
+    "*_FMP",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL",
+    "FAJA_C*",
+    "FAJA_S_*",
+    "*_CTR",
+]
+frequencies = "HideAliased"
+grouping = "None"
+
+[stations.profiles.FABL.aliases]
+
+"128.325" = "FASA"
+"134.400" = "FAJA"
+"125.100" = "FAJA CEN"
+"120.300" = "FAJA SOUTH"
+"124.300" = "APP"
+"120.800" = "AIR"
