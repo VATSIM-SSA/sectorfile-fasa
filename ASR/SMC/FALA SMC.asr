@@ -1,8 +1,9 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:Z:\home\cake\code\vatssa\sct\FASA\FASA-Package_20251201205633-251201-0008.sct
+SECTORTITLE:FASA-Package_20251201205633-251201-0008.sct
+Regions:FALA Ground Layout:polygon
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -16,7 +17,7 @@ DISABLEPANNING:1
 DISABLEZOOMING:1
 DisplayRotation:43.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-25.951983:27.902994:-25.925391:27.951226
+WINDOWAREA:-25.951983:27.899808:-25.925391:27.954412
 PLUGIN:Ground Radar plugin:AirportElevation:4521
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:FALA
