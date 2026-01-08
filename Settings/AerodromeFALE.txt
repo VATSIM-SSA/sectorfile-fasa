@@ -1,0 +1,10 @@
+PROFILE
+PROFILE:FALE_TWR:50:4
+ATIS2:"King Shaka Tower" | Submit TOBT @ vats.im/vdgs
+ATIS3:VFR report POB, Endurance and Intentions on initial call | Charts chartfox.org/FALE
+ATIS4:We love some feedback! Submit it at vats.im/ssa/feedback
+PROFILE:FALE_GND:20:3
+ATIS2:"King Shaka Ground" | Submit TOBT @ vats.im/vdgs
+ATIS3:VFR report POB, Endurance and Intentions on initial call | Charts chartfox.org/FALE
+ATIS4:We love some feedback! Submit it at vats.im/ssa/feedback
+END
