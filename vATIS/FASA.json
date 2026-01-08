@@ -20617,6 +20617,7 @@
         {
           "id": "e5d96f24-c66c-40fd-bd1e-a2fd7938ea68",
           "name": "RWY 36",
+          "notams": "",
           "airportConditions": "",
           "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. [ARPT_COND]. RW36. [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
