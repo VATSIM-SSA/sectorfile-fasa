@@ -8414,6 +8414,7 @@
           "id": "c2f3a43f-31a7-47f5-b534-b4fde3022609",
           "name": "RWY 11",
           "airportConditions": "",
+          "notams": "",
           "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. [ARPT_COND]. RW11. [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false
