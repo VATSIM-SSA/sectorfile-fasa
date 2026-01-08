@@ -18603,6 +18603,7 @@
           "id": "1481ed89-d287-4e4f-a6c1-a197a3a144dc",
           "name": "RWY 19",
           "airportConditions": "",
+          "notams": "",
           "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. [ARPT_COND]. RW19. [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false
