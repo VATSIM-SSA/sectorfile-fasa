@@ -1,8 +1,8 @@
 {
-  "name": "South Africa (FASA) - AIRAC 2601",
+  "name": "FASA - South Africa (2601)",
   "id": "f70fe8c8-7a68-4c20-b586-29c8e116a410",
   "updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/refs/heads/main/vATIS/FASA.json",
-  "updateSerial": 2026010601,
+  "updateSerial": 2026010801,
   "stations": [
     {
       "id": "9ebe0623-f64f-49af-928e-e0934c791eda",
@@ -1979,6 +1979,8 @@
           "id": "a367455b-56a3-4b1f-ad57-84eb64cb482c",
           "ordinal": 1,
           "name": "RWY 01",
+          "airportConditions": "",
+          "notams": "",
           "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. [ARPT_COND]. RW01. [NOTAMS] AIRCRAFT TO ROUTE TO CTV AFTER GETEN, ERDAS OR ASPIK. [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false,
@@ -8414,7 +8416,6 @@
           "id": "c2f3a43f-31a7-47f5-b534-b4fde3022609",
           "name": "RWY 11",
           "airportConditions": "",
-          "notams": "",
           "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. [ARPT_COND]. RW11. [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false
@@ -8472,12 +8473,12 @@
         {
           "text": "VMC",
           "ordinal": 1,
-          "enabled": false
+          "enabled": true
         },
         {
           "text": "IMC.",
           "ordinal": 2,
-          "enabled": true
+          "enabled": false
         }
       ],
       "notamDefinitions": []
@@ -18603,7 +18604,6 @@
           "id": "1481ed89-d287-4e4f-a6c1-a197a3a144dc",
           "name": "RWY 19",
           "airportConditions": "",
-          "notams": "",
           "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. [ARPT_COND]. RW19. [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false
@@ -20618,7 +20618,6 @@
         {
           "id": "e5d96f24-c66c-40fd-bd1e-a2fd7938ea68",
           "name": "RWY 36",
-          "notams": "",
           "airportConditions": "",
           "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. [ARPT_COND]. RW36. [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
