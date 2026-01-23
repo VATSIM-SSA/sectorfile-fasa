@@ -1964,7 +1964,7 @@
           "name": "RWY 19",
           "airportConditions": "",
           "notams": "",
-          "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. [ARPT_COND]. RW19. [NOTAMS] FACT STARS SUSPENDED, AIRCRAFT TO ROUTE TO CTV AFTER GETEN, ERDAS OR ASPIK. [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
+          "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. [ARPT_COND]. RW19. [NOTAMS]. [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -1981,7 +1981,7 @@
           "name": "RWY 01",
           "airportConditions": "",
           "notams": "",
-          "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. [ARPT_COND]. RW01. [NOTAMS] AIRCRAFT TO ROUTE TO CTV AFTER GETEN, ERDAS OR ASPIK. [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
+          "template": "[FACILITY] ATIS [LETTER] [OBS_TIME]. [ARPT_COND]. RW01. [NOTAMS]. [TL]. [WIND]. [VIS] [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. [TREND]. CONFIRM ATIS [LETTER]",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
