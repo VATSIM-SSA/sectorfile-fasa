@@ -7,7 +7,7 @@
 	<pilotTobt mode="true" />
 	<autoAtot mode="true" />
 	<invalidateAtTsat mode="true" />
-	<invalidateAtTobt mode="false">
+	<invalidateAtTobt mode="false" />
 	<Rates url="https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/refs/heads/main/Plugins/CDM/rate.txt" />
 	<Taxizones url="https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/refs/heads/main/Plugins/CDM/taxizones.txt" />
 	<Ctot url="https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/refs/heads/main/Plugins/CDM/CTOT.txt" />
