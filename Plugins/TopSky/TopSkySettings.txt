@@ -280,10 +280,6 @@ Shortcut_Map_Xfr_Key=2,0x4E ; N
 Shortcut_Map_Target=3,NAVAIDS\VRP
 Shortcut_Map_Xfr_Key=3,0x56 ; V
 
-/left ALT+F = Toggles RNAV Fixes
-Shortcut_Map_Target=4,NAVAIDS\VRP
-Shortcut_Map_Xfr_Key=4,0x46 ; F
-
 // ##################################################################
 //                 #21 STCA
 // ##################################################################
