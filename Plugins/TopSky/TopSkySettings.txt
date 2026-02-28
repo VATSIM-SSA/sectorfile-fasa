@@ -266,19 +266,17 @@ MTCD_Distance_Dep=5
 //                 #20 SHORTCUTS
 // ##################################################################
 
-Shortcut_Master=1
-
-/Left CTRL+X = Clear all QDM
-Shortcut_XQDM=0x58
-Shortcut_XQDM_Combo=0x00A2
-
 /left ALT+M = Toggles MVAs
 Shortcut_Map_Target=1,MVA\MVA
-Shortcut_Map_Xfr_Key=1,0x004D ; M
+Shortcut_Map_Xfr_Key=1,0x4D ; M
 
 /left ALT+N = Toggles Range Rings
 Shortcut_Map_Target=2,ENROUTE\RANGERINGS
-Shortcut_Map_Xfr_Key=2,0x004E ; N
+Shortcut_Map_Xfr_Key=2,0x4E ; N
+
+/left ALT+V = Toggles VRPs
+Shortcut_Map_Target=3,NAVAIDS\VRP
+Shortcut_Map_Xfr_Key=3,0x56 ; V
 
 // ##################################################################
 //                 #21 STCA
