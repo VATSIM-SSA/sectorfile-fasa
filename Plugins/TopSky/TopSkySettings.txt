@@ -337,8 +337,8 @@ CPDLC_ASP=1
 // ##################################################################
 
 Window_CPDLC_Current=1,1800,43
-Window_QNHTL=1,2230,43
 Window_CPDLC_Setting=1,1000,500
+Window_QNHTL=1,2230,43
 Window_NOTAM=1,100,500
 Window_ASM=1,100,800
 Window_PDC_SetASSR=1
