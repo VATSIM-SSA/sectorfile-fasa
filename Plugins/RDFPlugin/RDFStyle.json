@@ -1,6 +1,6 @@
 {
   "FASA": {
-    "Radius": 20,
+    "Radius": 50,
     "Precision": 5,
     "Threshold": 999999,
     "LowAltitude": 0,
