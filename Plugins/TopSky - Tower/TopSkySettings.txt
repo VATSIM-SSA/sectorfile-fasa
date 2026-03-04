@@ -359,7 +359,7 @@ System_Coord_Sound_TIP=1
 System_Coord_Sound_TIP_ACP=1
 System_Coord_Sound_TIP_RJC=1
 
-Window_UpperWinds=1,2316,262
+Window_UpperWinds=0,2316,262
 
 // ##################################################################
 //                   #25 SID STAR HIDING
