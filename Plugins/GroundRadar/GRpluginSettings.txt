@@ -61,7 +61,6 @@ Color_APP_RunwayExtension=160,160,160
 AppLabel_Font=EuroScope
 AppLabel_Transparency_Bg=255
 
-
 // ##################################################################
 //                 #3 LABELS v0.4
 // ##################################################################
@@ -71,48 +70,60 @@ GroundLabel_Font=EuroScope
 GroundLabel_FontStyle=1000,0,0,0
 GroundLabel_FontSize=11
 GroundLabel_Transparency_Bg=100
-GroundLabel_Filter_NoState=0
-GroundLabel_Filter_Squawk_Error=1
 TowerLabel_FontSize=11
 AppLabel_FontSize=11
 
+GroundLabel_Filter_Stby=0
+GroundLabel_Filter_Squawk_Error=1
+GroundLabel_Filter_NoState=1
+GroundLabel_Filter_OnFreq=0
+GroundLabel_Filter_Parked=1
+
 Label=GND:ARR:0:ALRT,0,0:COMM,0,1 
 Label=GND:ARR:1:CALLSIGN,0,0:STAND,0,1 
-Label=GND:ARR:2:ATYP,0,0:WTC,0,1,0
-Label=GND:ARR:3:RMK,0,1 
+Label=GND:ARR:2:ATYP,0,0
+Label=GND:ARR:3:RMK,0,0:GS,0,1
 
 Label=GND:DEP:0:ALRT,0,0:ASSR_E,0,1:COMM,0,1 
-Label=GND:DEP:1:CALLSIGN,0,0:DRWY,0,1,1 
-Label=GND:DEP:2:ATYP,0,0:WTC,0,1,0
-Label=GND:DEP:3:RMK,0,0:DEP,0,1:GS,2,1,0
-
-Label=TWR:ARR:0:ALRT,0,0:COMM,0,1 
-Label=TWR:ARR:1:CALLSIGN,0,0:ARWY,0,1 
-Label=TWR:ARR:2:AFL+VS,0,1,20:GS,0,1
-Label=TWR:ARR:3:ATYP,0,0:RMK,0,1 
-
-Label=TWR:DEP:0:ALRT,0,0:COMM,0,1 
-Label=TWR:DEP:1:CALLSIGN,0,0:ATYP,0,1
-Label=TWR:DEP:2:AFL+VS,0,1,20:GS,0,1
-Label=TWR:DEP:3:DEP,0,0:RMK,0,1
+Label=GND:DEP:1:CALLSIGN,0,0
+Label=GND:DEP:2:ATYP,0,0
+Label=GND:DEP:3:RMK,0,0
 
 Label=APP:ARR:0:ALRT,0,0:COMM,0,1
 Label=APP:ARR:1:CALLSIGN,0,0
-Label=APP:ARR:2:AFL+VS,0,1,20
+Label=APP:ARR:2:AFL+VS,0,1,20:CFL,0,1,10000:GS,0,2,1
+Label=APP:ARR:3:ARWY,0,1
 
 Label=APP:DEP:0:ALRT,0,0:COMM,0,1
 Label=APP:DEP:1:CALLSIGN,0,0
-Label=APP:DEP:2:AFL+VS,0,1,20
+Label=APP:DEP:2:AFL+VS,0,1,20:CFL,0,1,10000:GS,0,2,1
+Label=APP:DEP:3:ARWY,0,1
 
-Label_AFL+VS=1,1,1,1
-Label_ARWY=0,0,0
-Label_ATYP=0,0,0
-Label_DEP=0,1,0
-Label_DRWY=0,1,0
-Label_RMK=0,1,1
-Label_STAND=0,1,0
-Label_GS=0,1,1,0
+Label=APW:ARR:0:ALRT,0,0:COMM,0,1
+Label=APW:ARR:1:CALLSIGN,0,0
+Label=APW:ARR:2:AFL+VS,0,1,20:CFL,0,1,10000:GS,0,2,1
+Label=APW:ARR:3:ARWY,0,1
 
+Label=APW:DEP:0:ALRT,0,0:COMM,0,1
+Label=APW:DEP:1:CALLSIGN,0,0
+Label=APW:DEP:2:AFL+VS,0,1,20:CFL,0,1,10000:GS,0,2,1
+Label=APW:DEP:3:ARWY,0,1
+
+Label=TWR:ARR:0:ALRT,0,0:COMM,0,1
+Label=TWR:ARR:1:CALLSIGN,0,0
+Label=TWR:ARR:2:AFL,0,0,20:VS,0,1,1:CFL,0,1,10000:GS,0,2,1
+Label=TWR:ARR:3:ARWY,0,1
+
+Label=TWR:DEP:0:ALRT,0,0:COMM,0,1
+Label=TWR:DEP:1:CALLSIGN,0,0
+Label=TWR:DEP:2:AFL,0,0,20:VS,0,1,1:CFL,0,1,10000:GS,0,2,1
+Label=TWR:DEP:3:ARWY,0,1
+
+Label_AFL+VS=1,0,1,1
+Label_CFL=1,0,1,1
+Label_GS=1,0,1,1
+Label_ARWY=1,1,1,1
+Label_ATYP=1,1,1,1
 
 // ##################################################################
 //                 #6A LISTS | DEPARTURE v0.1
@@ -125,8 +136,6 @@ List_Departure_WTC=1
 List_Departure_EOBT=1
 List_Departure_STAND=1
 List_Departure_Items=10
-
-
 
 // ##################################################################
 //                 #6B LISTS | ARRIVALS v0.1
@@ -146,14 +155,12 @@ List_Inbound_WTC=0
 List_Inbound_ETA=1
 List_Inbound_STAND=0
 
-
 // ##################################################################
 //                 #6C LISTS | STANDS v0.1
 // ##################################################################
 
 List_Stand=0,1680,45
 List_Stand_Items=20
-
 
 // ##################################################################
 //                 #7A TIMERS | DEPARTURE v0.1
@@ -166,7 +173,6 @@ List_Outbound_WTC_Type=2
 List_Outbound_SID=1
 List_Outbound_ExpiryTime=600
 
-
 // ##################################################################
 //                 #7B TIMERS | TTT v0.1
 // ##################################################################
@@ -178,7 +184,6 @@ List_Inbound_WTC=1
 List_Inbound_WTC_Type=2
 List_Inbound_ETA=1
 List_Inbound_STAND=1
-
 
 // ##################################################################
 //                 #8 OTHERS v0.1
@@ -195,7 +200,7 @@ System_RwyBufferArea=90.0
 System_RwyArea_LVP=90.0
 System_RwyBufferArea_LVP=140.0
 
-Track_PredictionLine_APP=2
+Track_PredictionLine_APP=0
 Track_HistoryDots_APP=5
 Track_HistoryDots_GND=0
 Track_HistoryDots_TWR_Type=1
