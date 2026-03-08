@@ -87,7 +87,7 @@ WXR_Longitude=28
 WXR_Longitude_Max=40
 WXR_Longitude_Min=8
 WXR_ImageSize=512
-Color_Weather_Map=9,18,20
+Color_Weather_Map=86,150,238
 
 HTTP_GRIB_Latitude_Max=-22
 HTTP_GRIB_Latitude_Min=-37
