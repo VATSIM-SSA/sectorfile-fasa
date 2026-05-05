@@ -74,7 +74,7 @@ jobs:
 
             gh issue list \
               --state open \
-              --label dependencies \
+              --label enhancement \
               --search "\"$repo\" \"$tag\"" \
               --json number 2>/dev/null \
               | jq -e 'type == "array" and length > 0' > /dev/null
@@ -86,8 +86,8 @@ jobs:
             local latest_tag="$3"
 
             gh issue create \
-              --title "Incorporate $repo $latest_tag" \
-              --label dependencies \
+              --title "[UPDATE] Plugin update $repo $latest_tag" \
+              --label enhancement \
               --body "**Plugin**: \`$plugin\`
           **Repo**: \`$repo\`
           **Version**: \`$latest_tag\`
