@@ -1,6 +1,18 @@
 # VATSSA Sector File Development for FASA South Africa
 
-[![latest-version](https://img.shields.io/github/v/release/VATSIM-SSA/sectorfile-fasa?include_prereleases)](https://github.com/VATSIM-SSA/sectorfile-fasa/releases) [![topsky-version](https://img.shields.io/badge/TopSky-2.6b3-blue.svg)](https://forum.vatsim-scandinavia.org/t/topsky) [![gr-version](https://img.shields.io/badge/Ground%20Radar-1.6b3-blue.svg)](https://forum.vatsim-scandinavia.org/t/ground-radar) [![pbflorian-version](https://img.shields.io/badge/PushbackFlorian-1.1.0-blue.svg)](https://github.com/MorpheusXAUT/PushbackFlorian) [![vch-version](https://img.shields.io/badge/vCH-0.8.6-blue.svg)](https://github.com/DrFreas/VCH) [![vfpc-version](https://img.shields.io/badge/vFPC-2.1.1-blue.svg)](https://github.com/hpeter2/VFPC) [![cdm-version](https://img.shields.io/badge/CDM-2.2.8.24-blue.svg)](https://github.com/rpuig2001/CDM) [![RDFPlugin-version](https://img.shields.io/badge/RDFPlugin-v1.4.2-blue.svg)](https://github.com/KingfuChan/RDF)
+[![latest-version](https://img.shields.io/github/v/release/VATSIM-SSA/sectorfile-fasa?include_prereleases)](https://github.com/VATSIM-SSA/sectorfile-fasa/releases)
+[![cdm-version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/main/.github/badges/CDM.json)](https://github.com/rpuig2001/CDM)
+[![discordeuroscope-version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/main/.github/badges/DiscordEuroscope.json)](https://github.com/Kirollos/DiscordEuroscope)
+[![gr-version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/main/.github/badges/GroundRadar.json)](https://forum.vatsim-scandinavia.org/t/topsky)
+[![iassure-version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/main/.github/badges/IASsure.json)](https://github.com/MorpheusXAUT/IASsure)
+[![maestro-version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/main/.github/badges/MAESTRO.json)](https://forum.vatsim-scandinavia.org/t/maestro)
+[![pbflorian-version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/main/.github/badges/PushbackFlorian.json)](https://github.com/MorpheusXAUT/PushbackFlorian)
+[![RDFPlugin-version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/main/.github/badges/RDFPlugin.json)](https://github.com/KingfuChan/RDF)
+[![topsky-version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/main/.github/badges/TopSky.json)](https://forum.vatsim-scandinavia.org/t/topsky)
+[![vacs-version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/main/.github/badges/vacs.json)](https://github.com/vacs-project/vacs/releases)
+[![slots-plugin-version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/main/.github/badges/Slots-Plugin.json)](https://github.com/VATSIMCanada/Slots-Plugin)
+[![vch-version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/main/.github/badges/vCH.json)](https://github.com/DrFreas/VCH)
+[![vfpc-version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fasa/main/.github/badges/vFPC.json)](https://github.com/hpeter2/VFPC)
 
 ## Introduction
 
