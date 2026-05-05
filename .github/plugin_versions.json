@@ -1,10 +1,73 @@
 {
+  "CDM": {
+    "schemaVersion": 1,
+    "label": "CDM",
+    "message": "2.28",
+    "color": "blue",
+    "repo": "rpuig2001/CDM"
+  },
+  "DiscordEuroscope": {
+    "schemaVersion": 1,
+    "label": "DiscordEuroscope",
+    "message": "1.10",
+    "color": "blue",
+    "repo": "Kirollos/DiscordEuroscope"
+  },
+  "GroundRadar": {
+    "schemaVersion": 1,
+    "label": "GroundRadar",
+    "message": "1.6b3",
+    "color": "blue",
+    "repo": "VATSIM-SSA/GroundRadar"
+  },
+  "IASsure": {
+    "schemaVersion": 1,
+    "label": "IASsure",
+    "message": "1.5.0",
+    "color": "blue",
+    "repo": "MorpheusXAUT/IASsure"
+  },
+  "MAESTRO": {
+    "schemaVersion": 1,
+    "label": "MAESTRO",
+    "message": "1.1",
+    "color": "blue",
+    "repo": "VATSIM-SSA/MAESTRO"
+  },
   "PushbackFlorian": {
     "schemaVersion": 1,
     "label": "PushbackFlorian",
-    "message": "1.1.0",
+    "message": "1.1.1",
     "color": "blue",
     "repo": "MorpheusXAUT/PushbackFlorian"
+  },
+  "RDFPlugin": {
+    "schemaVersion": 1,
+    "label": "RDFPlugin",
+    "message": "1.4.3",
+    "color": "blue",
+    "repo": "KingfuChan/RDF"
+  },
+  "Slots-Plugin": {
+    "schemaVersion": 1,
+    "label": "Slots-Plugin",
+    "message": "1.1.11",
+    "color": "blue",
+    "repo": "VATSIMCanada/Slots-Plugin"
+  },
+  "TopSky": {
+    "schemaVersion": 1,
+    "label": "TopSky",
+    "message": "2.6b3",
+    "color": "blue",
+    "repo": "VATSIM-SSA/TopSky"
+  },
+  "vacs": {
+    "schemaVersion": 1,
+    "label": "vacs",
+    "message": "2.3.0",
+    "color": "blue",
+    "repo": "vacs-project/vacs"
   },
   "vCH": {
     "schemaVersion": 1,
@@ -19,19 +82,5 @@
     "message": "2.1.1",
     "color": "blue",
     "repo": "hpeter2/VFPC"
-  },
-  "CDM": {
-    "schemaVersion": 1,
-    "label": "CDM",
-    "message": "2.2.8.24",
-    "color": "blue",
-    "repo": "rpuig2001/CDM"
-  },
-  "RDF": {
-    "schemaVersion": 1,
-    "label": "RDFPlugin",
-    "message": "1.4.2",
-    "color": "blue",
-    "repo": "KingfuChan/RDF"
   }
 }
