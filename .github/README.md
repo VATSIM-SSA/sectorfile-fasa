@@ -35,4 +35,4 @@ The Cape Town and Johannesburg FIRs cover the entire territory of South Africa a
 
 ## How to Contribute
 
-For more information on how to contribute, please refer to VATSSA's Sector File Development Overview Repository [How to Contribute](https://github.com/VATSIM-SSA/sectorfile-overview/wiki/How-to-Contribute) page.
+For more information on how to contribute, please refer to VATSSA's Sector File Development Overview Repository [How to Contribute](https://github.com/JYang365/sectorfile-overview/wiki/How-to-Contribute) page.
