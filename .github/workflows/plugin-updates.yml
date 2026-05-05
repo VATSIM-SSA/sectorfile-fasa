@@ -98,6 +98,8 @@ jobs:
           - \`.github/plugin_versions.json\`
           - \`.github/badges/$plugin/$plugin.json\`
 
+          **NOTE:** TopSky and GroundRadar will require manual intervention to the files noted above. Please edit accordingly.
+
           [Version Release notes](https://github.com/$repo/releases/tag/$latest_tag)"
           }
 
