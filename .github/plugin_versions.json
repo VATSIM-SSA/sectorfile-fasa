@@ -1,0 +1,37 @@
+{
+  "PushbackFlorian": {
+    "schemaVersion": 1,
+    "label": "PushbackFlorian",
+    "message": "1.1.0",
+    "color": "blue",
+    "repo": "MorpheusXAUT/PushbackFlorian"
+  },
+  "vCH": {
+    "schemaVersion": 1,
+    "label": "vCH",
+    "message": "0.8.6",
+    "color": "blue",
+    "repo": "DrFreas/VCH"
+  },
+  "vFPC": {
+    "schemaVersion": 1,
+    "label": "vFPC",
+    "message": "2.1.1",
+    "color": "blue",
+    "repo": "hpeter2/VFPC"
+  },
+  "CDM": {
+    "schemaVersion": 1,
+    "label": "CDM",
+    "message": "2.2.8.24",
+    "color": "blue",
+    "repo": "rpuig2001/CDM"
+  },
+  "RDF": {
+    "schemaVersion": 1,
+    "label": "RDFPlugin",
+    "message": "1.4.2",
+    "color": "blue",
+    "repo": "KingfuChan/RDF"
+  }
+}

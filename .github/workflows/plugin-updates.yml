@@ -1,0 +1,199 @@
+name: 🔍 Check for Plugin Updates
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  check-updates:
+    runs-on: ubuntu-latest
+
+    env:
+      VERSION_FILE: .github/plugin_versions.json
+      BADGES_DIR: .github/badges
+      REPO_OWNER: VATSIM-SSA
+      REPO_NAME: sectorfile-fasa
+
+    steps:
+      - name: 🧰 Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 📦 Install dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y jq gh
+
+      - name: 🔍 Check for new releases
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          # ── Helpers ────────────────────────────────────────────────────────
+
+          strip_v() { sed -E 's/^v//'; }
+
+          fetch_latest_tag() {
+            local repo="$1"
+            local allow_pre="$2"
+            local tag=""
+
+            if [[ "$allow_pre" == "true" ]]; then
+              tag=$(
+                curl -sf "https://api.github.com/repos/$repo/releases" \
+                  | jq -r '[.[] | select(.draft == false) | .tag_name] | first // empty'
+              )
+            else
+              tag=$(
+                curl -sf "https://api.github.com/repos/$repo/releases/latest" \
+                  | jq -r '.tag_name // empty'
+              )
+            fi
+
+            # Fall back to tags if no releases exist
+            if [[ -z "$tag" ]]; then
+              tag=$(
+                curl -sf "https://api.github.com/repos/$repo/tags" \
+                  | jq -r 'if type == "array" and length > 0 then .[0].name else empty end'
+              )
+            fi
+
+            echo "${tag:-v0.0.0}"
+          }
+
+          issue_already_exists() {
+            local repo="$1"
+            local tag="$2"
+
+            gh issue list \
+              --state open \
+              --label dependencies \
+              --search "\"$repo\" \"$tag\"" \
+              --json number 2>/dev/null \
+              | jq -e 'type == "array" and length > 0' > /dev/null
+          }
+
+          create_issue() {
+            local plugin="$1"
+            local repo="$2"
+            local latest_tag="$3"
+
+            gh issue create \
+              --title "Incorporate $repo $latest_tag" \
+              --label dependencies \
+              --body "**Plugin**: \`$plugin\`
+          **Repo**: \`$repo\`
+          **Version**: \`$latest_tag\`
+
+          Please update the plugin DLL to the latest version.
+
+          The following files have been updated automatically. Please ensure that the changes are correct.
+          - \`.github/plugin_versions.json\`
+          - \`.github/badges/$plugin/$plugin.json\`
+
+          [Version Release notes](https://github.com/$repo/releases/tag/$latest_tag)"
+          }
+
+          update_badge() {
+            local plugin="$1"
+            local new_version="$2"
+            local badge_file="$BADGES_DIR/$plugin/$plugin.json"
+
+            if [[ ! -f "$badge_file" ]]; then
+              echo "⚠️  Badge file not found for $plugin — skipping badge update"
+              return
+            fi
+
+            # Strip leading 'v' for display in badge
+            local display_version
+            display_version=$(printf '%s' "$new_version" | strip_v)
+
+            jq --arg v "$display_version" '.message = $v' "$badge_file" > "$badge_file.tmp"
+            mv "$badge_file.tmp" "$badge_file"
+
+            echo "🏷️  Badge updated for $plugin → $display_version"
+          }
+
+          update_version_file() {
+            local plugin="$1"
+            local new_version="$2"
+
+            local display_version
+            display_version=$(printf '%s' "$new_version" | strip_v)
+
+            jq --arg key "$plugin" --arg v "$display_version" \
+              '.[$key].message = $v' "$VERSION_FILE" > "$VERSION_FILE.tmp"
+            mv "$VERSION_FILE.tmp" "$VERSION_FILE"
+
+            echo "📋 Version file updated for $plugin → $display_version"
+          }
+
+          # ── Main loop ──────────────────────────────────────────────────────
+
+          mapfile -t ROWS < <(
+            jq -r '
+              to_entries[]
+              | [
+                  .key,
+                  .value.repo,
+                  (.value.message // "0.0.0"),
+                  (.value.allow_prerelease // false)
+                ]
+              | @tsv
+            ' "$VERSION_FILE"
+          )
+
+          CHANGES_MADE=false
+
+          for row in "${ROWS[@]}"; do
+            plugin=$(cut -f1 <<< "$row")
+            repo=$(cut -f2 <<< "$row")
+            pinned_tag=$(cut -f3 <<< "$row")
+            allow_pre=$(cut -f4 <<< "$row")
+
+            echo "🔎 Checking $plugin ($repo) — pinned: $pinned_tag, allow_prerelease: $allow_pre"
+
+            latest_tag=$(fetch_latest_tag "$repo" "$allow_pre")
+
+            pinned_norm=$(printf '%s' "$pinned_tag" | strip_v)
+            latest_norm=$(printf '%s' "$latest_tag" | strip_v)
+
+            if [[ "$latest_norm" == "$pinned_norm" || "$latest_tag" == "v0.0.0" ]]; then
+              echo "✅ $plugin is up to date ($pinned_tag)"
+              continue
+            fi
+
+            echo "🆕 Update found for $plugin: $pinned_tag → $latest_tag"
+
+            # Update badge JSON and version file
+            update_badge "$plugin" "$latest_tag"
+            update_version_file "$plugin" "$latest_tag"
+            CHANGES_MADE=true
+
+            # Create issue if one doesn't already exist
+            if issue_already_exists "$repo" "$latest_tag"; then
+              echo "⏭️  Issue already open for $repo $latest_tag — skipping"
+              continue
+            fi
+
+            create_issue "$plugin" "$repo" "$latest_tag"
+            echo "📝 Issue created for $plugin $latest_tag"
+          done
+
+          echo "CHANGES_MADE=$CHANGES_MADE" >> "$GITHUB_ENV"
+
+      - name: 📤 Commit and push badge updates
+        if: env.CHANGES_MADE == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .github/badges/ .github/plugin_versions.json
+          git commit -m "chore: auto-update plugin badge versions [skip ci]"
+          git push
