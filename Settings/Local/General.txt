@@ -58,7 +58,7 @@ SET_CapitalizeFPAndScratch:1
 m_SET_WTC_Light:L
 SET_WTC_Medium:M
 SET_WTC_Heavy:H
-SET_WTC_A380:S
+SET_WTC_A380:J
 m_RotateRouteTexts:0
 m_NeverCloseFreqChat:1
 m_KeepScratchPadAfterDirect:1

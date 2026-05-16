@@ -1,0 +1,12 @@
+{
+  "FASA": {
+    "Radius": 50,
+    "Precision": 5,
+    "Threshold": 999999,
+    "LowAltitude": 0,
+    "RGB": "72:144:231",
+    "ConcurrentTransmissionRGB": "72:144:231",
+    "DrawControllers": false,
+    "DrawRequireTx": false
+  }
+}
