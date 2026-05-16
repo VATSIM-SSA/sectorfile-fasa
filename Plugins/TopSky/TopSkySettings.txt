@@ -3,8 +3,8 @@
 // ##################################################################
 
 // Version v1.0
-// TopSky v2.6b1
-// Update Date 28/02/2026
+// TopSky v2.6b3
+// Update Date 20/03/2026
 
 
 // ##################################################################
@@ -23,7 +23,7 @@ System_GUI_Scale_Windows=1.1
 System_MetarSourceVATSIM=1
 System_TransferConfirmation=0
 
-Airspace_AOR_Airports=FA,FX
+Airspace_AOR_Airports=FA,FX,FD
 
 // ##################################################################
 //                 #2 RUNWAY APPORACH LINES
@@ -87,7 +87,7 @@ WXR_Longitude=28
 WXR_Longitude_Max=40
 WXR_Longitude_Min=8
 WXR_ImageSize=512
-Color_Weather_Map=9,18,20
+Color_Weather_Map=86,150,238
 
 HTTP_GRIB_Latitude_Max=-22
 HTTP_GRIB_Latitude_Min=-37
@@ -189,7 +189,8 @@ APW_ConflictCount=4
 //                 #14 RDF
 // ##################################################################
 
-RDF_Mode=2
+RDF_Mode=-1
+RDF_Accuracy=5
 RDF_Floor=0
 Color_Standard_Line_RDF=72,144,231
 
@@ -263,8 +264,30 @@ MTCD_Sep_Lat=5
 MTCD_Distance_Arr=10
 MTCD_Distance_Dep=5
 
+BlindSpot=1
+
 // ##################################################################
-//                 #20 SHORTCUTS
+//                 #20 TCT
+// ##################################################################
+
+TCT_Floor=5600
+TCT_Min_State_Source=3
+TCT_ConflictCount=5
+TCT_AHDG_Reaction_Time=25
+TCT_AHDG_Max_Time=45
+TCT_Track_Tolerance=2
+
+TCT_BS_Min_VS_Climb=600,100
+TCT_BS_Min_VS_Descent=600,100
+TCT_BS_Max_VS_Climb=2500,8000
+TCT_BS_Max_VS_Descent=2500,8000
+TCT_BS_VS_Climb_Threshold=800,8000
+TCT_BS_VS_Descent_Threshold=800,8000
+TCT_BS_Min_VS_Ratio=0.66,1
+TCT_BS_Max_VS_Ratio=0.66,1
+
+// ##################################################################
+//                 #21 SHORTCUTS
 // ##################################################################
 
 Shortcut_Master=1
@@ -282,7 +305,7 @@ Shortcut_Map_Target=2,ENROUTE\RANGERINGS
 Shortcut_Map_Xfr_Key=2,0x4E ; N
 
 // ##################################################################
-//                 #21 STCA
+//                 #22 STCA
 // ##################################################################
 
 STCA=1
@@ -294,7 +317,7 @@ STCA_AlertSound_Filter=2
 STCA_WakeTurbulenceType=0
 
 // ##################################################################
-//                 #22 TRACK CONTROL
+//                 #23 TRACK CONTROL
 // ##################################################################
 
 /Track Control
@@ -313,7 +336,7 @@ Vector_QDM_Fixes=1
 Vector_AHDG_Label_Dir=1
 
 // ##################################################################
-//                 #23 CPDLC
+//                 #24 CPDLC
 // ##################################################################
 
 CPDLC_Default=1
@@ -335,7 +358,7 @@ CPDLC_AHDG=1
 CPDLC_ASP=1
 
 // ##################################################################
-//                 #23 WINDOWS
+//                 #25 WINDOWS
 // ##################################################################
 
 Window_CPDLC_Current=1,1800,43
@@ -347,7 +370,7 @@ Window_PDC_SetASSR=1
 Window_PDC_SetCFL=1
 
 // ##################################################################
-//                   #24 SYS COORD SOUNDS v0.1
+//                   #26 SYS COORD SOUNDS v0.1
 // ##################################################################
 
 System_Coord_Sound_ROF=1
@@ -362,7 +385,7 @@ System_Coord_Sound_TIP_RJC=1
 Window_UpperWinds=0,2316,262
 
 // ##################################################################
-//                   #25 SID STAR HIDING
+//                   #27 SID STAR HIDING
 // ##################################################################
 
 Airspace_Hide_SID_Names=VASUR3A,RAGUL3A,EXOBI1A,VASUR3B,RAGUL3B,EXOBI3B,APDAK1D,EGMEN1D,LIV1C,HGV5D,GAV6C,OVALA1B,APDAK2B,EGMEN2B,EGMEN1C,GAV5B,NESAN1A,APDAK3A,EGMEN2A,OKTIG1B,TETAN1A,KODES1A,IMSOM1A,TETAN1A,TETAN1B,IMSOM1B,OKTED1B,OKTED1C,OVALA03,OVALA,BLV02,BLV20,BLV12,BLV30,TETAN01,OKTED01,KODES01,ELV06,ELV24,ELV11,ELV29,GRV11,GRV29,HSV09,HSV27,HSV18,HSV36,KYV02,KYV20,KYV10,KYV28,PKV05,PKV23,OKTAN06,ITMIL24,PMV06,PMV24,PEV08,PEV24,LTV08,LTV26,LYV05,LYV23,PMV16,PMV34,RBV05,RBV23,UMVET17,UMVET35,UPV17,UPV35,OKREV14,OKREV32,GYV05,GYV23,RAGUL17,RAGUL35,JSV17,JSV35,XAGEN07,XAGEN25,JSV07,JSV25,GAV07,GAV25,OKPAG1A,OKPAG1B,UNRAG1A,KODES19,GYV1A,GYV2B,ITMIL1C,OKTAN1A,TUBIN1A,TUBIN1B
@@ -370,7 +393,7 @@ Airspace_Hide_SID_Names=VASUR3A,RAGUL3A,EXOBI1A,VASUR3B,RAGUL3B,EXOBI3B,APDAK1D,
 Airspace_Hide_STAR_Names=STV5B,WIV3C,NIBEX2C,AVAGO2B,AVILO1A,WIV4A,STV6A,NIBEX2A,AVAGO2A,UTONU1A,ERDAS1B,GETEN1B,ASPIK1B,XALIN1B,AXEMU1A,GABGO1A,GABGO1B,EVESI1A,IBKEL1A,IBKEL1B,APMAT1A,APMAT1B,DUNSA1A,DUNSA1B,GETOK1C,GETOK1D,ITMIL1A,ITMIL1B
 
 // ##################################################################
-//                 #26 POSITION SPECIFIC
+//                 #28 POSITION SPECIFIC
 // ##################################################################
 
 [_CTR]
