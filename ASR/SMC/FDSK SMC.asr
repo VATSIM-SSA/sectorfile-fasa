@@ -3,7 +3,6 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Geo:FDSK Groundlayout Ground Markers:
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -21,6 +20,5 @@ WINDOWAREA:-26.369840:31.689828:-26.346362:31.738059
 PLUGIN:Ground Radar plugin:AirportElevation:1092
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:FDSK
-PLUGIN:TopSky plugin:HideMapData:ICAO
 PLUGIN:TopSky plugin:NoDraw:1
 PLUGIN:TopSky plugin:ShowMapData:FDSK
