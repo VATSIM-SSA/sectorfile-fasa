@@ -242,7 +242,7 @@ Menu_DAPs=1
 // ##################################################################
 
 List_Holding_Plugin=1
-List_OptionsInGlobalMenu=1
+List_OptionsInGlobalMenu=0
 List_Sector_Concerned=1
 List_Sector_Informed=1
 List_Sector_Redundant=1
