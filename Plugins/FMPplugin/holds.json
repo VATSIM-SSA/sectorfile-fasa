@@ -1,0 +1,78 @@
+{
+  "FACT": [
+    {
+      "fix": "CTV",
+      "inbound_track": 9,
+      "turn": "LEFT",
+      "alt_ft": 3000,
+      "legs_nm": 10,
+      "note": "Cape Town VOR holding"
+    },
+    {
+      "fix": "CB",
+      "inbound_track": 189,
+      "turn": "LEFT",
+      "alt_ft": 4000,
+      "legs_nm": 10,
+      "note": "RWY 19"
+    },
+    {
+      "fix": "EKBEV",
+      "inbound_track": 100,
+      "turn": "RIGHT",
+      "alt_ft": 6100,
+      "legs_nm": 10,
+      "note": "RNAV GNSS RWY 01"
+    },
+    {
+      "fix": "UTREV",
+      "inbound_track": 100,
+      "turn": "RIGHT",
+      "alt_ft": 6100,
+      "legs_nm": 10,
+      "note": "RNAV GNSS RWY 19"
+    },
+    {
+      "fix": "DUGLU",
+      "inbound_track": 135,
+      "turn": "RIGHT",
+      "alt_ft": 6100,
+      "legs_nm": 10,
+      "note": "RNAV RNP RWY 01, 19 and 34"
+    }
+  ],
+  "FAOR": [
+    {
+      "fix": "AVAGO",
+      "inbound_track": 141,
+      "turn": "LEFT",
+      "alt_ft": 11000,
+      "legs_nm": 10,
+      "note": "AVAGO 1C holding"
+    },
+    {
+        "fix": "NIBEX",
+        "inbound_track": 35,
+        "turn": "RIGHT",
+        "alt_ft": 11000,
+        "legs_nm": 10,
+        "note": "NIBEX 1B holding"
+    },
+    {
+        "fix": "UNPOM",
+        "inbound_track": 311,
+        "turn": "RIGHT",
+        "alt_ft": 11000,
+        "legs_nm": 10,
+        "note": "UNPOM 1A holding"
+    },
+    {
+        "fix": "OKPIT",
+        "inbound_track": 233,
+        "turn": "RIGHT",
+        "alt_ft": 11000,
+        "legs_nm": 10,
+        "note": "OKPIT 1C holding"
+    }
+  ]
+}
